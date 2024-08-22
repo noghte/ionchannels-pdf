@@ -61,7 +61,7 @@ for pdf_file in os.listdir(PDF_DIR):
         docs.append(pdf_path)
 
 # iterate over data.csv
-df = pd.read_csv('human_IC_annotation_sample.csv')
+df = pd.read_csv('human_IC_annotation_sample.csv',dtype=object, encoding='utf-8')
 
 for index, row in df.iterrows():
     uniprot_id = row["Uniprot"].strip()
@@ -95,7 +95,7 @@ for index, row in df.iterrows():
 
 
     assistant.reset() # to forget previous conversations
-    ion = row["Ion"].stript()
+    ion = row["Ion"].strip()
     family = row["Family"].strip()
     gate_mechanism = row["GateMechanism"].strip()
     query1 = f"Is there any evidence that `{ion}` is the ion selectivity of the `{family}` ion channel?"
