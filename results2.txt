@@ -1,0 +1,210 @@
+UniProt: Q14722
+PubMed: 7499366
+Query 1: Is there any evidence that `potassium` is the ion selectivity of the `Voltage-gated potassium channel subunit beta-1(symbol: KCNA1B)` ion channel?
+Results 1: Answer: Yes
+Confidence: 1
+Evidence:
+1. Voltage-gated potassium channels selectively conduct K1 ions, specifying that KCNA1B is potassium-selective.
+   > "K1 channels are membrane± spanning proteins that selectively conduct K1 ions across the cell membrane."
+2. The context clearly indicates that potassium channels specifically allow potassium ion permeability.
+   > "Potassium channels... selectively conduct K1 ions... K1 ions as permeate ion species; (3) a gating mechan-Gene 268 (2001)"
+Query 2: Does this article provide evidence for `voltage-gated (auxiliary)` as the gate mechanism for the `K channel auxiliary` ion channel?
+Results 2: 1. Answer: No
+2. Confidence: 0.8
+3. Evidence:
+- Your question refers to "voltage-gated (auxiliary)" which is a mechanism not explicitly supported in the given context.
+- "One family of K 1 channel a -subunits, comprising multiple genes, is activated on depolarization of the cell membrane and shows inactivation with variable time and voltage dependence depending on the gene involved."
+- "These channels are termed voltage-gated delayed rectifiers because of their short delay in activation after membrane depolarization."
+
+---------------------------------------------
+UniProt: Q96RP8
+PubMed: 11368907
+Query 1: Is there any evidence that `potassium` is the ion selectivity of the `Potassium voltage-gated channel subfamily A member 7(symbol: KCNA7)` ion channel?
+Results 1: Answer: Yes  
+Confidence: 1  
+Evidence:  
+- The text confirms that Kv1.7 channels are potassium channels with a pore region allowing selective conduction of K1 ions across cell membranes.  
+*"K1channels are membrane± spanning proteins that selectively conduct K1ions across the cell membrane."*  
+- Additional description highlights that Kv1.7 channels conduct potassium ions upon membrane depolarization.  
+*"Membrane depolarization activates voltage-gated potassium channels that, once opened, conduct potassium ions along the concentration gradient against the electric ®eld."*
+Query 2: Does this article provide evidence for `voltage-gated` as the gate mechanism for the `K_V` ion channel?
+Results 2: Answer: Yes  
+Confidence: 1  
+Evidence: 
+1. The canine Kv1.7 gene analysis establishes a strong resemblance to murine voltage-gated potassium channel protein Kv1.7.
+   > "The predicted product exhibits 91% amino acid identity to the murine voltage-gated potassium channel protein Kv1.7... the human gene has been classified as the ortholog of the mouse Kcna7..."
+2. Voltage-gated potassium channels are activated by membrane depolarization.
+   > "Membrane depolarization activates voltage-gated potassium channels that, once opened, conduct potassium ions..."
+3. Kv1.7 is described explicitly as a member of the voltage-gated potassium channel family.
+   > "the human voltage-gated potassium channel protein family."
+
+---------------------------------------------
+UniProt: B7ZAQ6
+PubMed: 12761501
+Query 1: Is there any evidence that `anion` is the ion selectivity of the `Golgi pH regulator A(symbol: GPR89A (GPHRA, GPR89, SH120))` ion channel?
+Results 1: Answer: No
+
+Confidence: 0.9
+
+Evidence: 
+1. The document does not describe ion selectivity specifically for GPR89A ion channels.
+2. "CLIC4 ion channels in fully-reducing conditions...relative anion permeabilities calculated from the equilibrium potential."
+
+Query 2: Does this article provide evidence for `voltage-gated` as the gate mechanism for the `TRP` ion channel?
+Results 2: No
+
+0.3
+
+- The article focuses on modulation of channel gating by Ca_v subunits, not specifically on voltage-gated mechanisms or TRP ion channels.
+- "Functional effects of short Ca_v subunits on Ca2+ channel gating" does not equate to voltage-gated mechanisms for TRP channels.
+
+"Functional effects of short Ca v/H9252subunits on Ca2/H11001channel gating."
+"Our data suggest that Ca v/H92521dhas no detectable effect on membrane trafficking."
+
+---------------------------------------------
+UniProt: Q9Y696
+PubMed: 17453412
+Query 1: Is there any evidence that `chloride` is the ion selectivity of the `Chloride intracellular channel protein 4(symbol: CLIC4)` ion channel?
+Results 1: **Answer:** No  
+**Confidence:** 1  
+**Evidence:**   
+1. The selectivity ratio of Cl/K is 0.54 ± 0.09, indicating the channel is poorly selective or mildly cation-selective.
+2. “...corresponding to a mean Cl/K selectivity of 0.54 ± 0.09, i.e., a poorly selective or even mildly cation-selective channel.”
+Query 2: Does this article provide evidence for `voltage-gated, pH sensitive` as the gate mechanism for the `CLIC` ion channel?
+Results 2: No
+
+0.9
+
+1. The gate mechanism being investigated is "redox-regulated" rather than voltage-gated or pH-sensitive.
+   - "we set out to investigate the single channel properties of CLIC4 under various redox conditions"
+2. No specific mention of voltage-gated or pH-sensitive mechanisms for the CLIC ion channel in the provided context.
+   - Whole context lacks mention of voltage-gated or pH-sensitive mechanisms.
+
+---------------------------------------------
+UniProt: Q9BQ31
+PubMed: 10484328
+Query 1: Is there any evidence that `potassium` is the ion selectivity of the `Potassium voltage-gated channel subfamily S member 3(symbol: KCNS3)` ion channel?
+Results 1: Answer: No  
+Confidence: 0.9  
+Evidence:
+1. No evidence in the provided context directly links KCNS3 to potassium ion selectivity.  
+2. The context primarily discusses different potassium channels but does not mention KCNS3 or its ion selectivity.
+Query 2: Does this article provide evidence for `voltage-gated` as the gate mechanism for the `K_V` ion channel?
+Results 2: Answer: Yes  
+Confidence: 1  
+Evidence: 
+1. The canine Kv1.7 gene analysis establishes a strong resemblance to murine voltage-gated potassium channel protein Kv1.7.
+   > "The predicted product exhibits 91% amino acid identity to the murine voltage-gated potassium channel protein Kv1.7... the human gene has been classified as the ortholog of the mouse Kcna7..."
+2. Voltage-gated potassium channels are activated by membrane depolarization.
+   > "Membrane depolarization activates voltage-gated potassium channels that, once opened, conduct potassium ions..."
+3. Kv1.7 is described explicitly as a member of the voltage-gated potassium channel family.
+   > "the human voltage-gated potassium channel protein family."
+
+---------------------------------------------
+UniProt: Q70Z44
+PubMed: 12801637
+Query 1: Is there any evidence that `cation, nonselective` is the ion selectivity of the `5-hydroxytryptamine receptor 3D(symbol: HTR3D)` ion channel?
+Results 1: No
+
+0.7
+
+1. The context questions the functional ability of 5-HT3D to form a ion channel.
+   - "This raises the question of whether the 5-HT 3D subunit itself is able to form a functional ion channel."
+
+2. Comparative expression analysis suggests possible complexity but does not confirm ion selectivity.
+   - "We consider it likely that different subunit compositions of HTR3C, D, E as well as HTR3A and B in the 5-HT 3 receptor contribute to the complexity of the 5-HT 3 receptor system and therefore explain the varying properties of the respective proteins in different tissues."
+
+Query 2: Does this article provide evidence for `ligand-gated (serotonin)` as the gate mechanism for the `5-HT3 receptor` ion channel?
+Results 2: Answer: Yes  
+Confidence: 0.9  
+Evidence:
+1. The context mentions the ligand-binding capacity of certain subunits.  
+"In contrast, the architecture of the putative5-HT 3Dsubunit is different. It lacks the signal leader sequence and the large N-terminal loop which includes theligand binding site."
+2. It refers to the 5-HT3 receptor as a ligand-gated ion channel.  
+"Except for the 5-HT 3 receptor, which is a ligand-gated ion channel, all serotonin receptors represent G-proteincoupled binding proteins."
+
+---------------------------------------------
+UniProt: Q9H3M0
+PubMed: 12445884
+Query 1: Is there any evidence that `potassium` is the ion selectivity of the `Potassium voltage-gated channel subfamily F member 1(symbol: KCNF1)` ion channel?
+Results 1: Answer: Yes
+
+Confidence: 0.9
+
+Evidence:
+1. The channel is a structurally typical potassium channel with features specifying selectivity for potassium ions.
+2. "A structural prediction identified a pore region characteristic of potassium channels and six membrane-spanning domains."
+3. "K1channels are membrane±spanning proteins that selectively conduct K1ions across the cell membrane."
+Query 2: Does this article provide evidence for `voltage-gated` as the gate mechanism for the `K_V` ion channel?
+Results 2: Answer: Yes  
+Confidence: 1  
+Evidence: 
+1. The canine Kv1.7 gene analysis establishes a strong resemblance to murine voltage-gated potassium channel protein Kv1.7.
+   > "The predicted product exhibits 91% amino acid identity to the murine voltage-gated potassium channel protein Kv1.7... the human gene has been classified as the ortholog of the mouse Kcna7..."
+2. Voltage-gated potassium channels are activated by membrane depolarization.
+   > "Membrane depolarization activates voltage-gated potassium channels that, once opened, conduct potassium ions..."
+3. Kv1.7 is described explicitly as a member of the voltage-gated potassium channel family.
+   > "the human voltage-gated potassium channel protein family."
+
+---------------------------------------------
+UniProt: Q9Y5S1
+PubMed: 10201375
+Query 1: Is there any evidence that `non-selective cation` is the ion selectivity of the `Transient receptor potential cation channel subfamily V member 2(symbol: TRPV2 (VRL))` ion channel?
+Results 1: Answer: No  
+Confidence: 1  
+Evidence: 
+
+1. Reasoning: The context discusses various experimental conditions and selectivity of different ion channels but does not mention TRPV2 or provide evidence regarding its ion selectivity.
+2. Original Text: "the protein formed highly consistent channels in 80/83 bilayers containing POPE, POPS and cholesterol, 4:1:1 mol/mol, respectively, in the presence of 1 mM DTT... corresponding to a mean Cl/K selectivity of 0.54 9/0.09, i.e., a poorly selective or even mildly cation-selective channel."
+Query 2: Does this article provide evidence for `voltage-gated (outward recitfier)` as the gate mechanism for the `VGIC unclassified` ion channel?
+Results 2: Answer: No  
+Confidence: 0.8  
+Evidence:
+1. The context describes detailed investigations and characterizations of Kv channels, particularly its subunits' impact on rectification and channel functions.
+2. However, it does not directly mention the gating mechanism for the VGIC unclassified ion channel as "voltage-gated (outward rectifier)."
+
+> "In addition, analysis of the mechanisms bywhich Kv b1.3 alters the voltage sensitivity, inactivation, and rectification of Kv1.5 will advance our understanding of Kvchannel function."
+> "We describe the cloning and characterization of the ﬁrst humanmembers, hKv9.1 and hKv9.3, of the electrically silent de-layed-rectifying-like K 1channel subfamily."
+
+---------------------------------------------
+UniProt: Q02641
+PubMed: 15615847
+Query 1: Is there any evidence that `calcium` is the ion selectivity of the `Voltage-dependent L-type calcium channel subunit beta-1(symbol: CACNB1)` ion channel?
+Results 1: No
+
+0.7
+
+1. The provided context does not specifically discuss the ion selectivity of the CACNB1 subunit.
+2. It contains references on the functional effects and interaction of beta subunits but not their specific selectivity for calcium ions.
+
+"There were no significant differences among groups for single-channel conductance."
+"Lacerda AE, Kim HS, Ruth P, et al. (1991). Normalization of current kinetics by interaction between the alpha 1 and beta subunits of the skeletal muscledihydropyridine-sensitive Ca2/H11001channel."
+Query 2: Does this article provide evidence for `voltage-gated (auxiliary)` as the gate mechanism for the `Auxiliary unclassified` ion channel?
+Results 2: No
+
+0.8
+
+1. The text does not contain explicit references to "voltage-gated (auxiliary)" or "Auxiliary unclassified" ion channels.
+2. The provided context discusses various ion channels and gating mechanisms but does not specifically mention the gate mechanism for the "Auxiliary unclassified" ion channel.
+
+---------------------------------------------
+UniProt: Q13303
+PubMed: 7649300
+Query 1: Is there any evidence that `potassium` is the ion selectivity of the `Voltage-gated potassium channel subunit beta-2(symbol: KCNAB2 (KCNA2B, KCNK2))` ion channel?
+Results 1: No
+
+0.7
+
+1. The context discusses the role of potassium in Kv1.7 but not specifically in the voltage-gated potassium channel subunit beta-2 (KCNAB2).
+2. The evidence provided only relates to the Kv1.7 gene (KCNA7), which pertains to voltage-gated potassium channels generally.
+
+
+Query 2: Does this article provide evidence for `voltage-gated (auxiliary)` as the gate mechanism for the `K channel auxiliary` ion channel?
+Results 2: 1. Answer: No
+2. Confidence: 0.8
+3. Evidence:
+- Your question refers to "voltage-gated (auxiliary)" which is a mechanism not explicitly supported in the given context.
+- "One family of K 1 channel a -subunits, comprising multiple genes, is activated on depolarization of the cell membrane and shows inactivation with variable time and voltage dependence depending on the gene involved."
+- "These channels are termed voltage-gated delayed rectifiers because of their short delay in activation after membrane depolarization."
+
+---------------------------------------------

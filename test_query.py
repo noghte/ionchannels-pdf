@@ -32,7 +32,7 @@ llm_config = {
 }
 assistant = AssistantAgent(
     name="assistant",
-    system_message="You are a helpful assistant. You have one job. Job 1. When receiving a message from the user, it is your responsibility to provide an evidence-based answer. Your response must be in 3 lines. 1: 'answer', 2:'confidence', 3:'evidence'. The 'answer' line contain the answer to the user's question as one word of 'Yes' or 'No'. The 'confidence' line must contain a value between 0 and 1, where 1 indicates the highest confidence. The 'evidence' line must contain a list of evidence supporting the answer from documents including the original text. Each piece of evidence have the following keys: 'text', 'source'. If you don't know the answer, just say `No` as the answer. Don't try to make up an answer if you cannot find the evidence in the provided context.",
+    system_message="You are a helpful assistant. When receiving a message from the user, it is your responsibility to provide an evidence-based answer. Your response must be in 3 lines. 1: 'answer', 2:'confidence', 3:'evidence'. The 'answer' line contain the answer to the user's question as one word of 'Yes' or 'No'. The 'confidence' line must contain a value between 0 and 1, where 1 indicates the highest confidence. The 'evidence' line must contain a list of evidence supporting the answer from the provided documents. Each piece of evidence has two lines: 1. your rationale in answering the user question. 2. the orginal texts you decided based on that. If you don't know the answer, just say `No` as the answer. Don't try to make up an answer if you cannot find the evidence in the provided context.",
     llm_config=llm_config,
 )
 
@@ -115,6 +115,6 @@ for index, row in df.iterrows():
         f.write(f"Query 1: {query1}\n")
         f.write(f"Results 1: {chat_results1.summary}\n")
         f.write(f"Query 2: {query2}\n")
-        f.write(f"Results 1: {chat_results2.summary}\n")
+        f.write(f"Results 2: {chat_results2.summary}\n")
         f.write("\n")
         f.write("---------------------------------------------\n")
