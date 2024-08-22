@@ -1,11 +1,11 @@
-Uniprot,Ion,Gate Mechanism,PuMed
-Q14722,potassium ,voltage-gated (auxiliary),7499366
-Q96RP8,potassium ,voltage-gated,11368907
-B7ZAQ6,anion ,voltage-gated,12761501
-Q9Y696,chloride,"voltage-gated, pH sensitive",17453412
-Q9BQ31,potassium ,voltage-gated,10484328
-Q70Z44,"cation, nonselective",ligand-gated (serotonin),12801637
-Q9H3M0,potassium ,voltage-gated,12445884
-Q9Y5S1,non-selective cation,voltage-gated (outward recitfier),10201375
-Q02641,calcium,voltage-gated (auxiliary),15615847
-Q13303,potassium ,voltage-gated (auxiliary),7649300
+Uniprot,Ion,Family,Gate Mechanism,PuMed
+Q14722,potassium ,K channel auxiliary,voltage-gated (auxiliary),7499366
+Q96RP8,potassium ,K_V,voltage-gated,11368907
+B7ZAQ6,anion ,TRP,voltage-gated,12761501
+Q9Y696,chloride,CLIC,"voltage-gated, pH sensitive",17453412
+Q9BQ31,potassium ,K_V,voltage-gated,10484328
+Q70Z44,"cation, nonselective","5-HT3 receptor",ligand-gated (serotonin),12801637
+Q9H3M0,potassium ,K_V,voltage-gated,12445884
+Q9Y5S1,non-selective cation,VGIC unclassified,voltage-gated (outward recitfier),10201375
+Q02641,calcium,Auxiliary unclassified,voltage-gated (auxiliary),15615847
+Q13303,potassium ,K channel auxiliary,voltage-gated (auxiliary),7649300
