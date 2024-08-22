@@ -97,11 +97,15 @@ for index, row in df.iterrows():
     assistant.reset() # to forget previous conversations
     ion = row["Ion"].stript()
     family = row["Family"].strip()
+    ionchannel_name = row["IonChannelName"].strip()
+    ionchannel_symbol = row["IonChannelSymbol"].strip()
     gate_mechanism = row["GateMechanism"].strip()
-    query1 = f"Is there any evidence that `{ion}` is the ion selectivity of the `{family}` ion channel?"
+    # query1 = f"Is there any evidence that `{ion}` is the ion selectivity of the `{family}` ion channel?"
+    query1 = f"Is there any evidence that `{ion}` is the ion selectivity of the `{ionchannel_name}(symbol: {ionchannel_symbol})` ion channel?"
+
     chat_results1 = ragproxyagent.initiate_chat(assistant, message=ragproxyagent.message_generator, problem=query1)
     
-    query = " voltage-gated mechanism for the K_V ion channel?"
+
     query2 = f"Does this article provide evidence for `{gate_mechanism}` as the gate mechanism for the `{family}` ion channel?"
     chat_results2 = ragproxyagent.initiate_chat(assistant, message=ragproxyagent.message_generator, problem=query2)
     #print(chat_results.summary)
