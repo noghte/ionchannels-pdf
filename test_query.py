@@ -106,7 +106,7 @@ for index, row in df.iterrows():
     chat_results1 = ragproxyagent.initiate_chat(assistant, message=ragproxyagent.message_generator, problem=query1)
     
 
-    query2 = f"Does this article provide evidence for `{gate_mechanism}` as the gate mechanism for the `{family}` ion channel?"
+    query2 = f"Does this article provide evidence for `{gate_mechanism}` as the gating mechanism for the `{family}` ion channel?"
     chat_results2 = ragproxyagent.initiate_chat(assistant, message=ragproxyagent.message_generator, problem=query2)
     #print(chat_results.summary)
     with open('results.txt', 'a') as f:
