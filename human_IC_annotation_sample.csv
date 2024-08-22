@@ -1,11 +1,11 @@
-Uniprot,Ion,Family,GateMechanism,PubMed
-Q14722,potassium ,K channel auxiliary,voltage-gated (auxiliary),7499366
-Q96RP8,potassium ,K_V,voltage-gated,11368907
-B7ZAQ6,anion ,TRP,voltage-gated,12761501
-Q9Y696,chloride,CLIC,"voltage-gated, pH sensitive",17453412
-Q9BQ31,potassium ,K_V,voltage-gated,10484328
-Q70Z44,"cation, nonselective","5-HT3 receptor",ligand-gated (serotonin),12801637
-Q9H3M0,potassium ,K_V,voltage-gated,12445884
-Q9Y5S1,non-selective cation,VGIC unclassified,voltage-gated (outward recitfier),10201375
-Q02641,calcium,Auxiliary unclassified,voltage-gated (auxiliary),15615847
-Q13303,potassium ,K channel auxiliary,voltage-gated (auxiliary),7649300
+Uniprot,IonChannelName, IonChannelSymbol, Ion,Family,GateMechanism,PubMed
+Q14722,Voltage-gated potassium channel subunit beta-1 , KCNA1B, potassium ,K channel auxiliary,voltage-gated (auxiliary),7499366
+Q96RP8,Potassium voltage-gated channel subfamily A member 7,KCNA7 ,potassium ,K_V,voltage-gated,11368907
+B7ZAQ6,Golgi pH regulator A,"GPR89A (GPHRA, GPR89, SH120)",anion ,TRP,voltage-gated,12761501
+Q9Y696,Chloride intracellular channel protein 4,CLIC4,chloride,CLIC,"voltage-gated, pH sensitive",17453412
+Q9BQ31,Potassium voltage-gated channel subfamily S member 3,KCNS3,potassium ,K_V,voltage-gated,10484328
+Q70Z44,5-hydroxytryptamine receptor 3D,HTR3D,"cation, nonselective","5-HT3 receptor",ligand-gated (serotonin),12801637
+Q9H3M0,Potassium voltage-gated channel subfamily F member 1,KCNF1,potassium ,K_V,voltage-gated,12445884
+Q9Y5S1,Transient receptor potential cation channel subfamily V member 2,TRPV2 (VRL),non-selective cation,VGIC unclassified,voltage-gated (outward recitfier),10201375
+Q02641,Voltage-dependent L-type calcium channel subunit beta-1,CACNB1,calcium,Auxiliary unclassified,voltage-gated (auxiliary),15615847
+Q13303,Voltage-gated potassium channel subunit beta-2,"KCNAB2 (KCNA2B, KCNK2)",potassium ,K channel auxiliary,voltage-gated (auxiliary),7649300
