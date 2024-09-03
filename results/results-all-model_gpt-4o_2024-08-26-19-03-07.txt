@@ -1,0 +1,1637 @@
+UniProt: Q14722
+Original PubMed: 7499366
+Query 1: Is there any evidence that `potassium` is the ion selectivity of the `Voltage-gated potassium channel subunit beta-1 (symbol(s): KCNA1B)` ion channel?
+Results 1: Response: 1. 'answer': Evidence Not Found
+2. 'confidence': 0.9
+3. 'evidence': The provided context does not mention the Voltage-gated potassium channel subunit beta-1 (KCNA1B) specifically in relation to ion selectivity for potassium.
+
+****Metadata****
+Scores:
+pubmedid: 14618155, score: 0.6523656959636331
+
+pubmedid: 11368907, score: 0.635518798056454
+
+pubmedid: 35788586, score: 0.6078613569637987
+
+Relevant Chunks:
+pubmed: 14618155, text: Ion selectivity and permeation
+All K+ channels can discriminate between K+ and Na+,
+the most abundant alkali metal ions in nature. Without
+such ion selectivity, channels would not be able to 
+generate electrical signals. Selectivity for K+ is conferred
+by the selectivity filter, defined as the narrowest part of
+the conduction pathway in the open channel (FIG. 1c).
+In all K+ channel crystal structures solved so far, the main-
+chain carbonyl oxygens of the conserved K+ channel 
+signature  sequence  (TXGYG  or  TXGFG), which  is
+located in the P-loop, form the selectivity filter (FIG. 3).
+Point mutations in the K+ channel signature sequence
+abolish K+ selectivity16. At the phenotypic level, this loss
+of K+ selectivity is linked to the movement disorder that
+is observed in weaver mice17–20.
+
+pubmed: 11368907, text: Potassium channels, the largest sub-family of the ion
+channel superfamily, play important roles in a wide variety
+of cells. Members of this channel family play critical roles
+in cellular signalling processes regulating neurotransmitter
+release, heart rate, insulin secretion, neuronal excitability,
+epithelial electrolyte transport, smooth muscle contraction,
+and cell volume regulation. K1 channels are membrane–
+spanning proteins that selectively conduct K1 ions across
+the cell membrane. Membrane depolarization activates
+that, once opened,
+voltage-gated potassium channels
+conduct potassium ions along the concentration gradient
+against the electric ﬁeld. This outward current leads to repo-
+larization of the membrane. To accomplish this, K1 chan-
+nels are endowed with a set of features: (1) a water-ﬁlled
+permeation pathway (pore) that allows K1 ions to ﬂow
+across the cell membrane; (2) a selectivity ﬁlter that speci-
+ﬁes K1 ions as permeate ion species; (3) a gating mechan-
+
+pubmed: 35788586, text: Kv1.3 is one of eight members of the mammalian Kv1 family of
+Kv channels and the only one expressed on human T cells1,4,17,18.
+The Kv1 channels are tetramers and each subunit has a large
+cytoplasmic domain called T1, and six transmembrane helices
+called S1-S6, with S1-S4 forming a voltage-sensing domain (VSD)
+and S5-S6 forming the ion conducting pore domain19–23. The S5-
+S6 region harbors the P-loop, which in turn contains the highly
+conserved selectivity ﬁlter responsible for coordinating K+ ions
+and maintaining K+ permeation24. The selectivity ﬁlter contains
+the TXGYG motif which is highly conserved in potassium
+channels and is known as the potassium channel signature
+sequence25. The ﬁlter is structured with the backbone carbonyls
+of the signature sequence directed into the pore along the four-
+fold symmetry axis of the channel26. The structure formed by the
+carbonyls is evolved to precisely coordinate dehydrated K+ ions
+and select for potassium over sodium27. Structures of potassium
+channels most commonly show the selectivity ﬁlter coordinating
+up to four K+ ions with additional K+ ions in the cavity below
+the ﬁlter, or situated above the ﬁlter19,21,24,26. The four S6 helices
+in a tetramer come together on the intracellular side of the
+membrane to form the internal gate. The gate is closed when the
+cell
+is at rest but upon membrane depolarization the VSDs
+undergo a conformational change that opens the gate and allows
+K+ ion efﬂux28–30.
+Query 2: Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `Voltage-gated potassium channel subunit beta-1 (symbol(s): KCNA1B)` ion channel?
+Results 2: Response: 1. 'answer': Evidence Not Found
+2. 'confidence': 0.8
+3. 'evidence': The context discusses the gating mechanism of voltage-gated potassium (Kv) channels in general and mentions the KCNA1 gene but does not provide specific evidence about the gating mechanism for the KCNA1B subunit.
+
+****Metadata****
+Scores:
+pubmedid: 17156368, score: 0.6356283104205033
+
+pubmedid: 20393197, score: 0.6314225727885996
+
+pubmedid: 10414301, score: 0.6155213361075829
+
+Relevant Chunks:
+pubmed: 17156368, text: Discussion
+
+Here we have sought
+to characterize the functional properties of
+channels composed of the human Kv1.1 and Kv1.4 subunits in the
+absence and presence of auxiliary subunits such as human Kvb1.1 and
+Kvb1.2. We have demonstrated that the hetero-oligomeric assemblies
+of these subunits generate channels with distinct gating properties that
+are profoundly modiﬁed by several mutations identiﬁed in the KCNA1
+gene of EA1-affected patients.
+
+Neurophysiological and disease implications
+
+Kv1.1, Kv1.4 and Kvb1.x subunits form the A-type potassium
+channel. These channel types control the ﬁring properties of neurones
+and their response to input stimuli (Connor & Stevens, 1971). The
+functional properties of Kv1.4-1.1 ⁄ Kvb1.1 showed some similarities
+with the potassium currents characterized by Geiger & Jonas (2000) in
+hippocampal mossy ﬁbre boutons. However, some biophysical
+parameters such as the inactivation V1 ⁄ 2 and refractory period are
+
+pubmed: 20393197, text: Voltage-gated potassium (Kv) channels selectively
+catalyze the transport of K(cid:1) across the plasma membrane.
+The channels are multisubunit complexes, being com-
+posed of membrane-integrated Kv(cid:2)-subunits and of ac-
+cessory subunits. Kv(cid:2)-subunits form a tetrameric protein
+complex that assembles the core of a Kv channel consist-
+ing of a pore domain with activation (and inactivation)
+gate(s) and selectivity ﬁlter linked to peripheral voltage-
+sensor domains. In in vitro expression systems, most
+Kv(cid:2)-subunits form functional Kv channels, reproducing
+basic Kv channel properties such as opening and closing
+(gating) of the pore in response to a change in the mem-
+brane electric ﬁeld (60, 219, 283, 342). The activation
+process is well described by a sequential gating model, in
+which voltage-sensor movements in each Kv(cid:2)-subunit are
+usually followed by a concerted pore opening step to
+permit passage of K(cid:1). The details of conformational
+changes associated with the electromechanical coupling-
+mechanism between voltage sensor and activation gate
+are presently under intense investigation (33, 153, 154,
+282).
+
+pubmed: 10414301, text: ANNALS NEW YORK ACADEMY OF SCIENCES
+
+protein17 will pave the way for similar studies on K+ channel principal and auxiliary sub-
+units. These structural analyses should provide better tools with which to study protein-
+protein  interactions  as  well  as  drug-protein  interaction.  Ultimately,  this  new  knowledge
+can be used to develop more effective protein-specific therapeutic approaches for patho-
+physiological states involving K+ channel dysfunction. This, and the possibility of gene-
+specific treatment of diseases related to defects in channel subunit proteins, are increas-
+ingly areas of active research and will remain fertile areas for future studies.
+
+TABLES
+
+TABLE 1. Mammalian K+ Channel Principal and Auxiliary Subunits
+
+A. Principal Subunits of Voltage-Activated K+ Channels
+
+Subunit
+
+Gene Locus 
+Designation Species
+
+Trivial 
+Name
+
+Chromosome
+ Localization
+
+Alternative
+ Splicing
+
+Accession 
+Number
+
+Associated 
+Diseases
+
+Kv1.1
+
+KCNA1
+
+Human
+
+HUKI
+
+12p13
+
+L02750
+
+---------------------------------------------
+UniProt: Q96RP8
+Original PubMed: 11368907
+Query 1: Is there any evidence that `potassium` is the ion selectivity of the `Potassium voltage-gated channel subfamily A member 7 (symbol(s): KCNA7)` ion channel?
+Results 1: Response: 1:'answer': Evidence Found
+2:'confidence': 0.9
+3:'evidence': "K1 channels are membrane–spanning proteins that selectively conduct K1 ions across the cell membrane" and "the K+ channel signature sequence is conserved between all K+ channels."
+
+****Metadata****
+Scores:
+pubmedid: 14618155, score: 0.6608882996430315
+
+pubmedid: 11368907, score: 0.6293409532296661
+
+pubmedid: 14618155, score: 0.6183196731005495
+
+Relevant Chunks:
+pubmed: 14618155, text: Ion selectivity and permeation
+All K+ channels can discriminate between K+ and Na+,
+the most abundant alkali metal ions in nature. Without
+such ion selectivity, channels would not be able to 
+generate electrical signals. Selectivity for K+ is conferred
+by the selectivity filter, defined as the narrowest part of
+the conduction pathway in the open channel (FIG. 1c).
+In all K+ channel crystal structures solved so far, the main-
+chain carbonyl oxygens of the conserved K+ channel 
+signature  sequence  (TXGYG  or  TXGFG), which  is
+located in the P-loop, form the selectivity filter (FIG. 3).
+Point mutations in the K+ channel signature sequence
+abolish K+ selectivity16. At the phenotypic level, this loss
+of K+ selectivity is linked to the movement disorder that
+is observed in weaver mice17–20.
+
+pubmed: 11368907, text: Potassium channels, the largest sub-family of the ion
+channel superfamily, play important roles in a wide variety
+of cells. Members of this channel family play critical roles
+in cellular signalling processes regulating neurotransmitter
+release, heart rate, insulin secretion, neuronal excitability,
+epithelial electrolyte transport, smooth muscle contraction,
+and cell volume regulation. K1 channels are membrane–
+spanning proteins that selectively conduct K1 ions across
+the cell membrane. Membrane depolarization activates
+that, once opened,
+voltage-gated potassium channels
+conduct potassium ions along the concentration gradient
+against the electric ﬁeld. This outward current leads to repo-
+larization of the membrane. To accomplish this, K1 chan-
+nels are endowed with a set of features: (1) a water-ﬁlled
+permeation pathway (pore) that allows K1 ions to ﬂow
+across the cell membrane; (2) a selectivity ﬁlter that speci-
+ﬁes K1 ions as permeate ion species; (3) a gating mechan-
+
+pubmed: 14618155, text: KcsA
+
+Buried
+
+Pore-
+facing
+
+experiments6,7,21–24. This work has been reviewed previ-
+ously25 (FIG. 3). As the K+ channel signature sequence 
+is conserved between all K+ channels, and the KcsA 
+pore can substitute for the pore of other K+ channels26,
+it is assumed that the mechanism of ion selectivity 
+and permeation at the selectivity filter is similar in all 
+K+ channels.
+
+In Kir channels, structural features other than the 
+K+ channel signature sequence are also important for K+
+selectivity. Differences in the residues that surround 
+the selectivity filter account for the reduced K+ selectivity
+of Kir3.1 compared with other Kir3 family members27.
+Certain mutations in the pore helix or in M2 of Kir3.2
+cause a loss of K+ selectivity28. In most Kir channels,
+a  SALT  BRIDGE between  conserved  charged  residues 
+in adjacent subunits has been suggested to anchor
+and stabilize the K+ channel signature sequence29–32.
+Query 2: Does this article provide evidence for `voltage-gated` as the gating mechanism for the `Potassium voltage-gated channel subfamily A member 7 (symbol(s): KCNA7)` ion channel?
+Results 2: Response: 1:'answer': Evidence Found
+2:'confidence': 0.9
+3:'evidence': The article discusses the voltage-gated mechanism of Kv channels and mentions the initial isolation and analysis of the human Kv1.7 (KCNA7) gene, a member of the voltage-gated potassium channel gene family.
+
+****Metadata****
+Scores:
+pubmedid: 20393197, score: 0.6298488384333685
+
+pubmedid: 12560340, score: 0.6276994716384923
+
+pubmedid: 11368907, score: 0.623742047456185
+
+Relevant Chunks:
+pubmed: 20393197, text: Voltage-gated potassium (Kv) channels selectively
+catalyze the transport of K(cid:1) across the plasma membrane.
+The channels are multisubunit complexes, being com-
+posed of membrane-integrated Kv(cid:2)-subunits and of ac-
+cessory subunits. Kv(cid:2)-subunits form a tetrameric protein
+complex that assembles the core of a Kv channel consist-
+ing of a pore domain with activation (and inactivation)
+gate(s) and selectivity ﬁlter linked to peripheral voltage-
+sensor domains. In in vitro expression systems, most
+Kv(cid:2)-subunits form functional Kv channels, reproducing
+basic Kv channel properties such as opening and closing
+(gating) of the pore in response to a change in the mem-
+brane electric ﬁeld (60, 219, 283, 342). The activation
+process is well described by a sequential gating model, in
+which voltage-sensor movements in each Kv(cid:2)-subunit are
+usually followed by a concerted pore opening step to
+permit passage of K(cid:1). The details of conformational
+changes associated with the electromechanical coupling-
+mechanism between voltage sensor and activation gate
+are presently under intense investigation (33, 153, 154,
+282).
+
+pubmed: 12560340, text: Voltage-gated potassium channels play critical roles in the
+function of excitable cells, such as maintenance of membrane
+potential, repolarization of the action potential, and regulation
+of firing frequency, and they are also the sites of pathologies
+such as inherited disorders (1). Although there are several
+families of voltage-gated potassium channels, they share a
+common structure comprising four (cid:1)-subunits, each of which
+contains six transmembrane-spanning segments, S1–S6, with
+intracellular N and C termini (2). The activation of these chan-
+nels in response to depolarization occurs via movement of the
+S4 region together with secondary movements of the S2 and S3
+regions (e.g. Refs. 3– 6). In the N-terminal intracellular region,
+the Kv channels also have a “tetramerization” T1 domain, the
+three-dimensional structure of which has been determined (7–
+11). This domain is important in determining the specificity of
+assembly of Kv channels among subfamilies in the binding of
+(cid:2)-subunits for Kv1 channels and has also been implicated in
+the modulation of channel gating (12–16). It forms a “hanging
+
+pubmed: 11368907, text: Gene 268 (2001) 115–122
+
+www.elsevier.com/locate/gene
+
+Initial isolation and analysis of the human Kv1.7 (KCNA7) gene, a member
+of the voltage-gated potassium channel gene family
+
+Vladimir I. Kashubaa,b,c,1,*, Sergei M. Kvashaa,c,1, Alexei I. Protopopova,b,1, Rinat Z. Gizatullina,
+Alla V. Rynditchc, Claes Wahlestedta, Wyeth W. Wassermana, Eugene R. Zabarovskya,b,d
+
+aCenter for Genomics Research, Karolinska Institute, Stockholm, 171 77, Sweden
+bMicrobiology and Tumor Biology Center, Karolinska Institute, Stockholm, 171 77, Sweden
+cInstitute of Molecular Biology and Genetics, Ukrainian Academy of Sciences, Kiev, 252627, Ukraine
+dEngelhardt Institute of Molecular Biology, Russian Academy of Sciences, Moscow, 117984, Russia
+
+Received 5 September 2000; received in revised form 19 February 2001; accepted 1 March 2001
+Received by J.L. Slightom
+
+Abstract
+
+---------------------------------------------
+UniProt: B7ZAQ6
+Original PubMed: 12761501
+Query 1: Is there any evidence that `anion` is the ion selectivity of the `Golgi pH regulator A (symbol(s): GPR89A (GPHRA, GPR89, SH120))` ion channel?
+Results 1: Response: 1:'answer': Evidence Found
+2:'confidence': 1
+3:'evidence': The GPHR gene encodes a Golgi-resident anion channel, suggesting that the function of GPHR is counterion conductance and that the anion channel is essential for physiological acidification.
+
+****Metadata****
+Scores:
+pubmedid: 18794847, score: 0.6660662051868771
+
+pubmedid: 18794847, score: 0.660194618612431
+
+pubmedid: 18794847, score: 0.6234972184219576
+
+Relevant Chunks:
+pubmed: 18794847, text: To investigate the ionic selectivity of GPHR, the relative anion per-
+meabilities (Px/PCl, where x is an anion) were measured (Fig. 6d). The 
+halide anion permeability sequence was I– (1.5) > Cl– (1.0) = Br– (1.0) 
+> F– (0.9) relative to Cl–. Methanesulfonate was impermeant (data not 
+shown). Consistent with the nature of an anion channel, the channel 
+was  inhibited  by  4,4´-diisothiocyanatostilbene-2,2´-disulfonic  acid 
+(DIDS; Fig. 6e). After adding DIDS, the current amplitude began to 
+flicker, shifted to subconductance states and eventually became almost 
+completely blocked (see Supplementary Information, Fig. S7a). The slow 
+response was most probably due to our inability to stir the solution vig-
+orously. To verify that this anion channel behaviour was derived from 
+GPHR protein and not from contaminating proteins, preimmune or 
+anti-GPHR rabbit serum was added to the lipid bilayer system (Fig. 6f). 
+There was no significant change in the current amplitude following the 
+addition of preimmune serum, whereas the channel current amplitude 
+began to flicker just after the addition of a 1:50 volume of anti-GPHR 
+serum to the upper compartment. Although the single-channel current 
+was not completely inhibited to the basal level, it rapidly made the transi-
+tion to multiple subconductance states (Fig. 6f and see Supplementary 
+Information, Fig. S7b, c), indicating that the anion channel behaviour 
+did indeed arise from the function of GPHR.
+
+pubmed: 18794847, text: a large anion conductance (325 pS), multiple (five or six) conductance 
+states, relative insensitivity to changes in pH within the physiological 
+range, a similar halide anion permeability sequence that corresponds 
+to  Eisenman  sequence  I  (ref. 42)  and  voltage-dependent  substate 
+occupancy. Although GPHR exhibited weaker selectivity for Cl– ani-
+ons versus K+ cations (PCl/PK = 2.8) than GOLAC-2 (PCl/PK = 6.1) and 
+some of the values described above differ somewhat from those of the 
+GPHR channel, these differences may arise from the effects of the extra 
+tags on GPHR because GOLAC-2 was examined as an endogenous 
+protein without manipulation, in addition to differences between the 
+protein species, preparation methods and composition of buffer and 
+liposomes. Taking these observations together, it is possible that GPHR 
+is identical to GOLAC-2.
+
+pubmed: 18794847, text: DISCUSSION
+There are several reports supporting a significant contribution of counte-
+rion conductance to Golgi acidification20,24, whereas other recent studies 
+and models have indicated a smaller significance of counterion conduct-
+ance for the maintenance of Golgi pH compared to intrinsic proton 
+leakage19,21–23. We established mutant cells with an elevated Golgi pH and 
+identified GPHR as the gene responsible for this defect. As the elevated 
+pH in the mutant cells caused impaired trafficking and glycosylation of 
+cargo proteins and lipids, as well as disrupted morphological integrity of 
+the Golgi, GPHR is crucial for facilitating sufficient luminal acidification 
+for normal Golgi functions. The GPHR gene encodes a Golgi-resident 
+anion  channel,  suggesting  that  the  function  of  GPHR  is  counterion 
+conductance and that the anion channel is essential for physiological 
+acidification. Currently, we cannot completely exclude the possibility 
+that GPHR is involved in other processes — such as regulation of the 
+function or localization of the Golgi pool of V-ATPase.
+Query 2: Does this article provide evidence for `voltage-gated` as the gating mechanism for the `Golgi pH regulator A (symbol(s): GPR89A (GPHRA, GPR89, SH120))` ion channel?
+Results 2: Response: 1:'answer': Evidence Not Found.
+2:'confidence': 0.9
+3:'evidence': The context does not mention the voltage-gated mechanism for Golgi pH regulator A (GPHR). It only discusses GPHR's role in Golgi acidification and counterion conductance.
+
+****Metadata****
+Scores:
+pubmedid: 30770441, score: 0.652067580982649
+
+pubmedid: 18794847, score: 0.6474320805100662
+
+pubmedid: 31315976, score: 0.6452856993573395
+
+Relevant Chunks:
+pubmed: 30770441, text: Voltage-Sensing and Gating Mechanism. Similar to mammalian
+TRICs, GgTRIC-A can sense the voltage potential across the
+membrane and is regulated in a voltage-dependent manner (Fig.
+6A). Voltage-regulated ion channels, such as Nav (35), Kv (36),
+and TPC1 (37), usually have a separated voltage-sensing domain
+(VSD), with some positively charged lysine or arginine residues
+on their voltage-sensing S4 helix. There is no such VSD in either
+TRIC-As or TRIC-Bs, but these channel proteins do have TM4
+helices that are enriched in highly conserved basic residues (Fig.
+6B). This composition is as in VSDs, but the TRIC TM4 seg-
+ments are otherwise structurally distinct (SI Appendix, Fig. S9),
+being long, straight, and inclined (Fig. 6C). The five conserved
+basic residues on TM4 in GgTRIC-A are K115, K122, R126,
+R128, and K129, four of which line the pore to generate the
+unique electropositive characteristic. These observations raise
+the possibility that the conformation of the basic region within
+the pore could change, perhaps as part of the gating process.
+
+pubmed: 18794847, text: DISCUSSION
+There are several reports supporting a significant contribution of counte-
+rion conductance to Golgi acidification20,24, whereas other recent studies 
+and models have indicated a smaller significance of counterion conduct-
+ance for the maintenance of Golgi pH compared to intrinsic proton 
+leakage19,21–23. We established mutant cells with an elevated Golgi pH and 
+identified GPHR as the gene responsible for this defect. As the elevated 
+pH in the mutant cells caused impaired trafficking and glycosylation of 
+cargo proteins and lipids, as well as disrupted morphological integrity of 
+the Golgi, GPHR is crucial for facilitating sufficient luminal acidification 
+for normal Golgi functions. The GPHR gene encodes a Golgi-resident 
+anion  channel,  suggesting  that  the  function  of  GPHR  is  counterion 
+conductance and that the anion channel is essential for physiological 
+acidification. Currently, we cannot completely exclude the possibility 
+that GPHR is involved in other processes — such as regulation of the 
+function or localization of the Golgi pool of V-ATPase.
+
+pubmed: 31315976, text: Results
+TRPP2 and VGICs Share a Voltage-Dependent Gating Mechanism. A
+cardinal feature of voltage-gated channels are large tail currents
+activated by membrane repolarization, which capture the ion
+flow during the transition from the open to closed states in the
+whole-cell patch configuration. This feature is not commonly
+found in TRP channels; however, we and several groups have
+previously shown that TRPP2 is an exception (29–31). In the
+symmetrical sodium conditions devoid of divalent ions, whole-
+cell patched HEK293T cells overexpressing this channel gener-
+ate robust tail currents upon repolarization and can be fit to a
+Boltzmann function (SI Appendix, Fig. S1A). The half-maximal
+voltage dependence of TRPP2 activation is positive (V1/2 =
+47 mV), and the slope of the current voltage relationship is
+shallow (Z = 1.1), which infers a transfer of approximately
+1 gating charge per channel subunit (SI Appendix, Table S1).
+Based on these functional characteristics, we hypothesized that
+TRPP2 channel proteins likely contain a voltage sensing ele-
+ment. Several high-resolution structures of TRPP1 and
+TRPP2 have been determined by single partial cryo-EM (20, 25–
+28), and their conserved S4 lysines (K452 and K455 in TRPP2)
+structurally align to the third and fourth gating charge positions
+
+---------------------------------------------
+UniProt: Q9Y696
+Original PubMed: 17453412
+Query 1: Is there any evidence that `chloride` is the ion selectivity of the `Chloride intracellular channel protein 4 (symbol(s): CLIC4)` ion channel?
+Results 1: Response: 1:'answer': Evidence Not Found
+2:'confidence': 0.9
+3:'evidence': The context indicates that CLIC4 is poorly-selective between anions and cations, and its classification as a "chloride" channel may need reevaluation.
+
+****Metadata****
+Scores:
+pubmedid: 18028448, score: 0.7192301241940661
+
+pubmedid: 17453412, score: 0.7124360014335382
+
+pubmedid: 11551966, score: 0.6884328567492444
+
+Relevant Chunks:
+pubmed: 18028448, text: ionic selectivity of
+
+CLICs exist as soluble and membranous proteins [3],
+and they interact with various other cytosolic proteins
+[15]. As CLIC function was investigated by their
+reconstitution in planar bilayers,
+it is possible that
+modulation of either channel permeability or selectivity
+by cytoplasmic and membranous components present
+inside an intact cell may have been overlooked. How-
+ever, as the channel properties of CLIC5 have not
+been reported to date, this reduced system has the
+advantage of characterizing CLIC5 function in the
+absence of modulatory factors. Furthermore, the role
+of actin in regulating channel function is best observed
+in such a reduced system considering the multiple and
+the cytoskeleton performs in
+contrasting roles that
+intact cells.
+
+Ion channel regulation by F-actin
+
+pubmed: 17453412, text: CLIC4 is poorly-selective between anions and
+cations,
+inconsistent with the widely-adopted
+‘‘CLIC’’ nomenclature proposed by [18] and [40].
+It may be necessary to re-evaluate CLIC proteins,
+especially CLIC4, as ‘‘chloride’’ channels, if they
+behave like non-selective channels. This could be
+due to a wide pore lacking specific ion-binding sites.
+However, a maximum conductance of (cid:1)/15 pS in
+KCl is inconsistent with a wide water-filled pore (as
+found for example in bacterial porins). Franciolini
+and Nonner
+[41,42] noted similar paradoxical
+behaviour in neuronal ‘‘background’’ Cl(cid:4) channels,
+and suggested that anions and cations crossed the
+membrane at least partly as counter ions. Based on
+similar ideas, if the putative pore lining of CLIC4
+contains rings of arginine or lysine residues (as
+suggested in Figure 9), transient binding of per-
+meant anions could provide an opportunity for
+counter ions (e.g., K(cid:1)) to cross the membrane
+without encountering a prohibitive positive charge.
+In a scheme like this, ion permeation requires the
+presence of anions, and they must be sufficiently
+small to penetrate the pore. Large,
+impermeant
+anions would prevent the passage of both anions
+and cations (regardless of the latter’s size), whereas
+large, relatively impermeant cations would not pre-
+vent all ion permeation, but would make the channel
+more anion-selective. Consistent with this idea, we
+noted enhanced anion vs. cation selectivity in the
+presence of the relatively large cation Tris(cid:1) com-
+pared to K(cid:1). We also noted that CLIC4 was unable
+to discriminate between a range of different anions,
+again consistent with the idea that the pore itself is
+poorly-selective. However, CLIC1 is slightly but
+measurably more anion-selective than CLIC4 [23],
+so if the putative pore-lining is not responsible for
+this difference (and the sequences are very similar, as
+shown in Figure 9, suggesting in passing that
+detailed site-directed mutagenesis studies of putative
+TMD/pore-lining residues may not be very produc-
+
+pubmed: 11551966, text: Chloride channels fall into several classes based on their
+sequence relationships. The three best characterized classes
+are the ligand-gated receptor channels ((cid:1)-aminobutyric acid
+and glycine receptors), the cystic fibrosis transmembrane con-
+ductance regulator family, and the ClC chloride ion channels
+(1, 2). A new class of chloride ion channel, the “chloride intra-
+cellular channels” (CLICs),1 has recently been characterized at
+a molecular level. To date, there are seven members of the
+CLIC family: CLIC1 (NCC27) (5), CLIC2 (6), CLIC3 (7), CLIC4
+(8), CLIC5 (9), p64 (10), and parchorin (11). All of these pro-
+teins exist as soluble globular proteins that can form ion chan-
+nels in organellar and plasma membranes (5, 7, 8, 12–15). Five
+of the CLIC proteins are each composed of (cid:1)240 residues, while
+the longer p64 and parchorin consist of distinct amino-terminal
+domains followed by the 240-residue CLIC module. This mod-
+ule has recently been shown to share weak sequence homology
+with the glutathione S-transferase (GST) superfamily (16).
+Query 2: Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `Chloride intracellular channel protein 4 (symbol(s): CLIC4)` ion channel?
+Results 2: Response: 1. 'answer': Evidence Not Found
+2. 'confidence': 0.8
+3. 'evidence': The article discusses the redox sensitivity and non-selectivity of CLIC4 ion channels but does not mention voltage-gated or pH-sensitive gating mechanisms.
+
+****Metadata****
+Scores:
+pubmedid: 17453412, score: 0.6961041431648433
+
+pubmedid: 18028448, score: 0.6898400350295812
+
+pubmedid: 11551966, score: 0.679408575950383
+
+Relevant Chunks:
+pubmed: 17453412, text: Abstract
+Despite being synthesized in the cytosol without a leader sequence, the soluble 253-residue mammalian protein CLIC4
+(Chloride Intracellular Channel 4, or p64H1), a structural homologue of V-type glutathione-S-transferase, autoinserts into
+membranes to form an integral membrane protein with ion channel activity. A predicted transmembrane domain (TMD)
+near the N-terminus of CLIC4 could mediate membrane insertion, and contribute to oligomeric pores, with minimal
+reorganization of the soluble protein structure. We tested this idea by reconstituting recombinant CLIC4 in planar bilayers
+containing phosphatidyethanolamine, phosphatidylserine and cholesterol, recording ion channels with a maximum
+conductance of (cid:1)/15 pS in KCl under both oxidizing and reducing conditions. The channels discriminated poorly
+between anions and cations, incompatible with the current ‘‘CLIC’’ nomenclature, and their conductance was modified by
+the trans (external or luminal) redox potential, as previously observed for CLIC1. We then reconstituted a truncated version
+of the protein, limited to the first 61 residues containing the predicted TMD. This included a single trans cysteine residue in
+the putative pore-forming subunits, at the external entrance to the pore. The truncated protein formed non-selective
+channels with a reduced conductance, but they retained their trans -redox sensitivity, and could still be blocked or
+inactivated by trans (not cis ) thiol-reative dithiobisnitrobenzoic acid. We suggest that oligomers containing the putative
+TMD are essential components of the CLIC4 pore. However, the pore is inherently non-selective, and any ionic selectivity
+in CLIC4 (and other membrane CLICs) may be attributable to other regions of the protein, including the channel
+vestibules.
+
+pubmed: 18028448, text: The Caenorhabditis elegans CLIC-like protein exc-4
+appears to form a charge-compensating ion channel to
+facilitate the fusion of intracellular vesicles, explaining
+its essential role to generate a hollow tubule from a
+single cell
+[6,7]. Mammalian CLIC1 and CLIC4 are
+transmembrane components [8,9] of poorly selective
+intracellular and plasma membrane ion channels, and
+form similar channels in vitro in the absence of any
+other protein [10,11]. Although the roles of the mam-
+malian channels remain obscure, and CLIC proteins
+can also modify the behaviour [12] of other, well-estab-
+lished ion channels, the channel activity of CLIC1 does
+
+Abbreviations
+CLIC, chloride intracellular channel; GE, gel exclusion; GHK, Goldman–Hodgkin–Katz equation; GSH, reduced glutathione; GST, glutathione
+S-transferase; GST, glutathione S-transferase; IMAC, immobilized metal afﬁnity chromatography; I ⁄ V, current–voltage; TMD, transmembrane
+domain.
+
+6306
+
+pubmed: 11551966, text: Formation of Chloride Ion Channels by CLIC1 in Lipid Bi-
+layers—The fact that CLIC1 (and the CLICs) are cytoplasmic
+as well as membrane proteins in distribution and appear to
+contain the domains of a functional GSH-dependent redox pro-
+tein structurally related to the GST superfamily raises the
+question as to whether CLIC1 is a just a regulatory element
+controlling an integral membrane ion channel. Several lines of
+evidence indicate that the CLIC proteins exist in a true integral
+membrane form. First, the CLIC4 fraction that partitions in
+the membrane is resistant to alkali extraction (8, 18, 22).
+Second, immunogold electron microscopy using an antibody
+generated against an 18-amino acid peptide from the carboxyl
+terminus of p62 shows that the protein is localized to the
+osteoclast ruffled border membrane with 66% of the gold beads
+within one bead diameter of the membrane (15). Also, our
+previous studies using epitope-tagged CLIC1-transfected CHO
+cells indicate that CLIC1 is a transmembrane protein that
+directly forms part of the ion channel whose conductance is
+blocked by a monoclonal antibody to the epitope tag. Further,
+we could deduce that the amino terminus projects outward, and
+the carboxyl terminus projects inward from the plasma mem-
+brane (12), indicating that the protein spans the membrane an
+odd number of times. Finally, a recent study (13) has shown
+that recombinant CLIC1 can form chloride ion channels in lipid
+bilayers, but the characteristics of the channels differed from
+those measured in CHO cells transfected with CLIC1 (5, 12).
+To evaluate the ability of our purified recombinant CLIC1 to
+form ion channels we used the tip-dip electrophysiological tech-
+nique (34, 44). Following bilayer formation on the patch pi-
+pette, we added the purified recombinant CLIC1 to the bath
+
+---------------------------------------------
+UniProt: Q9BQ31
+Original PubMed: 10484328
+Query 1: Is there any evidence that `potassium` is the ion selectivity of the `Potassium voltage-gated channel subfamily S member 3 (symbol(s): KCNS3)` ion channel?
+Results 1: Response: 1:'answer': Evidence Found
+2:'confidence': 0.9
+3:'evidence': The context states that all K+ channels, including those with the K+ channel signature sequence, selectively conduct K+ ions.
+
+****Metadata****
+Scores:
+pubmedid: 14618155, score: 0.6668279278864737
+
+pubmedid: 14618155, score: 0.6240532544633541
+
+pubmedid: 11368907, score: 0.6219223886628197
+
+Relevant Chunks:
+pubmed: 14618155, text: Ion selectivity and permeation
+All K+ channels can discriminate between K+ and Na+,
+the most abundant alkali metal ions in nature. Without
+such ion selectivity, channels would not be able to 
+generate electrical signals. Selectivity for K+ is conferred
+by the selectivity filter, defined as the narrowest part of
+the conduction pathway in the open channel (FIG. 1c).
+In all K+ channel crystal structures solved so far, the main-
+chain carbonyl oxygens of the conserved K+ channel 
+signature  sequence  (TXGYG  or  TXGFG), which  is
+located in the P-loop, form the selectivity filter (FIG. 3).
+Point mutations in the K+ channel signature sequence
+abolish K+ selectivity16. At the phenotypic level, this loss
+of K+ selectivity is linked to the movement disorder that
+is observed in weaver mice17–20.
+
+pubmed: 14618155, text: KcsA
+
+Buried
+
+Pore-
+facing
+
+experiments6,7,21–24. This work has been reviewed previ-
+ously25 (FIG. 3). As the K+ channel signature sequence 
+is conserved between all K+ channels, and the KcsA 
+pore can substitute for the pore of other K+ channels26,
+it is assumed that the mechanism of ion selectivity 
+and permeation at the selectivity filter is similar in all 
+K+ channels.
+
+In Kir channels, structural features other than the 
+K+ channel signature sequence are also important for K+
+selectivity. Differences in the residues that surround 
+the selectivity filter account for the reduced K+ selectivity
+of Kir3.1 compared with other Kir3 family members27.
+Certain mutations in the pore helix or in M2 of Kir3.2
+cause a loss of K+ selectivity28. In most Kir channels,
+a  SALT  BRIDGE between  conserved  charged  residues 
+in adjacent subunits has been suggested to anchor
+and stabilize the K+ channel signature sequence29–32.
+
+pubmed: 11368907, text: Potassium channels, the largest sub-family of the ion
+channel superfamily, play important roles in a wide variety
+of cells. Members of this channel family play critical roles
+in cellular signalling processes regulating neurotransmitter
+release, heart rate, insulin secretion, neuronal excitability,
+epithelial electrolyte transport, smooth muscle contraction,
+and cell volume regulation. K1 channels are membrane–
+spanning proteins that selectively conduct K1 ions across
+the cell membrane. Membrane depolarization activates
+that, once opened,
+voltage-gated potassium channels
+conduct potassium ions along the concentration gradient
+against the electric ﬁeld. This outward current leads to repo-
+larization of the membrane. To accomplish this, K1 chan-
+nels are endowed with a set of features: (1) a water-ﬁlled
+permeation pathway (pore) that allows K1 ions to ﬂow
+across the cell membrane; (2) a selectivity ﬁlter that speci-
+ﬁes K1 ions as permeate ion species; (3) a gating mechan-
+Query 2: Does this article provide evidence for `voltage-gated` as the gating mechanism for the `Potassium voltage-gated channel subfamily S member 3 (symbol(s): KCNS3)` ion channel?
+Results 2: Response: 1:'answer': Evidence Found
+2:'confidence': 0.8
+3:'evidence': The context mentions that voltage-gated potassium (Kv) channels respond to changes in the membrane electric field by opening and closing, which is indicative of voltage-gated mechanisms.
+
+****Metadata****
+Scores:
+pubmedid: 20393197, score: 0.6323862548433384
+
+pubmedid: 12560340, score: 0.6323259618900765
+
+pubmedid: 2347305, score: 0.6180196960124075
+
+Relevant Chunks:
+pubmed: 20393197, text: Voltage-gated potassium (Kv) channels selectively
+catalyze the transport of K(cid:1) across the plasma membrane.
+The channels are multisubunit complexes, being com-
+posed of membrane-integrated Kv(cid:2)-subunits and of ac-
+cessory subunits. Kv(cid:2)-subunits form a tetrameric protein
+complex that assembles the core of a Kv channel consist-
+ing of a pore domain with activation (and inactivation)
+gate(s) and selectivity ﬁlter linked to peripheral voltage-
+sensor domains. In in vitro expression systems, most
+Kv(cid:2)-subunits form functional Kv channels, reproducing
+basic Kv channel properties such as opening and closing
+(gating) of the pore in response to a change in the mem-
+brane electric ﬁeld (60, 219, 283, 342). The activation
+process is well described by a sequential gating model, in
+which voltage-sensor movements in each Kv(cid:2)-subunit are
+usually followed by a concerted pore opening step to
+permit passage of K(cid:1). The details of conformational
+changes associated with the electromechanical coupling-
+mechanism between voltage sensor and activation gate
+are presently under intense investigation (33, 153, 154,
+282).
+
+pubmed: 12560340, text: Voltage-gated potassium channels play critical roles in the
+function of excitable cells, such as maintenance of membrane
+potential, repolarization of the action potential, and regulation
+of firing frequency, and they are also the sites of pathologies
+such as inherited disorders (1). Although there are several
+families of voltage-gated potassium channels, they share a
+common structure comprising four (cid:1)-subunits, each of which
+contains six transmembrane-spanning segments, S1–S6, with
+intracellular N and C termini (2). The activation of these chan-
+nels in response to depolarization occurs via movement of the
+S4 region together with secondary movements of the S2 and S3
+regions (e.g. Refs. 3– 6). In the N-terminal intracellular region,
+the Kv channels also have a “tetramerization” T1 domain, the
+three-dimensional structure of which has been determined (7–
+11). This domain is important in determining the specificity of
+assembly of Kv channels among subfamilies in the binding of
+(cid:2)-subunits for Kv1 channels and has also been implicated in
+the modulation of channel gating (12–16). It forms a “hanging
+
+pubmed: 2347305, text: The EMBO Journal vol.9 no.6 pp. 1 749 - 1756, 1990
+
+Cloning and expression of a human voltage-gated
+potassium channel. A novel member of the RCK
+potassium channel family
+
+Andrew Grupe, Klaus Hasso Schroter',
+Johann Peter Ruppersberg1, Martin Stocker,
+Thorsten Drewes, Synnove Beckh2 and
+Olaf Pongs
+
+Ruhr-Universitat Bochum, Lehrstuhl fir Biochemie, D-4630 Bochum,
+'Max-Planck-Institut fir medizinische Forschung, Abteilung
+Zellphysiologie, D-6900 Heidelberg and 2Max-Planck Institut fir
+biophys. Chemie, Abteilung Membranbiophysik, D-3400 Gottingen,
+FRG
+Communicated by B.Sakmann
+
+---------------------------------------------
+UniProt: Q70Z44
+Original PubMed: 12801637
+Query 1: Is there any evidence that `cation, nonselective` is the ion selectivity of the `5-hydroxytryptamine receptor 3D (symbol(s): HTR3D)` ion channel?
+Results 1: Response: 1:'answer': Evidence Not Found
+2:'confidence': 1
+3:'evidence': The provided context does not mention the `5-hydroxytryptamine receptor 3D (HTR3D)` or its ion selectivity.
+
+****Metadata****
+Scores:
+pubmedid: 11549322, score: 0.5550969745479448
+
+pubmedid: 16423824, score: 0.5455439350023006
+
+pubmedid: 15331675, score: 0.5452106562020033
+
+Relevant Chunks:
+pubmed: 11549322, text: Despite their overall structural sim-
+ilarities, however, the functions of these
+various  channel  proteins  differ  sub-
+stantially.  VR1  is  a  ligand-gated  and
+heat-activated nonselective cation chan-
+nel 
+[12].  SIC  and  OTRP4  are
+mechanosensitive  and  osmoreceptive
+cation channels [13,16,17]. Some of the
+TRP  channels  are  putative  Ca2+ store-
+operated  channels  [22],  and  PCL  is  a
+Ca2+-regulated,  nonselective  cation
+channel  [27].  CaT1  and  CaT2  also
+exhibit distinctive functional properties,
+including  saturation  kinetics  and  con-
+stitutive activity that confer upon them
+some  of  the  attributes  of  facilitated
+transporters  [3,4,6].  Single  channel
+activities  can  be  detected,  however,
+when Na+ or K+ is used as a charge car-
+rier  [7,28,29].  An  additional  feature  of
+the CaT1/CaT2 subfamily of channels is
+activation  of  both  CaT1  and  CaT2  by
+membrane hyperpolarization [7,28,29].
+CaT1  is  also  activated  by  depletion  of
+intracellular  Ca2+ stores  [7].  CaT1  is
+inactivated by intracellular Ca2+ [7], and
+Ca2+-dependent calmodulin binding to
+CaT1  is  one  mechanism  that  mediates
+inactivation  of  CaT1  [30].  So  far,  no
+endogenous  ligands  have  been  identi-
+fied that regulate the activities of CaT1
+and CaT2.
+
+pubmed: 16423824, text: FIGURE 4. Cation selectivity of (cid:1)(cid:2)(cid:3)(cid:4)-hENaC expressed in oocytes. A, representative amiloride-sensitive whole-cell current traces recorded from an oocyte expressing (cid:4)(cid:1)(cid:2)(cid:3)-
+hENaC. Oocytes were initially perfused with ND-96 medium (96 mM Na(cid:1)), and step I-V traces were obtained. Oocytes were hold at stepped voltages from (cid:2)120 mV to (cid:1)80 mV in
+20-mV increments. Amiloride-sensitive traces were computed as the difference between the currents with and without 100 (cid:6)M amiloride in the bath. The bath solution was switched
+to media in which the sodium was substituted with equamolar monovalent or divalent cations. The dashed lines indicate zero current level. n (cid:7) 4 – 6. B, cation permeation of (cid:4)(cid:2)(cid:3)-,
+(cid:1)(cid:2)(cid:3)-, and (cid:4)(cid:1)(cid:2)(cid:3)-hENaC. Whole-cell amiloride-sensitive currents (I) at membrane potential (Vm) from (cid:2)120 mV to (cid:1)80 mV were recorded from oocytes expressing (cid:4)(cid:2)(cid:3)- (top), (cid:1)(cid:2)(cid:3)-
+(middle), and (cid:4)(cid:1)(cid:2)(cid:3)-hENaC (bottom). The I-V curves were fitted with the Goldman-Hodgkin-Katz current equation to calculate the absolute permeability to each cation and relative
+ratios to sodium.
+
+pubmed: 15331675, text: CAN channels. Current Biol 12, R520–522.
+
+Pezza RJ, Villarreal MA, Montich GG & Argarana CE (2002).
+Vanadate inhibits the ATPase activity and DNA binding
+capability of bacterial MutS. A structural model for the
+vanadate–MutS interaction at the Walker A motif. Nucl Acids
+Res 30, 4700–4708.
+
+Popp R & G¨ogelein H (1992). A calcium and ATP sensitive
+
+nonselective cation channel in the antiluminal membrane of
+rat cerebral capillary endothelial cells. Biochim Biophys Acta
+1108, 59–66.
+
+Ringer E, Russ U & Siemen D (2000). Beta(3)-adrenergic
+
+stimulation and insulin inhibition of non-selective cation
+channels in white adipocytes of the rat. Biochim Biophys Acta
+1463, 241–253.
+
+Rodighiero S, De Simoni A & Formenti A (2004). The
+
+voltage-dependent nonselective cation current in human red
+blood cells studied by means of whole-cell and
+nystatin-perforated patch-clamp techniques. Biochim
+Biophys Acta 1660, 164–170.
+
+Simard JM & Chen M (2004). Regulation by sulfanylurea
+Query 2: Does this article provide evidence for `ligand-gated (serotonin)` as the gating mechanism for the `5-hydroxytryptamine receptor 3D (symbol(s): HTR3D)` ion channel?
+Results 2: Response: 1:'answer': Evidence Found
+2:'confidence': 0.9
+3:'evidence': The article mentions that the 5-HT3 receptor, which includes the HTR3D subunit, is the only ligand-gated ion channel within the family of serotonin receptors.
+
+****Metadata****
+Scores:
+pubmedid: 12801637, score: 0.6324295156997429
+
+pubmedid: 17392525, score: 0.6169930997006039
+
+pubmedid: 17392525, score: 0.6026664175626505
+
+Relevant Chunks:
+pubmed: 12801637, text: Quirk, P., Siegel, R., 2000. N-Glycosylation is necessary for surface
+
+expression of the 5-HT3 receptor. Soc. Neurosci. Abstr. 811, 4.
+
+Reeves, D.C., Lummis, S.C., 2002. The molecular basis of the structure and
+function of the 5-HT3 receptor: a model ligand-gated ion channel. Mol.
+Membr. Biol. 19, 11–26.
+
+Riordan, J.R., 1992. The molecular biology of chloride channels. Curr.
+
+Opin. Nephrol. Hypertens. 1, 34– 42.
+
+Uetz, P., Abdelatty, F., Villarroel, A., Rappold, G.A., Weiss, B., Koenen,
+M., 1994. Organisation of the murine 5-HT3 receptor gene and
+assignment to human chromosome 11. FEBS Lett. 339, 302 –306.
+Van Hooft, J.A., Vijverberg, H.P., 1995. Phosphorylation controls
+conductance of 5-HT3 receptor ligand-gated ion channels. Receptors
+Channels 3, 7 –12.
+
+pubmed: 17392525, text: ABSTRACT
+Within the family of serotonin receptors, the 5-hydroxytrypta-
+mine-3 (5-HT3) receptor is the only ligand-gated ion channel. It
+is composed of five subunits, of which the 5-HT3A and 5-HT3B
+subunits are best characterized. Several studies, however,
+have reported on the functional diversity of native 5-HT3 recep-
+tors, which cannot solely be explained on the basis of the
+5-HT3A and 5-HT3B subunits. After our discovery of further
+putative 5-HT3 serotonin receptor-encoding genes, HTR3C,
+HTR3D, and HTR3E, we investigated whether these novel can-
+didates and the isoform 5-HT3Ea are able to form functional
+5-HT3 receptor complexes. Using immunofluorescence and im-
+munoprecipitation studies of heterologously expressed pro-
+teins, we found that each of the respective candidates coas-
+sembles with 5-HT3A. To investigate whether the novel subunits
+modulate 5-HT3 receptor function, we performed radioligand-
+binding assays and calcium-influx studies in human embryonic
+
+pubmed: 17392525, text: ABBREVIATIONS: 5-HT, 5-hydroxytryptamine, serotonin; LGIC, ligand-gated ion channel; HEK, human embryonic kidney; mCPBG, meta-
+chlorophenylbiguanide; GI, gastrointestinal; HA, hemagglutinin; PBS, phosphate-buffered saline; ANOVA, analysis of variance; FITC, fluorescein
+isothiocyanate; RLU, relative light unit; PVDF, polyvinylidene difluoride; ER, endoplasmic reticulum; HRP, horseradish peroxidase; MDL72222,
+3-tropanyl-3,5-dichlorobenzoate; Y-25130, azasetron; [3H]GR65630, [3H]3-(5-methyl-1H-imidazol-4-yl)-1-(1-methyl-1H-indol-3-yl)-1-propanone.
+
+8
+
+D
+o
+w
+n
+l
+o
+a
+d
+e
+d
+
+f
+r
+o
+m
+m
+o
+l
+p
+h
+a
+r
+m
+.
+a
+s
+p
+e
+t
+j
+o
+u
+r
+n
+a
+l
+s
+.
+o
+r
+g
+a
+t
+
+A
+S
+P
+E
+T
+J
+o
+u
+r
+n
+a
+l
+s
+
+o
+n
+A
+u
+g
+u
+s
+t
+
+2
+2
+,
+
+2
+0
+2
+4
+
+---------------------------------------------
+UniProt: Q9H3M0
+Original PubMed: 12445884
+Query 1: Is there any evidence that `potassium` is the ion selectivity of the `Potassium voltage-gated channel subfamily F member 1 (symbol(s): KCNF1)` ion channel?
+Results 1: Response: 1:'answer': Evidence Not Found
+2:'confidence': 0.8
+3:'evidence': The provided context does not specifically mention `Potassium voltage-gated channel subfamily F member 1 (KCNF1)` or its ion selectivity properties.
+
+****Metadata****
+Scores:
+pubmedid: 14618155, score: 0.6586404883056515
+
+pubmedid: 11368907, score: 0.6286242969531557
+
+pubmedid: 23212381, score: 0.6145320942716359
+
+Relevant Chunks:
+pubmed: 14618155, text: Ion selectivity and permeation
+All K+ channels can discriminate between K+ and Na+,
+the most abundant alkali metal ions in nature. Without
+such ion selectivity, channels would not be able to 
+generate electrical signals. Selectivity for K+ is conferred
+by the selectivity filter, defined as the narrowest part of
+the conduction pathway in the open channel (FIG. 1c).
+In all K+ channel crystal structures solved so far, the main-
+chain carbonyl oxygens of the conserved K+ channel 
+signature  sequence  (TXGYG  or  TXGFG), which  is
+located in the P-loop, form the selectivity filter (FIG. 3).
+Point mutations in the K+ channel signature sequence
+abolish K+ selectivity16. At the phenotypic level, this loss
+of K+ selectivity is linked to the movement disorder that
+is observed in weaver mice17–20.
+
+pubmed: 11368907, text: Potassium channels, the largest sub-family of the ion
+channel superfamily, play important roles in a wide variety
+of cells. Members of this channel family play critical roles
+in cellular signalling processes regulating neurotransmitter
+release, heart rate, insulin secretion, neuronal excitability,
+epithelial electrolyte transport, smooth muscle contraction,
+and cell volume regulation. K1 channels are membrane–
+spanning proteins that selectively conduct K1 ions across
+the cell membrane. Membrane depolarization activates
+that, once opened,
+voltage-gated potassium channels
+conduct potassium ions along the concentration gradient
+against the electric ﬁeld. This outward current leads to repo-
+larization of the membrane. To accomplish this, K1 chan-
+nels are endowed with a set of features: (1) a water-ﬁlled
+permeation pathway (pore) that allows K1 ions to ﬂow
+across the cell membrane; (2) a selectivity ﬁlter that speci-
+ﬁes K1 ions as permeate ion species; (3) a gating mechan-
+
+pubmed: 23212381, text: Discussion
+
+Mutations of residues that line the ion conduction pathway of an ion channel usually 
+significantly alter its ion selectivity. This concept has often been applied to test whether a 
+protein is an ion channel-forming subunit36–38. On the other hand, mutations of non-pore 
+lining regulatory proteins that even interact directly with ion channels rarely affect the 
+channels' ion selectivity. To our knowledge, the only reported non-pore lining protein whose 
+mutations affect a channel's ion selectivity is mink (KCNE1), a K+ channel regulatory 
+subunit. In that case, however, only one residue was found that, when mutated, was able to 
+increase the relative permeability of one ion (Na+) by 7 fold39.
+Query 2: Does this article provide evidence for `voltage-gated` as the gating mechanism for the `Potassium voltage-gated channel subfamily F member 1 (symbol(s): KCNF1)` ion channel?
+Results 2: Response: 1. 'answer': Evidence Not Found
+2. 'confidence': 0.8
+3. 'evidence': The context discusses the general properties and mechanisms of voltage-gated potassium (Kv) channels but does not specifically mention the Potassium voltage-gated channel subfamily F member 1 (KCNF1).
+
+****Metadata****
+Scores:
+pubmedid: 20393197, score: 0.6326353118805732
+
+pubmedid: 12560340, score: 0.6270744016697614
+
+pubmedid: 7499366, score: 0.6258675586999162
+
+Relevant Chunks:
+pubmed: 20393197, text: Voltage-gated potassium (Kv) channels selectively
+catalyze the transport of K(cid:1) across the plasma membrane.
+The channels are multisubunit complexes, being com-
+posed of membrane-integrated Kv(cid:2)-subunits and of ac-
+cessory subunits. Kv(cid:2)-subunits form a tetrameric protein
+complex that assembles the core of a Kv channel consist-
+ing of a pore domain with activation (and inactivation)
+gate(s) and selectivity ﬁlter linked to peripheral voltage-
+sensor domains. In in vitro expression systems, most
+Kv(cid:2)-subunits form functional Kv channels, reproducing
+basic Kv channel properties such as opening and closing
+(gating) of the pore in response to a change in the mem-
+brane electric ﬁeld (60, 219, 283, 342). The activation
+process is well described by a sequential gating model, in
+which voltage-sensor movements in each Kv(cid:2)-subunit are
+usually followed by a concerted pore opening step to
+permit passage of K(cid:1). The details of conformational
+changes associated with the electromechanical coupling-
+mechanism between voltage sensor and activation gate
+are presently under intense investigation (33, 153, 154,
+282).
+
+pubmed: 12560340, text: Voltage-gated potassium channels play critical roles in the
+function of excitable cells, such as maintenance of membrane
+potential, repolarization of the action potential, and regulation
+of firing frequency, and they are also the sites of pathologies
+such as inherited disorders (1). Although there are several
+families of voltage-gated potassium channels, they share a
+common structure comprising four (cid:1)-subunits, each of which
+contains six transmembrane-spanning segments, S1–S6, with
+intracellular N and C termini (2). The activation of these chan-
+nels in response to depolarization occurs via movement of the
+S4 region together with secondary movements of the S2 and S3
+regions (e.g. Refs. 3– 6). In the N-terminal intracellular region,
+the Kv channels also have a “tetramerization” T1 domain, the
+three-dimensional structure of which has been determined (7–
+11). This domain is important in determining the specificity of
+assembly of Kv channels among subfamilies in the binding of
+(cid:2)-subunits for Kv1 channels and has also been implicated in
+the modulation of channel gating (12–16). It forms a “hanging
+
+pubmed: 7499366, text: Voltage-gated K(cid:49) channels (Kv)1 are important regulators of
+membrane action potentials as well as many other cellular
+functions including maintenance of the resting membrane po-
+tential, regulating neuron firing, and secretion (1–3). Most
+
+* This research was supported by National Science Foundation Fel-
+lowship BIR-9406860 (to S. K. E.), HL 49330 (to M. M. T.), and HL
+46681 (to M. M. T. and P. B. B.). The costs of publication of this article
+were defrayed in part by the payment of page charges. This article must
+therefore be hereby marked “advertisement” in accordance with 18
+U.S.C. Section 1734 solely to indicate this fact.
+
+The nucleotide sequence(s) reported in this paper has been submitted
+to the GenBankTM/EMBL Data Bank with accession number(s) L47665.
+¶ Supported by National Institutes of Health Training Grants GM
+
+07628 and HL 07411–16.
+
+---------------------------------------------
+UniProt: Q9Y5S1
+Original PubMed: 10201375
+Query 1: Is there any evidence that `non-selective cation` is the ion selectivity of the `Transient receptor potential cation channel subfamily V member 2 (symbol(s): TRPV2 (VRL))` ion channel?
+Results 1: Response: 1:'answer': Evidence Not Found
+2:'confidence': 0.9
+3:'evidence': The provided context does not mention the ion selectivity of TRPV2 (VRL) specifically.
+
+****Metadata****
+Scores:
+pubmedid: 14634208, score: 0.6465253568124594
+
+pubmedid: 11549322, score: 0.6444486726495113
+
+pubmedid: 30975749, score: 0.6375609471747649
+
+Relevant Chunks:
+pubmed: 14634208, text: TRPM5 Is a Monovalent-Specific, Nonselective Cation Channel. The
+TRPM5 current is characterized by a reversal potential of (cid:5)0
+mV (Fig. 1D), suggesting that it represents a nonselective
+ion-permeation pathway. Thus, under our standard experimen-
+tal conditions, the outward current is carried by K(cid:1) ions and the
+inward current would presumably be carried by the dominant
+(cid:1)[K(cid:1)]i). We performed
+extracellular ion species Na(cid:1) (i.e., [Na(cid:1)]o
+several ion-substitution experiments where the main extracellu-
+lar and intracellular ion species were [Na(cid:1)]o
+(cid:1)
+(cid:1)[Cs(cid:1)]i or [K(cid:1)]o
+[K(cid:1)]i or [K(cid:1)]o
+(cid:1)[Cs(cid:1)]i, and, in all cases, the current–voltage rela-
+tionships were very similar to the ones shown in Fig. 1D, suggesting
+that TRPM5 is similarly permeable for Na(cid:1), K(cid:1), and Cs(cid:1).
+
+pubmed: 11549322, text: Despite their overall structural sim-
+ilarities, however, the functions of these
+various  channel  proteins  differ  sub-
+stantially.  VR1  is  a  ligand-gated  and
+heat-activated nonselective cation chan-
+nel 
+[12].  SIC  and  OTRP4  are
+mechanosensitive  and  osmoreceptive
+cation channels [13,16,17]. Some of the
+TRP  channels  are  putative  Ca2+ store-
+operated  channels  [22],  and  PCL  is  a
+Ca2+-regulated,  nonselective  cation
+channel  [27].  CaT1  and  CaT2  also
+exhibit distinctive functional properties,
+including  saturation  kinetics  and  con-
+stitutive activity that confer upon them
+some  of  the  attributes  of  facilitated
+transporters  [3,4,6].  Single  channel
+activities  can  be  detected,  however,
+when Na+ or K+ is used as a charge car-
+rier  [7,28,29].  An  additional  feature  of
+the CaT1/CaT2 subfamily of channels is
+activation  of  both  CaT1  and  CaT2  by
+membrane hyperpolarization [7,28,29].
+CaT1  is  also  activated  by  depletion  of
+intracellular  Ca2+ stores  [7].  CaT1  is
+inactivated by intracellular Ca2+ [7], and
+Ca2+-dependent calmodulin binding to
+CaT1  is  one  mechanism  that  mediates
+inactivation  of  CaT1  [30].  So  far,  no
+endogenous  ligands  have  been  identi-
+fied that regulate the activities of CaT1
+and CaT2.
+
+pubmed: 30975749, text: is large and functionally diverse, as exemplified by a wide
+range of physiological and pharmacological modulators, differ-
+ences in ion selectivity, and tissue and subcellular distributions.
+Transient receptor potential vanilloid 5 (TRPV5) and its close
+homolog TRPV6 are unique among all TRP channels because of
+their high selectivity for calcium over monovalent cations (PCa/
+PNa >100:1) (1). They are also distinct from other members of
+the vanilloid subfamily (TRPV1–4) in that they are not known to
+be thermosensitive or ligand-activated (2, 3). Physiologically, TRPV5
+and TRPV6 serve as apical entryways into epithelial cells that line
+segments of the intestine and kidney, initiating transcellular cal-
+cium transport that helps fine-tune serum calcium levels (4).
+Disturbances in the body’s calcium balance can cause major health
+including neurologic and cardiac aberrations, stone
+problems,
+formation, and bone disorders (5–7). Indeed, genetic variants of
+TRPV5 are associated with altered renal calcium handling and
+increased risk of recurrent kidney stones (8–10).
+Query 2: Does this article provide evidence for `voltage-gated (outward recitfier)` as the gating mechanism for the `Transient receptor potential cation channel subfamily V member 2 (symbol(s): TRPV2 (VRL))` ion channel?
+Results 2: Response: 1. 'answer': Evidence Not Found
+2. 'confidence': 0.9
+3. 'evidence': The article discusses TRPP2 and other TRP channels generally but does not provide specific evidence or details about the gating mechanism of TRPV2.
+
+****Metadata****
+Scores:
+pubmedid: 31315976, score: 0.7249884761228258
+
+pubmedid: 31315976, score: 0.7005094550580496
+
+pubmedid: 31315976, score: 0.6825009107141728
+
+Relevant Chunks:
+pubmed: 31315976, text: Results
+TRPP2 and VGICs Share a Voltage-Dependent Gating Mechanism. A
+cardinal feature of voltage-gated channels are large tail currents
+activated by membrane repolarization, which capture the ion
+flow during the transition from the open to closed states in the
+whole-cell patch configuration. This feature is not commonly
+found in TRP channels; however, we and several groups have
+previously shown that TRPP2 is an exception (29–31). In the
+symmetrical sodium conditions devoid of divalent ions, whole-
+cell patched HEK293T cells overexpressing this channel gener-
+ate robust tail currents upon repolarization and can be fit to a
+Boltzmann function (SI Appendix, Fig. S1A). The half-maximal
+voltage dependence of TRPP2 activation is positive (V1/2 =
+47 mV), and the slope of the current voltage relationship is
+shallow (Z = 1.1), which infers a transfer of approximately
+1 gating charge per channel subunit (SI Appendix, Table S1).
+Based on these functional characteristics, we hypothesized that
+TRPP2 channel proteins likely contain a voltage sensing ele-
+ment. Several high-resolution structures of TRPP1 and
+TRPP2 have been determined by single partial cryo-EM (20, 25–
+28), and their conserved S4 lysines (K452 and K455 in TRPP2)
+structurally align to the third and fourth gating charge positions
+
+pubmed: 31315976, text: The opening of voltage-gated ion channels is initiated by transfer
+of gating charges that sense the electric field across the mem-
+brane. Although transient receptor potential ion channels (TRP)
+are members of this family, their opening is not intrinsically linked
+to membrane potential, and they are generally not considered
+voltage gated. Here we demonstrate that TRPP2, a member of the
+polycystin subfamily of TRP channels encoded by the PKD2L1
+gene, is an exception to this rule. TRPP2 borrows a biophysical riff
+from canonical voltage-gated ion channels, using 2 gating charges
+found in its fourth transmembrane segment (S4) to control its con-
+ductive state. Rosetta structural prediction demonstrates that the
+S4 undergoes ∼3- to 5-Å transitional and lateral movements during
+depolarization, which are coupled to opening of the channel pore.
+Here both gating charges form state-dependent cation–π interac-
+tions within the voltage sensor domain (VSD) during membrane de-
+polarization. Our data demonstrate that the transfer of a single
+gating charge per channel subunit is requisite for voltage, temper-
+ature, and osmotic swell polymodal gating of TRPP2. Taken
+together, we find that irrespective of stimuli, TRPP2 channel opening
+is dependent on activation of its VSDs.
+
+pubmed: 31315976, text: Discussion
+VGICs and TRPP2 Channel Opening Requires Activation of the VSD.
+VGICs open their ion conducting pores in response to changes in
+membrane potential. This conformational change is preceded by
+movement of 3 to 4 gating charges from each of their S4 voltage
+sensors—a step that is crucial for their regulation of electrical
+impulses in excitable cells (6). Most TRP channels have a low
+open probability with voltage stimulation alone and require
+specific ligand interactions or other stimuli
+to fully open.
+Structural analysis of TRPV, TRPM, TRPA, and TRPML
+channels suggest
+their VSD-like domains form ligand
+binding sites but the S4 remains relatively static during activation
+(41–45). For several TRP channel subtypes, the biophysical
+mechanism of current rectification is achieved through extrinsic
+mediators, like divalent cation block of TRPM7 (17, 18). Thus, in
+general, members of the TRP channel families are not consid-
+ered intrinsically voltage sensitive. In this paper, we show that
+TRPP2 channels (and possibly TRPP1) are intrinsically regu-
+lated by membrane potential through the function of 2 crucial
+gating charges (K3 and K4). For TRPP2, activation of the VSD
+appears to be the rate-limiting step and requisite for channel
+opening, regardless of polymodal stimuli. Results from our
+Rosetta modeling of TRPP2 channel in open and closed states in
+conjunction with our functional data support a model of poly-
+cystin opening that shares hallmark structural features found in
+VGICs. The consensus view of VGIC gating adopts structural
+features of the previously proposed transporter and sliding helix
+models (46, 47). The VSD undergoes voltage-dependent rear-
+rangements where the S4 segment translocates 3 to 8 Å across
+the membrane electric field, and gating charges form stepwise
+counter charge and hydrogen bond interactions between polar
+and electronegative residues of the VSD (11, 13). At the same
+time, water-exposed crevasse within the VSD is formed on ex-
+tracellular side of the membrane, where previously buried resi-
+dues are exposed to the aqueous environment when the sensor is
+activated (48).
+
+---------------------------------------------
+UniProt: Q02641
+Original PubMed: 15615847
+Query 1: Is there any evidence that `calcium` is the ion selectivity of the `Voltage-dependent L-type calcium channel subunit beta-1 (symbol(s): CACNB1)` ion channel?
+Results 1: Response: 1. 'answer': Evidence Found
+2. 'confidence': 0.9
+3. 'evidence': The context states that "Voltage-dependent Ca2+ channels are multisubunit proteins that consist of a pore-forming (cid:3)1-subunit" which indicates that calcium is the ion selectivity for these channels.
+
+****Metadata****
+Scores:
+pubmedid: 17448995, score: 0.6035166851671796
+
+pubmedid: 22711817, score: 0.6029055242769962
+
+pubmedid: 15615847, score: 0.5900244897867529
+
+Relevant Chunks:
+pubmed: 17448995, text: Sather, W.A., and McCleskey, E.W. (2003). Permeation and selectivity
+in calcium channels. Annu. Rev. Physiol. 65, 133–159.
+
+Heinemann, S.H., Terlau, H., Stuhmer, W., Imoto, K., and Numa, S.
+(1992). Calcium channel characteristics conferred on the sodium
+channel by single mutations. Nature 356, 441–443.
+
+Simasko, S.M. (1994). A background sodium conductance is neces-
+sary for spontaneous depolarizations in rat pituitary cell
+line GH3.
+Am. J. Physiol. 266, C709–C719.
+
+Heurteaux, C., Guy, N., Laigle, C., Blondeau, N., Duprat, F., Mazzuca,
+M., Lang-Lazdunski, L., Widmann, C., Zanzouri, M., Romey, G., and
+
+Strohl, K.P. (2003). Periodic breathing and genetics. Respir. Physiol.
+Neurobiol. 135, 179–185.
+
+382 Cell 129, 371–383, April 20, 2007 ª2007 Elsevier Inc.
+
+Tang, S., Mikala, G., Bahinski, A., Yatani, A., Varadi, G., and Schwartz,
+A. (1993). Molecular localization of ion selectivity sites within the pore
+of a human L-type cardiac calcium channel. J. Biol. Chem. 268,
+13026–13029.
+
+pubmed: 22711817, text: Fig. 1. CALHM1 is a Ca2+-selective ion channel. (A) Family of currents
+evoked in CAHLM1-expressing oocyte in response to voltage pulses from
+holding potential of −80 mV in a solution containing 2 mM Ca2+ and 1 mM
+Mg2+ every 60 s. (B) CALHM1-GFP expressed in plasma membrane of Xen-
+opus oocyte. (Left) Transmitted light image; (Right) confocal ﬂuorescence
+image at oocyte equator demonstrating plasma membrane localization of
+CALHM1-GFP. (C) Whole-cell currents measured in control GFP- (n = 4) and
+CALHM1 (n = 5)-expressing N2A cells by a voltage-ramp protocol from −80
+to +100 mV over 5 s (−60 mV holding potential) in bath solution containing
+1.5 mM Ca2+ and 1 mM Mg2+. (D) Reversal potentials (Erev) measured over
+a range of bath [NaCl] in nominal absence of divalent cations (n = 9 oocytes).
+Solid line is GHK constant ﬁeld equation ﬁt with the relative permeability
+ratios PNa:PK:PCl = 1:1.17:0.56. Two dashed lines are GHK constant ﬁeld
+equation ﬁts with the ﬁxed relative permeability of Cl
+to 0 and 1, respec-
+tively. (E) Erev measured in range of bath Ca2+ activities (n = 5). Solid line is
+extended GHK equation ﬁt with PCa:PNa = 10.9. (F) Changes in Erev measured
+as in E (Left) and currents (Right) (same amount of cRNAs injected) in response
+to changing [Ca2+]o from 0 to 2 mM in oocytes expressing WT and mutant
+CALHM1. n = 3–6, mean ± SEM; *Student’s t test, P < 0.05.
+
+pubmed: 15615847, text: electrophysiology; ion; heart; splice variant
+
+CALCIUM CHANNELS ARE FOUND IN many excitable tissues and are
+intricately involved in important cellular processes including
+genesis of action potentials, excitation-contraction coupling,
+and gene expression. Voltage-dependent Ca2(cid:1) channels are
+multisubunit proteins that consist of a pore-forming (cid:3)1-subunit
+that is associated with auxiliary subunits including the cyto-
+plasmic (cid:2)-subunit, a membrane-associated (cid:3)2(cid:4)-subunit, and a
+(cid:5)-subunit (10). The ultimate functional properties of Ca2(cid:1)
+channels are determined not only by the pore-forming (cid:3)1-
+subunits but also by the combination of auxiliary subunits that
+ﬁnely tune the channel properties.
+Query 2: Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `Voltage-dependent L-type calcium channel subunit beta-1 (symbol(s): CACNB1)` ion channel?
+Results 2: Response: 1: 'answer': Evidence Found
+2: 'confidence': 0.9
+3: 'evidence': The article states that voltage-gated Ca2+ channels are composed of a conducting α1 subunit modulated by Cavβ (beta subunits), indicating that the beta subunit (such as CACNB1) is part of the voltage-gated mechanism.
+
+****Metadata****
+Scores:
+pubmedid: 31071485, score: 0.6328165748901835
+
+pubmedid: 29742403, score: 0.6189573651044783
+
+pubmedid: 15615847, score: 0.6130567996850165
+
+Relevant Chunks:
+pubmed: 31071485, text: Cell Calcium 80 (2019) 125–140
+
+Fig. 1. Voltage-gated Ca2+ channel auxiliary subunits.
+Voltage-gated Ca2+ channels (VGCCs) are composed of a
+conducting α1 subunit accompanied and functionally modu-
+lated by Cavβ, α2δ and Cavγ subunits [20]. α1 consists of four
+domains (domains I-IV), each consisting of six segments (S1-
+S6). The voltage-sensing domain is found within S4 of each
+domain and the pore consists of the P-loop found between S5-
+6 of each domain. Cavβ modulates Ca2+ inﬂux via binding the
+DI-DII linker of α1. Cavβs are also involved in regulating gene
+expression and endocytosis [22,36–38,40,44]. α2δ subunits
+are extracellular proteins that remain associated to the mem-
+brane via a GPI-anchor [54]. α2δ subunits are involved in
+synaptogenesis [65]. Cavγ subunits are four-pass transmem-
+brane proteins also involved in cervical ganglion neurite
+outgrowth and synaptogenesis [108,109].
+
+pubmed: 29742403, text: Messenger Phosphoprotein Res. 33:153–177.
+
+10. Hullin, R., I. F. Khan, ., S. Herzig. 2003. Cardiac L-type calcium
+channel beta-subunits expressed in human heart have differential ef-
+fects on single channel characteristics. J. Biol. Chem. 278:21623–
+21630.
+
+CaV1.2 N-Terminal and Domain I Variants
+
+11. Dolphin, A. C. 2003. Beta subunits of voltage-gated calcium channels.
+
+J. Bioenerg. Biomembr. 35:599–620.
+
+12. Arikkath, J., and K. P. Campbell. 2003. Auxiliary subunits: essential
+components of the voltage-gated calcium channel complex. Curr.
+Opin. Neurobiol. 13:298–307.
+
+13. Hu, Z., M. C. Liang, and T. W. Soong. 2017. Alternative splicing of
+L-type CaV1.2 calcium channels: implications in cardiovascular dis-
+eases. Genes (Basel). 8:E344.
+
+14. Li, G., J. Wang, ., T. W. Soong. 2017. Exclusion of alternative exon
+33 of CaV1.2 calcium channels in heart is proarrhythmogenic. Proc.
+Natl. Acad. Sci. USA. 114:E4288–E4295.
+
+pubmed: 15615847, text: electrophysiology; ion; heart; splice variant
+
+CALCIUM CHANNELS ARE FOUND IN many excitable tissues and are
+intricately involved in important cellular processes including
+genesis of action potentials, excitation-contraction coupling,
+and gene expression. Voltage-dependent Ca2(cid:1) channels are
+multisubunit proteins that consist of a pore-forming (cid:3)1-subunit
+that is associated with auxiliary subunits including the cyto-
+plasmic (cid:2)-subunit, a membrane-associated (cid:3)2(cid:4)-subunit, and a
+(cid:5)-subunit (10). The ultimate functional properties of Ca2(cid:1)
+channels are determined not only by the pore-forming (cid:3)1-
+subunits but also by the combination of auxiliary subunits that
+ﬁnely tune the channel properties.
+
+---------------------------------------------
+UniProt: Q13303
+Original PubMed: 7649300
+Query 1: Is there any evidence that `potassium` is the ion selectivity of the `Voltage-gated potassium channel subunit beta-2 (symbol(s): KCNAB2 (KCNA2B, KCNK2))` ion channel?
+Results 1: Response: 1: 'answer': Evidence Not Found
+2: 'confidence': 0.9
+3: 'evidence': The provided context does not specifically mention the Voltage-gated potassium channel subunit beta-2 (KCNAB2) or its role in ion selectivity.
+
+****Metadata****
+Scores:
+pubmedid: 14618155, score: 0.6494777626888739
+
+pubmedid: 11368907, score: 0.6144310724315869
+
+pubmedid: 23212381, score: 0.6082226936077073
+
+Relevant Chunks:
+pubmed: 14618155, text: Ion selectivity and permeation
+All K+ channels can discriminate between K+ and Na+,
+the most abundant alkali metal ions in nature. Without
+such ion selectivity, channels would not be able to 
+generate electrical signals. Selectivity for K+ is conferred
+by the selectivity filter, defined as the narrowest part of
+the conduction pathway in the open channel (FIG. 1c).
+In all K+ channel crystal structures solved so far, the main-
+chain carbonyl oxygens of the conserved K+ channel 
+signature  sequence  (TXGYG  or  TXGFG), which  is
+located in the P-loop, form the selectivity filter (FIG. 3).
+Point mutations in the K+ channel signature sequence
+abolish K+ selectivity16. At the phenotypic level, this loss
+of K+ selectivity is linked to the movement disorder that
+is observed in weaver mice17–20.
+
+pubmed: 11368907, text: Potassium channels, the largest sub-family of the ion
+channel superfamily, play important roles in a wide variety
+of cells. Members of this channel family play critical roles
+in cellular signalling processes regulating neurotransmitter
+release, heart rate, insulin secretion, neuronal excitability,
+epithelial electrolyte transport, smooth muscle contraction,
+and cell volume regulation. K1 channels are membrane–
+spanning proteins that selectively conduct K1 ions across
+the cell membrane. Membrane depolarization activates
+that, once opened,
+voltage-gated potassium channels
+conduct potassium ions along the concentration gradient
+against the electric ﬁeld. This outward current leads to repo-
+larization of the membrane. To accomplish this, K1 chan-
+nels are endowed with a set of features: (1) a water-ﬁlled
+permeation pathway (pore) that allows K1 ions to ﬂow
+across the cell membrane; (2) a selectivity ﬁlter that speci-
+ﬁes K1 ions as permeate ion species; (3) a gating mechan-
+
+pubmed: 23212381, text: Discussion
+
+Mutations of residues that line the ion conduction pathway of an ion channel usually 
+significantly alter its ion selectivity. This concept has often been applied to test whether a 
+protein is an ion channel-forming subunit36–38. On the other hand, mutations of non-pore 
+lining regulatory proteins that even interact directly with ion channels rarely affect the 
+channels' ion selectivity. To our knowledge, the only reported non-pore lining protein whose 
+mutations affect a channel's ion selectivity is mink (KCNE1), a K+ channel regulatory 
+subunit. In that case, however, only one residue was found that, when mutated, was able to 
+increase the relative permeability of one ion (Na+) by 7 fold39.
+Query 2: Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `Voltage-gated potassium channel subunit beta-2 (symbol(s): KCNAB2 (KCNA2B, KCNK2))` ion channel?
+Results 2: Response: 1: 'answer': Evidence Not Found
+2: 'confidence': 1
+3: 'evidence': The provided context does not mention the Voltage-gated potassium channel subunit beta-2 (KCNAB2) or its gating mechanism.
+
+****Metadata****
+Scores:
+pubmedid: 20393197, score: 0.6379383155633985
+
+pubmedid: 17156368, score: 0.6206181175762592
+
+pubmedid: 12060745, score: 0.6192463454867917
+
+Relevant Chunks:
+pubmed: 20393197, text: Voltage-gated potassium (Kv) channels selectively
+catalyze the transport of K(cid:1) across the plasma membrane.
+The channels are multisubunit complexes, being com-
+posed of membrane-integrated Kv(cid:2)-subunits and of ac-
+cessory subunits. Kv(cid:2)-subunits form a tetrameric protein
+complex that assembles the core of a Kv channel consist-
+ing of a pore domain with activation (and inactivation)
+gate(s) and selectivity ﬁlter linked to peripheral voltage-
+sensor domains. In in vitro expression systems, most
+Kv(cid:2)-subunits form functional Kv channels, reproducing
+basic Kv channel properties such as opening and closing
+(gating) of the pore in response to a change in the mem-
+brane electric ﬁeld (60, 219, 283, 342). The activation
+process is well described by a sequential gating model, in
+which voltage-sensor movements in each Kv(cid:2)-subunit are
+usually followed by a concerted pore opening step to
+permit passage of K(cid:1). The details of conformational
+changes associated with the electromechanical coupling-
+mechanism between voltage sensor and activation gate
+are presently under intense investigation (33, 153, 154,
+282).
+
+pubmed: 17156368, text: Discussion
+
+Here we have sought
+to characterize the functional properties of
+channels composed of the human Kv1.1 and Kv1.4 subunits in the
+absence and presence of auxiliary subunits such as human Kvb1.1 and
+Kvb1.2. We have demonstrated that the hetero-oligomeric assemblies
+of these subunits generate channels with distinct gating properties that
+are profoundly modiﬁed by several mutations identiﬁed in the KCNA1
+gene of EA1-affected patients.
+
+Neurophysiological and disease implications
+
+Kv1.1, Kv1.4 and Kvb1.x subunits form the A-type potassium
+channel. These channel types control the ﬁring properties of neurones
+and their response to input stimuli (Connor & Stevens, 1971). The
+functional properties of Kv1.4-1.1 ⁄ Kvb1.1 showed some similarities
+with the potassium currents characterized by Geiger & Jonas (2000) in
+hippocampal mossy ﬁbre boutons. However, some biophysical
+parameters such as the inactivation V1 ⁄ 2 and refractory period are
+
+pubmed: 12060745, text: The profound effects of Kv6.3 on Kv2.1 gating properties
+suggest an important role for these heterotetramers: the latter
+would be inactivated at potentials close to resting potential (V1⁄2
+for inactivation is (cid:2)56 mV) in contrast to the homotetrameric
+Kv2.1 channels (V1⁄2 (cid:3) (cid:2)16 mV). Because both subunits are
+expressed in the brain (Fig. 2) functional heterotetramers could
+exist (6, 17). Previous studies on the sustained delayed rectifier
+component of hippocampal neurons showed properties that are
+comparable with those of Kv2.1 and Kv6.3 heteromultimers (28,
+29). At (cid:2)5 mV the two time constants for activation for the
+current in those neurons were 53 ms and 190 ms, which is
+comparable with heterotetrameric channels of Kv2.1 and Kv6.3
+(Table 1). In addition, the midpoint of inactivation was more
+negative ((cid:2)96 mV), which is at least closer to (cid:2)56 mV for Kv2.1
+and Kv6.3 compared with (cid:2)16 mV for Kv2.1 alone. Further-
+more, the pharmacological profile for homomeric Kv2.1 chan-
+nels did not correspond completely with that of the sustained
+delayed rectifier component: the TEA sensitivity depended on
+the cell type under investigation (29) and differed from Kv2.1.
+Thus native channels that are considered to contain Kv2 subunits
+may well be heterotetramers, although it will be a challenge to
+assign the proper heterotetrameric combination.
+
+---------------------------------------------

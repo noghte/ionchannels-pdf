@@ -1,0 +1,226 @@
+{
+    "Q9Y696": {
+        "query1": {
+            "answer": "Not Found",
+            "confidence": 0.9,
+            "evidence": "The context indicates that CLIC4 is poorly-selective between anions and cations and may not be accurately described as a 'chloride' channel. The evidence suggests that CLIC4 behaves like non-selective channels and does not specifically select for chloride ions.",
+            "sources": [
+                {
+                    "pubmed_id": "18028448",
+                    "text": "ionic selectivity of\n\nCLICs exist as soluble and membranous proteins [3],\nand they interact with various other cytosolic proteins\n[15]. As CLIC function was investigated by their\nreconstitution in planar bilayers,\nit is possible that\nmodulation of either channel permeability or selectivity\nby cytoplasmic and membranous components present\ninside an intact cell may have been overlooked. How-\never, as the channel properties of CLIC5 have not\nbeen reported to date, this reduced system has the\nadvantage of characterizing CLIC5 function in the\nabsence of modulatory factors. Furthermore, the role\nof actin in regulating channel function is best observed\nin such a reduced system considering the multiple and\nthe cytoskeleton performs in\ncontrasting roles that\nintact cells.\n\nIon channel regulation by F-actin",
+                    "score": 0.7201302414775415
+                },
+                {
+                    "pubmed_id": "17453412",
+                    "text": "CLIC4 is poorly-selective between anions and\ncations,\ninconsistent with the widely-adopted\n‘‘CLIC’’ nomenclature proposed by [18] and [40].\nIt may be necessary to re-evaluate CLIC proteins,\nespecially CLIC4, as ‘‘chloride’’ channels, if they\nbehave like non-selective channels. This could be\ndue to a wide pore lacking specific ion-binding sites.\nHowever, a maximum conductance of (cid:1)/15 pS in\nKCl is inconsistent with a wide water-filled pore (as\nfound for example in bacterial porins). Franciolini\nand Nonner\n[41,42] noted similar paradoxical\nbehaviour in neuronal ‘‘background’’ Cl(cid:4) channels,\nand suggested that anions and cations crossed the\nmembrane at least partly as counter ions. Based on\nsimilar ideas, if the putative pore lining of CLIC4\ncontains rings of arginine or lysine residues (as\nsuggested in Figure 9), transient binding of per-\nmeant anions could provide an opportunity for\ncounter ions (e.g., K(cid:1)) to cross the membrane\nwithout encountering a prohibitive positive charge.\nIn a scheme like this, ion permeation requires the\npresence of anions, and they must be sufficiently\nsmall to penetrate the pore. Large,\nimpermeant\nanions would prevent the passage of both anions\nand cations (regardless of the latter’s size), whereas\nlarge, relatively impermeant cations would not pre-\nvent all ion permeation, but would make the channel\nmore anion-selective. Consistent with this idea, we\nnoted enhanced anion vs. cation selectivity in the\npresence of the relatively large cation Tris(cid:1) com-\npared to K(cid:1). We also noted that CLIC4 was unable\nto discriminate between a range of different anions,\nagain consistent with the idea that the pore itself is\npoorly-selective. However, CLIC1 is slightly but\nmeasurably more anion-selective than CLIC4 [23],\nso if the putative pore-lining is not responsible for\nthis difference (and the sequences are very similar, as\nshown in Figure 9, suggesting in passing that\ndetailed site-directed mutagenesis studies of putative\nTMD/pore-lining residues may not be very produc-",
+                    "score": 0.7188666832418243
+                },
+                {
+                    "pubmed_id": "17453412",
+                    "text": "We also noted enhanced anion vs. cation selectivity\nin fully-oxidized CLIC4 (exposed to 100 mM H2O2)\ncompared to the fully-reduced channel, although the\nchannel remains essentially very poorly-selective.\nOxidation of soluble CLIC1 induces a completely\nnew protein conformation involving intrachain dis-\nulphide bond formation and non-covalent associa-\ntion into dimers [34], but a similar mechanism has\nbeen ruled out for CLIC4 [12], so we speculate that\nfollowing membrane insertion the pore-lining re-\ngions of CLIC4 remain the same irrespective of\noxidation or reduction. Instead, we suggest that the\ndifference in selectivity observed here could be due to\nchanges in the charged surface of the protein, away\nfrom the putative TMD, that affect the channel\nvestibule(s) or entrance(s). This suggestion is con-\nsistent with experiments involving truncated CLIC4.\n\nChannel formation by truncated CLIC4\n\nlines of evidence support",
+                    "score": 0.6945619886041433
+                },
+                {
+                    "pubmed_id": "17453412",
+                    "text": "vs. trans TrisCl (pH 7.4) in the presence of 1 mM\nDTT (Figure 3A). As shown in Figure 3B, the\nconductance was reduced to 2.69/0.43 pS (mean9/\nSD, n (cid:3)/7), but the reversal potential was (cid:1)/119/\n6.1 mV (mean9/SD, n (cid:3)/7), giving a mean Cl(cid:4)/\nTris(cid:1) selectivity of 1.89/0.51 (not corrected for\nactivities). The difference in relative anion vs. cation\nselectivity compared to KCl is highly significant (p B/\n0.001).\n\nCLIC4 ion channels in other redox conditions",
+                    "score": 0.6731816181773289
+                }
+            ]
+        },
+        "query2": {
+            "answer": "Not Found",
+            "confidence": 1,
+            "evidence": "The context does not provide evidence for 'voltage-gated, pH sensitive' as the gating mechanism for the CLIC4 ion channel.",
+            "sources": [
+                {
+                    "pubmed_id": "17453412",
+                    "text": "Abstract\nDespite being synthesized in the cytosol without a leader sequence, the soluble 253-residue mammalian protein CLIC4\n(Chloride Intracellular Channel 4, or p64H1), a structural homologue of V-type glutathione-S-transferase, autoinserts into\nmembranes to form an integral membrane protein with ion channel activity. A predicted transmembrane domain (TMD)\nnear the N-terminus of CLIC4 could mediate membrane insertion, and contribute to oligomeric pores, with minimal\nreorganization of the soluble protein structure. We tested this idea by reconstituting recombinant CLIC4 in planar bilayers\ncontaining phosphatidyethanolamine, phosphatidylserine and cholesterol, recording ion channels with a maximum\nconductance of (cid:1)/15 pS in KCl under both oxidizing and reducing conditions. The channels discriminated poorly\nbetween anions and cations, incompatible with the current ‘‘CLIC’’ nomenclature, and their conductance was modified by\nthe trans (external or luminal) redox potential, as previously observed for CLIC1. We then reconstituted a truncated version\nof the protein, limited to the first 61 residues containing the predicted TMD. This included a single trans cysteine residue in\nthe putative pore-forming subunits, at the external entrance to the pore. The truncated protein formed non-selective\nchannels with a reduced conductance, but they retained their trans -redox sensitivity, and could still be blocked or\ninactivated by trans (not cis ) thiol-reative dithiobisnitrobenzoic acid. We suggest that oligomers containing the putative\nTMD are essential components of the CLIC4 pore. However, the pore is inherently non-selective, and any ionic selectivity\nin CLIC4 (and other membrane CLICs) may be attributable to other regions of the protein, including the channel\nvestibules.",
+                    "score": 0.6683826580204048
+                },
+                {
+                    "pubmed_id": "29845874",
+                    "text": "gistic action of Cl(cid:2) and protons, the movement of which\nfrom the aqueous solutions depends on voltage. Open ques-\ntions are, for example, whether the gating glutamate has to\nbe protonated before it can be displaced from its binding\nsite, how much its own movement contributes to the voltage\ndependence of opening, and if it can reach the central anion\nbinding site, as in the crystal structure of CmClC (FIGURE\n4). One remarkable aspect of fast gating is that despite all\nthese various inﬂuences on fast gating, the time course of\nfast gate relaxations can be extremely well described by a\nsingle exponential function. This supports the hypothesis\nthat the same major rate-limiting steps underlie fast gate\nopening and fast gate closing, respectively, under all condi-\ntions, which might be the movement of the side chain of the\ngating glutamate.\n\nE. The Slow Gate of ClC-0",
+                    "score": 0.6663627486094484
+                },
+                {
+                    "pubmed_id": "29845874",
+                    "text": "contrast, detailed studies from the Arreola group favor the\nidea that a Cl(cid:2), coming from the inside, displaces the neg-\natively charged gating glutamate, which is then stabilized by\nvoltage-independent protonation from the outside in the\nopen conﬁgurations (166, 730, 731). A strong argument of\nArreola and colleagues was that they could open ClC-2\nchannels even at extracellular pH 10, which appears impos-\nsible if protonation is a prerequisite for channel opening\n(730, 731). Interestingly, also several intracellularly ap-\nplied, impermeant anions are able to favor channel opening\n(166). Overall, these experiments indeed strongly favor the\nidea that ClC-2 is opened by intracellular Cl(cid:2). Neverthe-\nless, it might be insightful to perform detailed kinetic anal-\nysis in a simpliﬁed system, for example, with channels har-\nboring mutations that eliminate slow gating in addition to\nthe H532F mutant, allowing to extract opening and closing\nrate constants over large voltage ranges, similar to what has\nbeen done for ClC-0 (128, 963).",
+                    "score": 0.6636715721249444
+                },
+                {
+                    "pubmed_id": "17453412",
+                    "text": "CLIC4 is poorly-selective between anions and\ncations,\ninconsistent with the widely-adopted\n‘‘CLIC’’ nomenclature proposed by [18] and [40].\nIt may be necessary to re-evaluate CLIC proteins,\nespecially CLIC4, as ‘‘chloride’’ channels, if they\nbehave like non-selective channels. This could be\ndue to a wide pore lacking specific ion-binding sites.\nHowever, a maximum conductance of (cid:1)/15 pS in\nKCl is inconsistent with a wide water-filled pore (as\nfound for example in bacterial porins). Franciolini\nand Nonner\n[41,42] noted similar paradoxical\nbehaviour in neuronal ‘‘background’’ Cl(cid:4) channels,\nand suggested that anions and cations crossed the\nmembrane at least partly as counter ions. Based on\nsimilar ideas, if the putative pore lining of CLIC4\ncontains rings of arginine or lysine residues (as\nsuggested in Figure 9), transient binding of per-\nmeant anions could provide an opportunity for\ncounter ions (e.g., K(cid:1)) to cross the membrane\nwithout encountering a prohibitive positive charge.\nIn a scheme like this, ion permeation requires the\npresence of anions, and they must be sufficiently\nsmall to penetrate the pore. Large,\nimpermeant\nanions would prevent the passage of both anions\nand cations (regardless of the latter’s size), whereas\nlarge, relatively impermeant cations would not pre-\nvent all ion permeation, but would make the channel\nmore anion-selective. Consistent with this idea, we\nnoted enhanced anion vs. cation selectivity in the\npresence of the relatively large cation Tris(cid:1) com-\npared to K(cid:1). We also noted that CLIC4 was unable\nto discriminate between a range of different anions,\nagain consistent with the idea that the pore itself is\npoorly-selective. However, CLIC1 is slightly but\nmeasurably more anion-selective than CLIC4 [23],\nso if the putative pore-lining is not responsible for\nthis difference (and the sequences are very similar, as\nshown in Figure 9, suggesting in passing that\ndetailed site-directed mutagenesis studies of putative\nTMD/pore-lining residues may not be very produc-",
+                    "score": 0.639079903816819
+                }
+            ]
+        }
+    },
+    "Q70Z44": {
+        "query1": {
+            "answer": "Not Found",
+            "confidence": 1,
+            "evidence": "The provided context does not contain any information about the ion selectivity of the HTR3D ion channel.",
+            "sources": [
+                {
+                    "pubmed_id": "16423824",
+                    "text": "FIGURE 4. Cation selectivity of (cid:1)(cid:2)(cid:3)(cid:4)-hENaC expressed in oocytes. A, representative amiloride-sensitive whole-cell current traces recorded from an oocyte expressing (cid:4)(cid:1)(cid:2)(cid:3)-\nhENaC. Oocytes were initially perfused with ND-96 medium (96 mM Na(cid:1)), and step I-V traces were obtained. Oocytes were hold at stepped voltages from (cid:2)120 mV to (cid:1)80 mV in\n20-mV increments. Amiloride-sensitive traces were computed as the difference between the currents with and without 100 (cid:6)M amiloride in the bath. The bath solution was switched\nto media in which the sodium was substituted with equamolar monovalent or divalent cations. The dashed lines indicate zero current level. n (cid:7) 4 – 6. B, cation permeation of (cid:4)(cid:2)(cid:3)-,\n(cid:1)(cid:2)(cid:3)-, and (cid:4)(cid:1)(cid:2)(cid:3)-hENaC. Whole-cell amiloride-sensitive currents (I) at membrane potential (Vm) from (cid:2)120 mV to (cid:1)80 mV were recorded from oocytes expressing (cid:4)(cid:2)(cid:3)- (top), (cid:1)(cid:2)(cid:3)-\n(middle), and (cid:4)(cid:1)(cid:2)(cid:3)-hENaC (bottom). The I-V curves were fitted with the Goldman-Hodgkin-Katz current equation to calculate the absolute permeability to each cation and relative\nratios to sodium.",
+                    "score": 0.5668054040798005
+                },
+                {
+                    "pubmed_id": "29604966",
+                    "text": "The cAMP-evoked currents in ANO9-HEK cells were cationic be-\ncause they were not observed in the bath solution containing 140 mM\nN-methyl D-glucamine (NMDG)-Cl (Fig. 3A and B). Ion selectivity was\ndetermined by a shift in reversal potential in whole cells in which ex-\ntracellular KCl solution was changed to 70 and 210 mM. The pipette\nsolution contained 140 mM KCl. The current–voltage (I–V) relationship\nwas obtained to measure the reversal potential. Voltage ramps from\n−100 mV to +100 mV in 100 ms durations were applied. When the\nbath KCl concentration, initially 140 mM, was changed to 210 mM and\n70 mM, the reversal potentials were changed to +6.29 ± 0.82 mV and\n−11.46 ± 1.09 mV (n = 8), respectively (Fig. 3C). The reversal po-\ntentials were plotted as a function of extracellular KCl concentration on\na semi-logarithmic scale. A line was ﬁtted to +37.2 mV/decade, which\nis relatively close to +58 mV/decade of the Nernst equation when the\nmajor carrier charge is a cation. The relative permeability ratio of K+\n(PCl/PK) calculated by Goldman-Hodgkin-Katz equation [41] is\nand Cl\n0.237 ± 0.034, suggesting a weak permeability to Cl\n. Thus, these\nresults clearly suggest that ANO9 exhibits a large preference for cations.\nWe then explored the selectivity among cations by estimating the\npermeability ratios after replacing the 140 mM KCl solution in the bath\nwith a solution of 70 mM CaCl2 and 140 mM of NaCl, CsCl, and LiCl.\nThe pipette solution contained 140 mM KCl. The reversal potentials\nwere −2.07 ± 1.56, −7.83 ± 1.25, −1.06 ± 2.43\nand\n−12.6 ± 2.96 mV when the bath K+ solution was changed to Ca2+,\nCs+, Na+, and Li+, respectively (Fig. 3D). The relative permeability\nratios (PX/PK) ranged from 0.54 to 1.87 (Fig. 3E), suggesting that ANO9\ndiscriminated poorly among cations but was more permeable to Ca2+\nthan to monovalent cations.",
+                    "score": 0.5665453481859173
+                },
+                {
+                    "pubmed_id": "15010458",
+                    "text": "with a pipette solution containing 0.5 mM CaCl2, because this\nlarge amount of Ca2(cid:4) was required to stabilize the current-\nvoltage relation. The ionic selectivity was altered in hTTYH3\npore mutants by exchanges of charged amino acids (Fig. 4B).\nMutant H370D showed a different selectivity, in which gluco-\nnate/Cl(cid:1) decreased from 0.3 to 0.12 and Cs(cid:4)/Cl(cid:1) increased to\n0.1. Mutant R366Q was more permeable to cations. The rever-\nsal potential with isosmotic NaCl/CsCl shifted to 12.5 mV\n(mean of eight), suggesting significant permeability to Na(cid:4).\nAssuming that TEA and gluconate are impermeable ions, the\nNa(cid:4)/Cs(cid:4)/Cl(cid:1) permeability ratio was calculated to be 0.7:0.25:1.\nThus, positively charged amino acids at positions 366 and 370\ncomposed the pore of hTTYH3, playing a role in anion\nselectivity.",
+                    "score": 0.5659236876670988
+                },
+                {
+                    "pubmed_id": "12801637",
+                    "text": "To investigate the evolutionary relationship between\nHTR3C, D and E, we carried out sequence comparison on\nnucleotide and amino acid level. Comparison on the\nnucleotide level revealed overall homologies of 82.8 –\n90.1% between the three cDNAs. Comparison of HTR3C, D\nand E to the previously known genes of the HTR3 class,\nHTR3A and HTR3B, showed that similarity is much lower\n(Table 3). On protein level the 5-HT3C, 5-HT3D and 5-HT3E\nsubunits show identities between 64.8 and 74.3%, while\ntheir identity compared to 5-HT3A and 5-HT3B ranges from\n26.8 to 39.8% (Table 3). It is very unlikely that the novel\ngenes represent members of the nicotinic acetylcholine\nreceptor (nAChR) family. The nAChR subunits most\nclosely related are alpha 9 and alpha 10 revealing overall\nidentities of only 27%. We have established dendrograms\nbased on multiple sequence alignments using all known\nHTR3 cDNAs of human and other species. These data",
+                    "score": 0.4643249771907098
+                }
+            ]
+        },
+        "query2": {
+            "answer": "Found",
+            "confidence": 1,
+            "evidence": "The article states that within the family of serotonin receptors, the 5-hydroxytrypta-mine-3 (5-HT3) receptor is the only ligand-gated ion channel. It further mentions the discovery of additional subunits, including HTR3D, that form functional 5-HT3 receptor complexes, indicating that HTR3D is part of the ligand-gated ion channel mechanism.",
+            "sources": [
+                {
+                    "pubmed_id": "12801637",
+                    "text": "Quirk, P., Siegel, R., 2000. N-Glycosylation is necessary for surface\n\nexpression of the 5-HT3 receptor. Soc. Neurosci. Abstr. 811, 4.\n\nReeves, D.C., Lummis, S.C., 2002. The molecular basis of the structure and\nfunction of the 5-HT3 receptor: a model ligand-gated ion channel. Mol.\nMembr. Biol. 19, 11–26.\n\nRiordan, J.R., 1992. The molecular biology of chloride channels. Curr.\n\nOpin. Nephrol. Hypertens. 1, 34– 42.\n\nUetz, P., Abdelatty, F., Villarroel, A., Rappold, G.A., Weiss, B., Koenen,\nM., 1994. Organisation of the murine 5-HT3 receptor gene and\nassignment to human chromosome 11. FEBS Lett. 339, 302 –306.\nVan Hooft, J.A., Vijverberg, H.P., 1995. Phosphorylation controls\nconductance of 5-HT3 receptor ligand-gated ion channels. Receptors\nChannels 3, 7 –12.",
+                    "score": 0.620230991810296
+                },
+                {
+                    "pubmed_id": "17392525",
+                    "text": "ABSTRACT\nWithin the family of serotonin receptors, the 5-hydroxytrypta-\nmine-3 (5-HT3) receptor is the only ligand-gated ion channel. It\nis composed of five subunits, of which the 5-HT3A and 5-HT3B\nsubunits are best characterized. Several studies, however,\nhave reported on the functional diversity of native 5-HT3 recep-\ntors, which cannot solely be explained on the basis of the\n5-HT3A and 5-HT3B subunits. After our discovery of further\nputative 5-HT3 serotonin receptor-encoding genes, HTR3C,\nHTR3D, and HTR3E, we investigated whether these novel can-\ndidates and the isoform 5-HT3Ea are able to form functional\n5-HT3 receptor complexes. Using immunofluorescence and im-\nmunoprecipitation studies of heterologously expressed pro-\nteins, we found that each of the respective candidates coas-\nsembles with 5-HT3A. To investigate whether the novel subunits\nmodulate 5-HT3 receptor function, we performed radioligand-\nbinding assays and calcium-influx studies in human embryonic",
+                    "score": 0.6201902586961208
+                },
+                {
+                    "pubmed_id": "17392525",
+                    "text": "Fig. 4. Radioligand binding studies. Saturation curves for specific\n(MDL72222-sensitive) binding of [3H]GR65630 (0.03–3 nM) in mem-\nbranes of HEK293 cells transiently expressing various 5-HT3 subunit\ncombinations. For each subunit combination, three to five independent\nexperiments were performed in triplicate. Nonspecific binding in the\npresence of 100 (cid:1)M MDL72222 was approximately 10% of overall bind-\ning. Specific binding was expressed as a percentage of control (i.e., as a\npercentage of the Bmax of the homopentameric 5-HT3A receptor; means (cid:4)\nS.E.M. of three to five experiments with separate membrane prepara-\ntions). The absolute Bmax values were 6.8 (cid:4) 0.6 and 10.5 (cid:4) 0.3 pmol/mg\nprotein for the top and bottom, respectively. The difference is due to the\nfact that the experiments were performed in two separate groups.\n\nHuman 5-HT3R Subunits 5-HT3C, 5-HT3D, and 5-HT3E\n\n13",
+                    "score": 0.5977000598458131
+                },
+                {
+                    "pubmed_id": "12801637",
+                    "text": "For more than 50 years the serotonin system has been the subject of intense research. This has provided an exciting insight and led to the\ndiscovery of multiple drugs targeting serotonin receptors, metabolising enzymes and re-uptake sites. During the past few years researchers\nfocussed especially on elucidating the complexity of different physiological actions in the serotonergic network. We have identiﬁed two\nnovel human serotonin 5-hydroxytryptamine type 3 receptor-like genes, HTR3D and HTR3E, by performing homology searches using the\npublic human sequence databases and subsequently cloned the full length cDNAs by 50 and 30 rapid ampliﬁcation of complementary DNA\nends. Mapping of HTR3D and HTR3E by hybridisation, polymerase chain reaction and ﬂuorescence in situ hybridisation revealed that both\ngenes together with HTR3C are clustered in a subinterval of less than 100 kb on chromosome 3q27. Comparative expression analysis of all\nHTR3 genes, namely HTR3A, B, C, D and E showed HTR3D expression to be restricted to kidney, colon and liver and HTR3E expression to\ncolon and intestine, whereas all other genes are widely expressed in many tissues including brain.\nq 2003 Elsevier Science B.V. All rights reserved.",
+                    "score": 0.5758969794592378
+                }
+            ]
+        }
+    },
+    "Q96RP8": {
+        "query1": {
+            "answer": "Found",
+            "confidence": 1,
+            "evidence": "Initial isolation and analysis of the human Kv1.7 (KCNA7) gene, a member of the voltage-gated potassium channel gene family",
+            "sources": [
+                {
+                    "pubmed_id": "14618155",
+                    "text": "Ion selectivity and permeation\nAll K+ channels can discriminate between K+ and Na+,\nthe most abundant alkali metal ions in nature. Without\nsuch ion selectivity, channels would not be able to \ngenerate electrical signals. Selectivity for K+ is conferred\nby the selectivity filter, defined as the narrowest part of\nthe conduction pathway in the open channel (FIG. 1c).\nIn all K+ channel crystal structures solved so far, the main-\nchain carbonyl oxygens of the conserved K+ channel \nsignature  sequence  (TXGYG  or  TXGFG), which  is\nlocated in the P-loop, form the selectivity filter (FIG. 3).\nPoint mutations in the K+ channel signature sequence\nabolish K+ selectivity16. At the phenotypic level, this loss\nof K+ selectivity is linked to the movement disorder that\nis observed in weaver mice17–20.",
+                    "score": 0.6603450922363976
+                },
+                {
+                    "pubmed_id": "14618155",
+                    "text": "KcsA\n\nBuried\n\nPore-\nfacing\n\nexperiments6,7,21–24. This work has been reviewed previ-\nously25 (FIG. 3). As the K+ channel signature sequence \nis conserved between all K+ channels, and the KcsA \npore can substitute for the pore of other K+ channels26,\nit is assumed that the mechanism of ion selectivity \nand permeation at the selectivity filter is similar in all \nK+ channels.\n\nIn Kir channels, structural features other than the \nK+ channel signature sequence are also important for K+\nselectivity. Differences in the residues that surround \nthe selectivity filter account for the reduced K+ selectivity\nof Kir3.1 compared with other Kir3 family members27.\nCertain mutations in the pore helix or in M2 of Kir3.2\ncause a loss of K+ selectivity28. In most Kir channels,\na  SALT  BRIDGE between  conserved  charged  residues \nin adjacent subunits has been suggested to anchor\nand stabilize the K+ channel signature sequence29–32.",
+                    "score": 0.6184988743892575
+                },
+                {
+                    "pubmed_id": "23212381",
+                    "text": "Discussion\n\nMutations of residues that line the ion conduction pathway of an ion channel usually \nsignificantly alter its ion selectivity. This concept has often been applied to test whether a \nprotein is an ion channel-forming subunit36–38. On the other hand, mutations of non-pore \nlining regulatory proteins that even interact directly with ion channels rarely affect the \nchannels' ion selectivity. To our knowledge, the only reported non-pore lining protein whose \nmutations affect a channel's ion selectivity is mink (KCNE1), a K+ channel regulatory \nsubunit. In that case, however, only one residue was found that, when mutated, was able to \nincrease the relative permeability of one ion (Na+) by 7 fold39.",
+                    "score": 0.6066050097590663
+                },
+                {
+                    "pubmed_id": "11368907",
+                    "text": "Gene 268 (2001) 115–122\n\nwww.elsevier.com/locate/gene\n\nInitial isolation and analysis of the human Kv1.7 (KCNA7) gene, a member\nof the voltage-gated potassium channel gene family\n\nVladimir I. Kashubaa,b,c,1,*, Sergei M. Kvashaa,c,1, Alexei I. Protopopova,b,1, Rinat Z. Gizatullina,\nAlla V. Rynditchc, Claes Wahlestedta, Wyeth W. Wassermana, Eugene R. Zabarovskya,b,d\n\naCenter for Genomics Research, Karolinska Institute, Stockholm, 171 77, Sweden\nbMicrobiology and Tumor Biology Center, Karolinska Institute, Stockholm, 171 77, Sweden\ncInstitute of Molecular Biology and Genetics, Ukrainian Academy of Sciences, Kiev, 252627, Ukraine\ndEngelhardt Institute of Molecular Biology, Russian Academy of Sciences, Moscow, 117984, Russia\n\nReceived 5 September 2000; received in revised form 19 February 2001; accepted 1 March 2001\nReceived by J.L. Slightom\n\nAbstract",
+                    "score": 0.5680893173833791
+                }
+            ]
+        },
+        "query2": {
+            "answer": "Not Found",
+            "confidence": 1,
+            "evidence": "The context discusses the amino acid identity and orthology of the KCNA7 protein but does not provide specific evidence regarding the voltage-gated gating mechanism for the KCNA7 ion channel.",
+            "sources": [
+                {
+                    "pubmed_id": "35840580",
+                    "text": "Kv3 channels have distinctive gating kinetics tailored for rapid repolarization in fast-spiking\nneurons. Malfunction of this process due to genetic variants in the KCNC1 gene causes severe\nepileptic disorders, yet the structural determinants for the unusual gating properties remain\nelusive. Here, we present cryo-electron microscopy structures of the human Kv3.1a channel,\nrevealing a unique arrangement of the cytoplasmic tetramerization domain T1 which facil-\nitates interactions with C-terminal axonal targeting motif and key components of the gating\nmachinery. Additional interactions between S1/S2 linker and turret domain strengthen the\ninterface between voltage sensor and pore domain. Supported by molecular dynamics\nsimulations, electrophysiological and mutational analyses, we identify several residues in the\nS4/S5 linker which inﬂuence the gating kinetics and an electrostatic interaction between\nacidic residues in α6 of T1 and R449 in the pore-ﬂanking S6T helices. These ﬁndings provide\ninsights into gating control and disease mechanisms and may guide strategies for the design\nof pharmaceutical drugs targeting Kv3 channels.",
+                    "score": 0.6004731871856814
+                },
+                {
+                    "pubmed_id": "30770441",
+                    "text": "www.pnas.org/cgi/doi/10.1073/pnas.1817271116\n\n\fopened in lowered Ca2+\n(as during RyR activity). Further\nstructural analyses and related conductance measurements from\nmutants confirm the gating role of a highly conserved lysine\nresidue. The disulfide-trapping experiments together with the\nelectrophysiological measurement reveal the role of a putative\nvoltage-sensitive helix TM4 in controlling channel gating. Diac-\nylglycerol (DAG) binds at membrane-exposed subunit interfaces,\nand its identity suggests a role in metabolic control. Altogether,\nthe sensing and movement of voltage-sensitive helix TM4, in\nconcert with Ca2+\nmodulation, regulates TRIC channel activity\nto facilitate intracellular Ca2+\nrelease. This study provides a\nstructural and functional\nframework for understanding the\ncounter-ion mechanism in TRIC channels.",
+                    "score": 0.5982351665585255
+                },
+                {
+                    "pubmed_id": "31315976",
+                    "text": "Results\nTRPP2 and VGICs Share a Voltage-Dependent Gating Mechanism. A\ncardinal feature of voltage-gated channels are large tail currents\nactivated by membrane repolarization, which capture the ion\nflow during the transition from the open to closed states in the\nwhole-cell patch configuration. This feature is not commonly\nfound in TRP channels; however, we and several groups have\npreviously shown that TRPP2 is an exception (29–31). In the\nsymmetrical sodium conditions devoid of divalent ions, whole-\ncell patched HEK293T cells overexpressing this channel gener-\nate robust tail currents upon repolarization and can be fit to a\nBoltzmann function (SI Appendix, Fig. S1A). The half-maximal\nvoltage dependence of TRPP2 activation is positive (V1/2 =\n47 mV), and the slope of the current voltage relationship is\nshallow (Z = 1.1), which infers a transfer of approximately\n1 gating charge per channel subunit (SI Appendix, Table S1).\nBased on these functional characteristics, we hypothesized that\nTRPP2 channel proteins likely contain a voltage sensing ele-\nment. Several high-resolution structures of TRPP1 and\nTRPP2 have been determined by single partial cryo-EM (20, 25–\n28), and their conserved S4 lysines (K452 and K455 in TRPP2)\nstructurally align to the third and fourth gating charge positions",
+                    "score": 0.5980177720678885
+                },
+                {
+                    "pubmed_id": "11368907",
+                    "text": "The human KCNA7 protein displays a high level of\namino acid identity to the mouse Kcna7 (90% in 451 aa\noverlap, score 809 bits) and less identity to a variety of\nhuman potassium channel proteins (70% to Kv1.4 in 405\naa overlap). In fact, in many extended regions the human\nand mouse proteins are identical (Fig. 3). Based on the\nobserved similarity, we have named the human gene\nKCNA7 and suggest that these genes are true orthologs.\nNucleic acid similarity is less profound, in the best cases\nreaching 82–86%, which is consistent with the variability\nbetween orthologous human and rodent genes (Makalowski\nand Boguski, 1998).\n\n3.2. The N-terminal sequence of the mouse Kv1.7 protein",
+                    "score": 0.5294786526482044
+                }
+            ]
+        }
+    },
+    "Q9BQ31": {
+        "query1": {
+            "answer": "Not Found",
+            "confidence": 0.9,
+            "evidence": "The context does not specifically mention KCNS3 or provide details about its ion selectivity.",
+            "sources": [
+                {
+                    "pubmed_id": "14618155",
+                    "text": "Ion selectivity and permeation\nAll K+ channels can discriminate between K+ and Na+,\nthe most abundant alkali metal ions in nature. Without\nsuch ion selectivity, channels would not be able to \ngenerate electrical signals. Selectivity for K+ is conferred\nby the selectivity filter, defined as the narrowest part of\nthe conduction pathway in the open channel (FIG. 1c).\nIn all K+ channel crystal structures solved so far, the main-\nchain carbonyl oxygens of the conserved K+ channel \nsignature  sequence  (TXGYG  or  TXGFG), which  is\nlocated in the P-loop, form the selectivity filter (FIG. 3).\nPoint mutations in the K+ channel signature sequence\nabolish K+ selectivity16. At the phenotypic level, this loss\nof K+ selectivity is linked to the movement disorder that\nis observed in weaver mice17–20.",
+                    "score": 0.6611849508918358
+                },
+                {
+                    "pubmed_id": "14618155",
+                    "text": "KcsA\n\nBuried\n\nPore-\nfacing\n\nexperiments6,7,21–24. This work has been reviewed previ-\nously25 (FIG. 3). As the K+ channel signature sequence \nis conserved between all K+ channels, and the KcsA \npore can substitute for the pore of other K+ channels26,\nit is assumed that the mechanism of ion selectivity \nand permeation at the selectivity filter is similar in all \nK+ channels.\n\nIn Kir channels, structural features other than the \nK+ channel signature sequence are also important for K+\nselectivity. Differences in the residues that surround \nthe selectivity filter account for the reduced K+ selectivity\nof Kir3.1 compared with other Kir3 family members27.\nCertain mutations in the pore helix or in M2 of Kir3.2\ncause a loss of K+ selectivity28. In most Kir channels,\na  SALT  BRIDGE between  conserved  charged  residues \nin adjacent subunits has been suggested to anchor\nand stabilize the K+ channel signature sequence29–32.",
+                    "score": 0.6198398343969792
+                },
+                {
+                    "pubmed_id": "32494638",
+                    "text": "The NALCN channel complex is selective for  \nmonovalent cations\nTo define the ion selectivity profile of the NALCN channel complex, \nwe first determined the current-carrying ions under bi-ionic condi-\ntions. We found that current directionality and reversal potentials \n(Erevs) were sensitive to substitution of either extracellular or intracel-\nlular Na+ with the large cation N-methyl-d-glucamine (NMDG+), but \nnot to replacement of extracellular Cl− with the large anion methane-\nsulfonate (MS−) (Fig. 2A), consistent with permeability for cations \nand not anions. Next, we assessed the permeability of different cat-\nions [Li+, K+, Cs+, TEA+ (tetraethylammonium), Ca2+, Mg2+, and Ba2+] \nby having equimolar concentrations of test cations on the extracel-\nlular side [150 mM for monovalent cations (X+); 110 mM for divalent \ncations (X2+)] and the impermeable NMDG+ (150 mM) on the in-\ntracellular side. We observed voltage-dependent currents in the \npresence of extracellular Li+, K+, or Cs+, but not with TEA+ or X2+ \n(Ca2+, Mg2+, Ba2+; Fig. 2B). The maximal current amplitudes of Li+, K+, \nand Cs+ elicited at −80 mV, however, were smaller compared to Na+ \n(57 ± 8%, 89 ± 11%, and 76 ± 11% of Na+ current, respectively). To \nmeasure the Erevs of the permeable cations, we ran a ramp protocol \nfrom −80 to +80 mV. The permeability ratios (PNa/PX) calculated on \nthe basis of the Erevs revealed a permeability sequence of Na+ ≈ \nLi+ > K+ > Cs+ (Fig. 2C). This permeability sequence was altered to \nNa+ ≈ Li+ ≈ K+ > Cs+ when the putative SF motif of NALCN (EEKE) \nwas mutated to that of NaVs (DEKA; Fig. 2D).",
+                    "score": 0.6182384840154831
+                },
+                {
+                    "pubmed_id": "10484328",
+                    "text": "delayed rectiﬁer; hKv9.1; hKv9.3; transfection; Chinese ham-\nster ovary cells\n\nPOTASSIUM CHANNELS ARE transmembrane proteins found\nin excitable and nonexcitable cells throughout the body\nand are essential for cell viability. Early studies re-\nsulted in a model of K1 channels as simple homotetra-\nmers. During the past decade, many K1 channels have\nbeen proven to be more diverse than the model. K1\nchannel diversity arises from multiple genes, which\nmay be alternatively spliced (10), from regulatory\nb-subunits (17), from the heteromultimerization of\na-subunits (10), and from the recently identiﬁed K1\nchannel-associated protein (32).",
+                    "score": 0.4948332118857566
+                }
+            ]
+        },
+        "query2": {
+            "answer": "Not Found",
+            "confidence": 1,
+            "evidence": "The provided context does not mention the `KCNS3` ion channel or provide information about its gating mechanism.",
+            "sources": [
+                {
+                    "pubmed_id": "35840580",
+                    "text": "Kv3 channels have distinctive gating kinetics tailored for rapid repolarization in fast-spiking\nneurons. Malfunction of this process due to genetic variants in the KCNC1 gene causes severe\nepileptic disorders, yet the structural determinants for the unusual gating properties remain\nelusive. Here, we present cryo-electron microscopy structures of the human Kv3.1a channel,\nrevealing a unique arrangement of the cytoplasmic tetramerization domain T1 which facil-\nitates interactions with C-terminal axonal targeting motif and key components of the gating\nmachinery. Additional interactions between S1/S2 linker and turret domain strengthen the\ninterface between voltage sensor and pore domain. Supported by molecular dynamics\nsimulations, electrophysiological and mutational analyses, we identify several residues in the\nS4/S5 linker which inﬂuence the gating kinetics and an electrostatic interaction between\nacidic residues in α6 of T1 and R449 in the pore-ﬂanking S6T helices. These ﬁndings provide\ninsights into gating control and disease mechanisms and may guide strategies for the design\nof pharmaceutical drugs targeting Kv3 channels.",
+                    "score": 0.6155284207051577
+                },
+                {
+                    "pubmed_id": "28086084",
+                    "text": "Second, several unique structural features have led us to posit a plausible hypothesis to \nexplain voltage dependent gating with reversed polarity. These features include (i) an \nunusually long S4 helix that contacts a C-linker in the cytoplasm to stabilize a closed gate in \nthe setting of a depolarized voltage sensor, (ii) a packing arrangement of S4, S5 and S6 \nhelices that enable the depolarized voltage sensor to stabilize a closed pore, and (iii) an HCN \ndomain that also stabilizes the closed pore in the setting of a depolarized voltage sensor. \nThese structural features support a mechanism in which voltage-driven downward \ndisplacement of the S4 helix upon membrane hyperpolarization will disrupt these stabilizing \ninteractions, allowing the S6 helices to spontaneously open.",
+                    "score": 0.6099842818329734
+                },
+                {
+                    "pubmed_id": "30770441",
+                    "text": "www.pnas.org/cgi/doi/10.1073/pnas.1817271116\n\n\fopened in lowered Ca2+\n(as during RyR activity). Further\nstructural analyses and related conductance measurements from\nmutants confirm the gating role of a highly conserved lysine\nresidue. The disulfide-trapping experiments together with the\nelectrophysiological measurement reveal the role of a putative\nvoltage-sensitive helix TM4 in controlling channel gating. Diac-\nylglycerol (DAG) binds at membrane-exposed subunit interfaces,\nand its identity suggests a role in metabolic control. Altogether,\nthe sensing and movement of voltage-sensitive helix TM4, in\nconcert with Ca2+\nmodulation, regulates TRIC channel activity\nto facilitate intracellular Ca2+\nrelease. This study provides a\nstructural and functional\nframework for understanding the\ncounter-ion mechanism in TRIC channels.",
+                    "score": 0.6084519420856924
+                },
+                {
+                    "pubmed_id": "10484328",
+                    "text": "Fig. 1. Sequence comparison and hy-\ndropathy plots of hKv9.1 and hKv9.3.\nA: alignment of deduced amino acid\nsequences of\nlongest open reading\nframes of hKv9.1 and hKv9.3 (Gene-\nWorks). Identical amino acids (41%) are\nboth shaded and boxed, and conserved\namino acids are shaded. 1 Positively\ncharged, voltage sensor amino acids in\nS4 segment. Putative hydrophobic\ntransmembrane-spanning segments\n(S1–S6) and the pore region (H5) are\noverlined. Putative N-glycosylation (k),\nN-myristoylation (j), cAMP-dependent\nkinase (s), protein kinase C (r), casein\nkinase II (n), and tyrosine kinase (p)\nsites are shown. B: Kyte-Doolittle hy-\ndropathy analysis (GeneWorks) of\nhKv9.1 and hKv9.3. Hydrophobic amino\nacids are positive, and hydrophilic\namino acids are negative.\n\nDownloaded from journals.physiology.org/journal/ajpcell at Univ of Georgia Lib (198.137.018.195) on August 19, 2024.\fC416\n\nELECTRICALLY SILENT POTASSIUM CHANNELS",
+                    "score": 0.5227626857213428
+                }
+            ]
+        }
+    }
+}

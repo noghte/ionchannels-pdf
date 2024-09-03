@@ -15,6 +15,7 @@ PDF_DIR = "./pdf"
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 50
 OPENAI_EMBEDDING_MODEL = "text-embedding-3-large" #embedding size small: 1536, large: 3072
+LOCAL_MODEL= "lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF/Meta-Llama-3.1-8B-Instruct-Q5_K_M.gguf"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Initialize the OpenAI embeddings model
@@ -123,4 +124,4 @@ def create_main_collection(collection_name):
     print("All PDF files processed and vectors added to the collection.")
 
 if __name__ == "__main__":
-    create_main_collection(collection_name="pubmed-large")
+    create_main_collection(collection_name="pubmed-llama-biomedical")
