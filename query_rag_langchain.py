@@ -13,7 +13,8 @@ from langchain_core.pydantic_v1 import BaseModel, Field
 
 load_dotenv()
 
-INPUT_FILE = "human_IC_annotation.csv"
+IS_LOCAL_MODEL = True
+INPUT_FILE = "human_IC_annotation_sample.csv" #"human_IC_annotation.csv"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 OPENAI_EMBEDDING_MODEL = "text-embedding-3-large"
 MODEL_NAME = "gpt-4o"
@@ -173,7 +174,10 @@ if __name__ == "__main__":
     db = Qdrant(client=qdrant_client, collection_name="pubmed-large", embeddings=embedding_function)
     
     # Initialize the OpenAI chat model
-    model = ChatOpenAI(model_name=MODEL_NAME, api_key=OPENAI_API_KEY)
+    if IS_LOCAL_MODEL:
+        model = ChatOpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio", temperature=0)
+    else:
+        model = ChatOpenAI(model_name=MODEL_NAME, api_key=OPENAI_API_KEY)
     
     # Load the CSV file
     df = pd.read_csv(INPUT_FILE, dtype=object, encoding='utf-8')
@@ -182,10 +186,10 @@ if __name__ == "__main__":
     process = False
     for index, row in df.iterrows():
         uniprot_id = row["Uniprot"].strip()
-        if uniprot_id == 'Q03721':
-            process = True
-        if not process:
-            continue
+        # if uniprot_id == 'Q03721':
+        #     process = True
+        # if not process:
+        #     continue
         
         pubmed_ids_str = row["PubMed"]
         if pd.notna(pubmed_ids_str) and isinstance(pubmed_ids_str, str):
@@ -224,7 +228,10 @@ if __name__ == "__main__":
     
         # Write results to a text file
         # file_name = f'results-all-model_{MODEL_NAME}_{timestamp}.json'
-        file_name = f'results-all-model_{MODEL_NAME}.json'
+        if IS_LOCAL_MODEL:
+            file_name = f'results-all-local_model.json'
+        else:
+            file_name = f'results-all-model_{MODEL_NAME}.json'
         save_results_to_json(file_name, uniprot_id, final_json1, final_json2)        
 
         # with open(file_name, 'a') as f:
