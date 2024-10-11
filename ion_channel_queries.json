@@ -1,0 +1,3710 @@
+{
+  "P30301": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `MIP Alternative names: MP26` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (calmodulin)` as the gating mechanism for the `MIP Alternative names: MP26` ion channel?"
+    }
+  },
+  "P29972": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP1` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `ammonia` is the ion selectivity of the `AQP1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (cGMP), phosphorylation` as the gating mechanism for the `AQP1` ion channel?"
+    }
+  },
+  "P41181": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP2 Alternative names: AQP-CD` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `osmotic permeability` as the gating mechanism for the `AQP2 Alternative names: AQP-CD` ion channel?"
+    }
+  },
+  "Q92482": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP3` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `glycerol` is the ion selectivity of the `AQP3` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `ammonia` is the ion selectivity of the `AQP3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `proton-gated` as the gating mechanism for the `AQP3` ion channel?"
+    }
+  },
+  "P55087": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP4 Alternative names: MIWC` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `osmotic permeability` as the gating mechanism for the `AQP4 Alternative names: MIWC` ion channel?"
+    }
+  },
+  "P55064": {
+    "query1": {
+      "text": "Is the `AQP5` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP5` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `non-selective anion` is the ion selectivity of the `AQP5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `osmotic permeability` as the gating mechanism for the `AQP5` ion channel?"
+    }
+  },
+  "Q13520": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP6 Alternative names: hKID` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `glycerol` is the ion selectivity of the `AQP6 Alternative names: hKID` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `ammonia` is the ion selectivity of the `AQP6 Alternative names: hKID` ion channel?"
+    },
+    "query1_4": {
+      "text": "Is there any evidence that `urea` is the ion selectivity of the `AQP6 Alternative names: hKID` ion channel?"
+    },
+    "query1_5": {
+      "text": "Is there any evidence that `anions` is the ion selectivity of the `AQP6 Alternative names: hKID` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `osmotic permeability` as the gating mechanism for the `AQP6 Alternative names: hKID` ion channel?"
+    }
+  },
+  "O14520": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP7 Alternative names: AQPap` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `glycerol` is the ion selectivity of the `AQP7 Alternative names: AQPap` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `ammonia` is the ion selectivity of the `AQP7 Alternative names: AQPap` ion channel?"
+    },
+    "query1_4": {
+      "text": "Is there any evidence that `urea` is the ion selectivity of the `AQP7 Alternative names: AQPap` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `pH sensitive` as the gating mechanism for the `AQP7 Alternative names: AQPap` ion channel?"
+    }
+  },
+  "O94778": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP8` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `ammonia` is the ion selectivity of the `AQP8` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `persulfidation` as the gating mechanism for the `AQP8` ion channel?"
+    }
+  },
+  "O43315": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP9` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `glycerol` is the ion selectivity of the `AQP9` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `ammonia` is the ion selectivity of the `AQP9` ion channel?"
+    },
+    "query1_4": {
+      "text": "Is there any evidence that `urea` is the ion selectivity of the `AQP9` ion channel?"
+    },
+    "query1_5": {
+      "text": "Is there any evidence that `monocarboxylates` is the ion selectivity of the `AQP9` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `osmotic permeability` as the gating mechanism for the `AQP9` ion channel?"
+    }
+  },
+  "Q96PS8": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP10` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `glycerol` is the ion selectivity of the `AQP10` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `urea` is the ion selectivity of the `AQP10` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `pH sensitive` as the gating mechanism for the `AQP10` ion channel?"
+    }
+  },
+  "Q8NBQ7": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `AQP11` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `glycerol` is the ion selectivity of the `AQP11` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `unknown` as the gating mechanism for the `AQP11` ion channel?"
+    }
+  },
+  "P35523": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCN1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CLCN1` ion channel?"
+    }
+  },
+  "P51788": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCN2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CLCN2` ion channel?"
+    }
+  },
+  "P51800": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCNKA` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CLCNKA` ion channel?"
+    }
+  },
+  "P51801": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCNKB` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CLCNKB` ion channel?"
+    }
+  },
+  "P51790": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCN3 Alternative names: ClC-3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (outward rectifier)` as the gating mechanism for the `CLCN3 Alternative names: ClC-3` ion channel?"
+    }
+  },
+  "P51793": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCN4 Alternative names: ClC-4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (outward rectifier)` as the gating mechanism for the `CLCN4 Alternative names: ClC-4` ion channel?"
+    }
+  },
+  "P51795": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCN5 Alternative names: ClC-5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (outward rectifier)` as the gating mechanism for the `CLCN5 Alternative names: ClC-5` ion channel?"
+    }
+  },
+  "P51797": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCN6 Alternative names: ClC-6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CLCN6 Alternative names: ClC-6` ion channel?"
+    }
+  },
+  "P51798": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCN7 Alternative names: ClC-7` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CLCN7 Alternative names: ClC-7` ion channel?"
+    }
+  },
+  "Q86WC4": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `OSTM1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `auxiliary` as the gating mechanism for the `OSTM1` ion channel?"
+    }
+  },
+  "Q8WZ55": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `BSND` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `auxiliary` as the gating mechanism for the `BSND` ion channel?"
+    }
+  },
+  "P13569": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CFTR` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (ATP), phosphorylation` as the gating mechanism for the `CFTR` ion channel?"
+    }
+  },
+  "Q5XXA6": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `ANO1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `ANO1` ion channel?"
+    }
+  },
+  "Q9NQ90": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `ANO2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `ANO2` ion channel?"
+    }
+  },
+  "Q9BYT9": {
+    "query1": {
+      "text": "Is there any evidence that `not shown` is the ion selectivity of the `ANO3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `no activity` as the gating mechanism for the `ANO3` ion channel?"
+    }
+  },
+  "Q32M45": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `ANO4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `ANO4` ion channel?"
+    }
+  },
+  "Q75V66": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `ANO5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `ANO5` ion channel?"
+    }
+  },
+  "Q4KMQ2": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `ANO6 Alternative names: SCAN channel` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `ANO6 Alternative names: SCAN channel` ion channel?"
+    }
+  },
+  "Q6IWH7": {
+    "query1": {
+      "text": "Is there any evidence that `not shown` is the ion selectivity of the `ANO7 Alternative names: D-TMPP` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `no activity` as the gating mechanism for the `ANO7 Alternative names: D-TMPP` ion channel?"
+    }
+  },
+  "Q9HCE9": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `ANO8` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `ANO8` ion channel?"
+    }
+  },
+  "A1A5B4": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `ANO9` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `ANO9` ion channel?"
+    }
+  },
+  "Q9NW15": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `ANO10` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `ANO10` ion channel?"
+    }
+  },
+  "A8K7I4": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCA1 Alternative names: hCLCA1, CaCC-1, hCaCC-1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CLCA1 Alternative names: hCLCA1, CaCC-1, hCaCC-1` ion channel?"
+    }
+  },
+  "Q9UQC9": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCA2 Alternative names: hCLCA2, CaCC-3, hCaCC-3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CLCA2 Alternative names: hCLCA2, CaCC-3, hCaCC-3` ion channel?"
+    }
+  },
+  "Q9Y6N3": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCA3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `probable voltage-gated (auxiliary)` as the gating mechanism for the `CLCA3` ion channel?"
+    }
+  },
+  "Q14CN2": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCA4 Alternative names: CaCC-2, hCaCC-2, hCLCA4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `probable voltage-gated (auxiliary)` as the gating mechanism for the `CLCA4 Alternative names: CaCC-2, hCaCC-2, hCLCA4` ion channel?"
+    }
+  },
+  "P21796": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `VDAC1 Alternative names: VDAC-1, hVDAC1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `VDAC1 Alternative names: VDAC-1, hVDAC1` ion channel?"
+    }
+  },
+  "P45880": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `VDAC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `VDAC2` ion channel?"
+    }
+  },
+  "Q9Y277": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `VDAC3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `VDAC3` ion channel?"
+    }
+  },
+  "Q6P9F7": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `LRRC8B Alternative names: TA-LRRP` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `volume-gated` as the gating mechanism for the `LRRC8B Alternative names: TA-LRRP` ion channel?"
+    }
+  },
+  "Q7L1W4": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `LRRC8D Alternative names: HsLRRC8D` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `volume-gated` as the gating mechanism for the `LRRC8D Alternative names: HsLRRC8D` ion channel?"
+    }
+  },
+  "Q8IWT6": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `LRRC8A Alternative names: HsLRRC8A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `volume-gated` as the gating mechanism for the `LRRC8A Alternative names: HsLRRC8A` ion channel?"
+    }
+  },
+  "Q6NSJ5": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `LRRC8E` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `volume-gated` as the gating mechanism for the `LRRC8E` ion channel?"
+    }
+  },
+  "Q8TDW0": {
+    "query1": {
+      "text": "Is there any evidence that `chloride/ (immune stuff check stephans paper)` is the ion selectivity of the `LRRC8C` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `volume-gated` as the gating mechanism for the `LRRC8C` ion channel?"
+    }
+  },
+  "O00299": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLIC1 Alternative names: hRNCC, NCC27` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `CLIC1 Alternative names: hRNCC, NCC27` ion channel?"
+    }
+  },
+  "O15247": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLIC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `CLIC2` ion channel?"
+    }
+  },
+  "O95833": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLIC3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CLIC3` ion channel?"
+    }
+  },
+  "Q9Y696": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLIC4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `CLIC4` ion channel?"
+    }
+  },
+  "Q9NZA1": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLIC5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CLIC5` ion channel?"
+    }
+  },
+  "Q96NY7": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLIC6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CLIC6` ion channel?"
+    }
+  },
+  "A6NN92": {
+    "query1": {
+      "text": "Is there any evidence that `not shown` is the ion selectivity of the `GJE1 Alternative names: Cx23` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `not shown` as the gating mechanism for the `GJE1 Alternative names: Cx23` ion channel?"
+    }
+  },
+  "Q6PEY0": {
+    "query1": {
+      "text": "Is there any evidence that `water` is the ion selectivity of the `GJB7 Alternative names: Cx25` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `diffusion` as the gating mechanism for the `GJB7 Alternative names: Cx25` ion channel?"
+    }
+  },
+  "P29033": {
+    "query1": {
+      "text": "Is the `GJB2 Alternative names: Cx26` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation/anion` is the ion selectivity of the `GJB2 Alternative names: Cx26` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (CO2), pH sensitive, osmotic permeability` as the gating mechanism for the `GJB2 Alternative names: Cx26` ion channel?"
+    }
+  },
+  "O95452": {
+    "query1": {
+      "text": "Is the `GJB6 Alternative names: Cx30` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation/anion` is the ion selectivity of the `GJB6 Alternative names: Cx30` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `GJB6 Alternative names: Cx30` ion channel?"
+    }
+  },
+  "Q8NFK1": {
+    "query1": {
+      "text": "Is there any evidence that `not shown` is the ion selectivity of the `GJC3 Alternative names: Cx31.3, Cx30.2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `not shown` as the gating mechanism for the `GJC3 Alternative names: Cx31.3, Cx30.2` ion channel?"
+    }
+  },
+  "Q9NTQ9": {
+    "query1": {
+      "text": "Is the `GJB4 Alternative names: Cx30.3` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation/anion` is the ion selectivity of the `GJB4 Alternative names: Cx30.3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `GJB4 Alternative names: Cx30.3` ion channel?"
+    }
+  },
+  "O75712": {
+    "query1": {
+      "text": "Is the `GJB3 Alternative names: Cx31` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation/anion` is the ion selectivity of the `GJB3 Alternative names: Cx31` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `GJB3 Alternative names: Cx31` ion channel?"
+    }
+  },
+  "O95377": {
+    "query1": {
+      "text": "Is the `GJB5 Alternative names: Cx31.1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation/anion` is the ion selectivity of the `GJB5 Alternative names: Cx31.1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `GJB5 Alternative names: Cx31.1` ion channel?"
+    }
+  },
+  "Q8N144": {
+    "query1": {
+      "text": "Is the `GJD3 Alternative names: Cx31.9` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation/anion` is the ion selectivity of the `GJD3 Alternative names: Cx31.9` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `GJD3 Alternative names: Cx31.9` ion channel?"
+    }
+  },
+  "P08034": {
+    "query1": {
+      "text": "Is the `GJB1 Alternative names: Cx32` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation/anion` is the ion selectivity of the `GJB1 Alternative names: Cx32` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (CO2)` as the gating mechanism for the `GJB1 Alternative names: Cx32` ion channel?"
+    }
+  },
+  "Q9UKL4": {
+    "query1": {
+      "text": "Is the `GJD2 Alternative names: Cx36` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `GJD2 Alternative names: Cx36` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (divalent ions), pH sensitive` as the gating mechanism for the `GJD2 Alternative names: Cx36` ion channel?"
+    }
+  },
+  "P35212": {
+    "query1": {
+      "text": "Is the `GJA4 Alternative names: Cx37` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `GJA4 Alternative names: Cx37` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `GJA4 Alternative names: Cx37` ion channel?"
+    }
+  },
+  "P36382": {
+    "query1": {
+      "text": "Is the `GJA5 Alternative names: Cx40` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `GJA5 Alternative names: Cx40` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `GJA5 Alternative names: Cx40` ion channel?"
+    }
+  },
+  "Q96KN9": {
+    "query1": {
+      "text": "Is the `GJD4 Alternative names: Cx40.1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `GJD4 Alternative names: Cx40.1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `GJD4 Alternative names: Cx40.1` ion channel?"
+    }
+  },
+  "P17302": {
+    "query1": {
+      "text": "Is the `GJA1 Alternative names: Cx43` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `GJA1 Alternative names: Cx43` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `GJA1 Alternative names: Cx43` ion channel?"
+    }
+  },
+  "P36383": {
+    "query1": {
+      "text": "Is the `GJC1 Alternative names: Cx45` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `GJC1 Alternative names: Cx45` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `GJC1 Alternative names: Cx45` ion channel?"
+    }
+  },
+  "Q9Y6H8": {
+    "query1": {
+      "text": "Is the `GJA3 Alternative names: Cx46` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `GJA3 Alternative names: Cx46` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `GJA3 Alternative names: Cx46` ion channel?"
+    }
+  },
+  "Q5T442": {
+    "query1": {
+      "text": "Is the `GJC2 Alternative names: Cx46.6, Cx47` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `GJC2 Alternative names: Cx46.6, Cx47` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, ligand-gated` as the gating mechanism for the `GJC2 Alternative names: Cx46.6, Cx47` ion channel?"
+    }
+  },
+  "P48165": {
+    "query1": {
+      "text": "Is the `GJA8 Alternative names: Cx50` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `GJA8 Alternative names: Cx50` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `GJA8 Alternative names: Cx50` ion channel?"
+    }
+  },
+  "P57773": {
+    "query1": {
+      "text": "Is the `GJA9 Alternative names: Cx59, Cx58` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `GJA9 Alternative names: Cx59, Cx58` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `GJA9 Alternative names: Cx59, Cx58` ion channel?"
+    }
+  },
+  "Q969M2": {
+    "query1": {
+      "text": "Is the `GJA10 Alternative names: Cx62` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `GJA10 Alternative names: Cx62` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `GJA10 Alternative names: Cx62` ion channel?"
+    }
+  },
+  "Q96RD7": {
+    "query1": {
+      "text": "Is the `PANX1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `PANX1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, ligand-gated, mechanosensitive` as the gating mechanism for the `PANX1` ion channel?"
+    }
+  },
+  "Q96RD6": {
+    "query1": {
+      "text": "Is the `PANX2` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `PANX2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `PANX2` ion channel?"
+    }
+  },
+  "Q96QZ0": {
+    "query1": {
+      "text": "Is the `PANX3` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation/anion` is the ion selectivity of the `PANX3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `PANX3` ion channel?"
+    }
+  },
+  "Q96D31": {
+    "query1": {
+      "text": "Is there any evidence that `Calcium` is the ion selectivity of the `ORAI1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `ORAI1` ion channel?"
+    }
+  },
+  "Q96SN7": {
+    "query1": {
+      "text": "Is there any evidence that `Calcium` is the ion selectivity of the `ORAI2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `ORAI2` ion channel?"
+    }
+  },
+  "Q9BRQ5": {
+    "query1": {
+      "text": "Is there any evidence that `Calcium` is the ion selectivity of the `ORAI3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `ORAI3` ion channel?"
+    }
+  },
+  "Q92508": {
+    "query1": {
+      "text": "Is the `PIEZO1 Alternative names: Mib` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `PIEZO1 Alternative names: Mib` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `PIEZO1 Alternative names: Mib` ion channel?"
+    }
+  },
+  "Q9H5I5": {
+    "query1": {
+      "text": "Is the `PIEZO2` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `PIEZO2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `PIEZO2` ion channel?"
+    }
+  },
+  "A5X5Y0": {
+    "query1": {
+      "text": "Is the `HTR3E` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `HTR3E` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (serotonin)` as the gating mechanism for the `HTR3E` ion channel?"
+    }
+  },
+  "O95264": {
+    "query1": {
+      "text": "Is the `HTR3B` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `HTR3B` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (serotonin)` as the gating mechanism for the `HTR3B` ion channel?"
+    }
+  },
+  "P46098": {
+    "query1": {
+      "text": "Is the `HTR3A Alternative names: 5-HT-3, 5-HT3R` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `HTR3A Alternative names: 5-HT-3, 5-HT3R` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (serotonin)` as the gating mechanism for the `HTR3A Alternative names: 5-HT-3, 5-HT3R` ion channel?"
+    }
+  },
+  "Q70Z44": {
+    "query1": {
+      "text": "Is the `HTR3D` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `HTR3D` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (serotonin)` as the gating mechanism for the `HTR3D` ion channel?"
+    }
+  },
+  "Q8WXA8": {
+    "query1": {
+      "text": "Is the `HTR3C` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `HTR3C` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (serotonin)` as the gating mechanism for the `HTR3C` ion channel?"
+    }
+  },
+  "Q401N2": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `ZACN` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `ZACN` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `cesium` is the ion selectivity of the `ZACN` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (zinc, copper, protons)` as the gating mechanism for the `ZACN` ion channel?"
+    }
+  },
+  "P02708": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `CHRNA1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNA1` ion channel?"
+    }
+  },
+  "P07510": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `CHRNG` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNG` ion channel?"
+    }
+  },
+  "P11230": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `CHRNB1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNB1` ion channel?"
+    }
+  },
+  "P17787": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `CHRNB2` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `CHRNB2` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CHRNB2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNB2` ion channel?"
+    }
+  },
+  "P30532": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `CHRNA5` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `CHRNA5` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CHRNA5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNA5` ion channel?"
+    }
+  },
+  "P30926": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `CHRNB4` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `CHRNB4` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CHRNB4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNB4` ion channel?"
+    }
+  },
+  "P32297": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `CHRNA3` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `CHRNA3` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CHRNA3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNA3` ion channel?"
+    }
+  },
+  "P36544": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `CHRNA7` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `CHRNA7` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CHRNA7` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNA7` ion channel?"
+    }
+  },
+  "P43681": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `CHRNA4` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `CHRNA4` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CHRNA4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNA4` ion channel?"
+    }
+  },
+  "Q04844": {
+    "query1": {
+      "text": "Is the `CHRNE` non-selective in terms of ion selectivity?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNE` ion channel?"
+    }
+  },
+  "Q05901": {
+    "query1": {
+      "text": "Is the `CHRNB3` non-selective in terms of ion selectivity?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNB3` ion channel?"
+    }
+  },
+  "Q07001": {
+    "query1": {
+      "text": "Is the `CHRND` non-selective in terms of ion selectivity?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRND` ion channel?"
+    }
+  },
+  "Q15822": {
+    "query1": {
+      "text": "Is the `CHRNA2` non-selective in terms of ion selectivity?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNA2` ion channel?"
+    }
+  },
+  "Q15825": {
+    "query1": {
+      "text": "Is the `CHRNA6` non-selective in terms of ion selectivity?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNA6` ion channel?"
+    }
+  },
+  "Q9GZZ6": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CHRNA10 Alternative names: NACHR alpha-10` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNA10 Alternative names: NACHR alpha-10` ion channel?"
+    }
+  },
+  "Q9UGM1": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CHRNA9 Alternative names: NACHR alpha-9` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acetylocholine)` as the gating mechanism for the `CHRNA9 Alternative names: NACHR alpha-9` ion channel?"
+    }
+  },
+  "A8MPY1": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRR3 Alternative names: GABAAR subunit rho-3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRR3 Alternative names: GABAAR subunit rho-3` ion channel?"
+    }
+  },
+  "O00591": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRP Alternative names: GABAAR subunit pi` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRP Alternative names: GABAAR subunit pi` ion channel?"
+    }
+  },
+  "O14764": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRD Alternative names: GABAAR subunit delta` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRD Alternative names: GABAAR subunit delta` ion channel?"
+    }
+  },
+  "P14867": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRA1 Alternative names: GABAAR subunit alpha-1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRA1 Alternative names: GABAAR subunit alpha-1` ion channel?"
+    }
+  },
+  "P18505": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRB1 Alternative names: GABAAR subunit beta-1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRB1 Alternative names: GABAAR subunit beta-1` ion channel?"
+    }
+  },
+  "P18507": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRG2 Alternative names: GABAAR subunit gamma-2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRG2 Alternative names: GABAAR subunit gamma-2` ion channel?"
+    }
+  },
+  "P24046": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRR1 Alternative names: GABAAR subunit rho-1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRR1 Alternative names: GABAAR subunit rho-1` ion channel?"
+    }
+  },
+  "P28472": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRB3 Alternative names: GABAAR subunit beta-3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRB3 Alternative names: GABAAR subunit beta-3` ion channel?"
+    }
+  },
+  "P28476": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRR2 Alternative names: GABAAR subunit rho-2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRR2 Alternative names: GABAAR subunit rho-2` ion channel?"
+    }
+  },
+  "P31644": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRA5 Alternative names: GABAAR subunit alpha-5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRA5 Alternative names: GABAAR subunit alpha-5` ion channel?"
+    }
+  },
+  "P34903": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRA3 Alternative names: GABAAR subunit alpha-3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRA3 Alternative names: GABAAR subunit alpha-3` ion channel?"
+    }
+  },
+  "P47869": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRA2 Alternative names: GABAAR subunit alpha-2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRA2 Alternative names: GABAAR subunit alpha-2` ion channel?"
+    }
+  },
+  "P47870": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRB2 Alternative names: GABAAR subunit beta-2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRB2 Alternative names: GABAAR subunit beta-2` ion channel?"
+    }
+  },
+  "P48169": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRA4 Alternative names: GABAAR subunit alpha-4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRA4 Alternative names: GABAAR subunit alpha-4` ion channel?"
+    }
+  },
+  "P78334": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRE Alternative names: GABAAR subunit epsilon` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRE Alternative names: GABAAR subunit epsilon` ion channel?"
+    }
+  },
+  "Q16445": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRA6 Alternative names: GABAAR subunit alpha-6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRA6 Alternative names: GABAAR subunit alpha-6` ion channel?"
+    }
+  },
+  "Q8N1C3": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRG1 Alternative names: GABAAR subunit gamma-1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRG1 Alternative names: GABAAR subunit gamma-1` ion channel?"
+    }
+  },
+  "Q99928": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRG3 Alternative names: GABAAR subunit gamma-3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRG3 Alternative names: GABAAR subunit gamma-3` ion channel?"
+    }
+  },
+  "Q9UN88": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GABRQ Alternative names: GABAAR subunit theta` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (GABA)` as the gating mechanism for the `GABRQ Alternative names: GABAAR subunit theta` ion channel?"
+    }
+  },
+  "O75311": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GLRA3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `GLRA3` ion channel?"
+    }
+  },
+  "P23415": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GLRA1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glycine, taurine, beta-alanine)` as the gating mechanism for the `GLRA1` ion channel?"
+    }
+  },
+  "P23416": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GLRA2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glycine, taurine, beta-alanine)` as the gating mechanism for the `GLRA2` ion channel?"
+    }
+  },
+  "P48167": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `GLRB` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `auxiliary` as the gating mechanism for the `GLRB` ion channel?"
+    }
+  },
+  "P78348": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `ASIC1 Alternative names: BNaC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acid), proton-gated` as the gating mechanism for the `ASIC1 Alternative names: BNaC2` ion channel?"
+    }
+  },
+  "Q16515": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `ASIC2 Alternative names: BNC1, BNaC1, MDEG` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `ASIC2 Alternative names: BNC1, BNaC1, MDEG` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `lithuim` is the ion selectivity of the `ASIC2 Alternative names: BNC1, BNaC1, MDEG` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acid)` as the gating mechanism for the `ASIC2 Alternative names: BNC1, BNaC1, MDEG` ion channel?"
+    }
+  },
+  "Q96FT7": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `ASIC4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acid)` as the gating mechanism for the `ASIC4` ion channel?"
+    }
+  },
+  "Q9UHC3": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `ASIC3 Alternative names: hTNaC1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acid)` as the gating mechanism for the `ASIC3 Alternative names: hTNaC1` ion channel?"
+    }
+  },
+  "Q9NY37": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `ASIC5 Alternative names: HINaC` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (acid)` as the gating mechanism for the `ASIC5 Alternative names: HINaC` ion channel?"
+    }
+  },
+  "P37088": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCNN1A Alternative names: ENaCA, Alpha-ENaC` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `SCNN1A Alternative names: ENaCA, Alpha-ENaC` ion channel?"
+    }
+  },
+  "P51168": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCNN1B Alternative names: Beta-ENaC, ENaCB` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `SCNN1B Alternative names: Beta-ENaC, ENaCB` ion channel?"
+    }
+  },
+  "P51170": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCNN1G Alternative names: ENaCG, Gamma-ENaC` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `SCNN1G Alternative names: ENaCG, Gamma-ENaC` ion channel?"
+    }
+  },
+  "P51172": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCNN1D Alternative names: Delta-ENaC, ENaCD` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `SCNN1D Alternative names: Delta-ENaC, ENaCD` ion channel?"
+    }
+  },
+  "Q14571": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `ITPR2 Alternative names: Type 2 InsP3 receptor, IP3R 2, InsP3R2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (IP3)` as the gating mechanism for the `ITPR2 Alternative names: Type 2 InsP3 receptor, IP3R 2, InsP3R2` ion channel?"
+    }
+  },
+  "Q14573": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `ITPR3 Alternative names: Type 3 InsP3 receptor, IP3R-3, InsP3R3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (IP3)` as the gating mechanism for the `ITPR3 Alternative names: Type 3 InsP3 receptor, IP3R-3, InsP3R3` ion channel?"
+    }
+  },
+  "Q14643": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `ITPR1 Alternative names: IP3R 1, InsP3R1, Type 1 InsP3 receptor` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `ITPR1 Alternative names: IP3R 1, InsP3R1, Type 1 InsP3 receptor` ion channel?"
+    }
+  },
+  "O15399": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIN2D Alternative names: NR2D, NMDAR2D` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `GRIN2D Alternative names: NR2D, NMDAR2D` ion channel?"
+    }
+  },
+  "O43424": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRID2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `auxiliary` as the gating mechanism for the `GRID2` ion channel?"
+    }
+  },
+  "O60391": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIN3B Alternative names: NMDAR3B, NR3B` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate), voltage-dependent blockade` as the gating mechanism for the `GRIN3B Alternative names: NMDAR3B, NR3B` ion channel?"
+    }
+  },
+  "P39086": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIK1 Alternative names: EAA3, GluR5, GluR-5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `GRIK1 Alternative names: EAA3, GluR5, GluR-5` ion channel?"
+    }
+  },
+  "P42261": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIA1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `GRIA1` ion channel?"
+    }
+  },
+  "P42262": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `GRIA2` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `GRIA2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `GRIA2` ion channel?"
+    }
+  },
+  "P42263": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIA3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `GRIA3` ion channel?"
+    }
+  },
+  "P48058": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIA4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `GRIA4` ion channel?"
+    }
+  },
+  "Q05586": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIN1 Alternative names: NMD-R1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate), voltage-dependent blockade` as the gating mechanism for the `GRIN1 Alternative names: NMD-R1` ion channel?"
+    }
+  },
+  "Q13002": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIK2 Alternative names: GluR6, GluR-6, EAA4` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `GRIK2 Alternative names: GluR6, GluR-6, EAA4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `GRIK2 Alternative names: GluR6, GluR-6, EAA4` ion channel?"
+    }
+  },
+  "Q13003": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `GRIK3 Alternative names: EAA5, GluR-7, GluR7` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `GRIK3 Alternative names: EAA5, GluR-7, GluR7` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `GRIK3 Alternative names: EAA5, GluR-7, GluR7` ion channel?"
+    }
+  },
+  "Q13224": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIN2B Alternative names: NR2B, NMDAR2B, NR3, hNR3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate), voltage-dependent blockade` as the gating mechanism for the `GRIN2B Alternative names: NR2B, NMDAR2B, NR3, hNR3` ion channel?"
+    }
+  },
+  "Q14957": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `GRIN2C Alternative names: NMDAR2C, NR2C` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIN2C Alternative names: NMDAR2C, NR2C` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate), voltage-dependent blockade` as the gating mechanism for the `GRIN2C Alternative names: NMDAR2C, NR2C` ion channel?"
+    }
+  },
+  "Q16099": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIK4 Alternative names: EAA1, KA1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `GRIK4 Alternative names: EAA1, KA1` ion channel?"
+    }
+  },
+  "Q16478": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIK5 Alternative names: EAA2, KA2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `GRIK5 Alternative names: EAA2, KA2` ion channel?"
+    }
+  },
+  "Q8TCU5": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIN3A Alternative names: NR3A, NMDAR3A` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `magnesium` is the ion selectivity of the `GRIN3A Alternative names: NR3A, NMDAR3A` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `GRIN3A Alternative names: NR3A, NMDAR3A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `GRIN3A Alternative names: NR3A, NMDAR3A` ion channel?"
+    }
+  },
+  "Q9ULK0": {
+    "query1": {
+      "text": "Is the `GRID1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `GRID1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (glutamate)` as the gating mechanism for the `GRID1` ion channel?"
+    }
+  },
+  "O15547": {
+    "query1": {
+      "text": "Is the `P2RX6` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `P2RX6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (ATP)` as the gating mechanism for the `P2RX6` ion channel?"
+    }
+  },
+  "P51575": {
+    "query1": {
+      "text": "Is the `P2RX1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `P2RX1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (ATP)` as the gating mechanism for the `P2RX1` ion channel?"
+    }
+  },
+  "P56373": {
+    "query1": {
+      "text": "Is the `P2RX3` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `P2RX3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (ATP)` as the gating mechanism for the `P2RX3` ion channel?"
+    }
+  },
+  "Q93086": {
+    "query1": {
+      "text": "Is the `P2RX5` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `P2RX5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (ATP)` as the gating mechanism for the `P2RX5` ion channel?"
+    }
+  },
+  "Q99571": {
+    "query1": {
+      "text": "Is the `P2RX4` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `P2RX4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (ATP)` as the gating mechanism for the `P2RX4` ion channel?"
+    }
+  },
+  "Q99572": {
+    "query1": {
+      "text": "Is the `P2RX7` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `P2RX7` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (ATP)` as the gating mechanism for the `P2RX7` ion channel?"
+    }
+  },
+  "Q9UBL9": {
+    "query1": {
+      "text": "Is the `P2RX2` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `P2RX2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (ATP)` as the gating mechanism for the `P2RX2` ion channel?"
+    }
+  },
+  "P29973": {
+    "query1": {
+      "text": "Is the `CNGA1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `CNGA1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (GMP)` as the gating mechanism for the `CNGA1` ion channel?"
+    }
+  },
+  "Q14028": {
+    "query1": {
+      "text": "Is the `CNGB1 Alternative names: GARP, CNG channel 4, CNG-4, CNG4` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `CNGB1 Alternative names: GARP, CNG channel 4, CNG-4, CNG4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (cyclic nucleotide, auxiliary)` as the gating mechanism for the `CNGB1 Alternative names: GARP, CNG channel 4, CNG-4, CNG4` ion channel?"
+    }
+  },
+  "Q16280": {
+    "query1": {
+      "text": "Is the `CNGA2 Alternative names: OCNC1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `CNGA2 Alternative names: OCNC1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (cyclic nucleotide)` as the gating mechanism for the `CNGA2 Alternative names: OCNC1` ion channel?"
+    }
+  },
+  "Q16281": {
+    "query1": {
+      "text": "Is the `CNGA3` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `CNGA3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (cyclic nucleotide)` as the gating mechanism for the `CNGA3` ion channel?"
+    }
+  },
+  "Q8IV77": {
+    "query1": {
+      "text": "Is the `CNGA4 Alternative names: OCNC2` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `CNGA4 Alternative names: OCNC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (cyclic nucleotide)` as the gating mechanism for the `CNGA4 Alternative names: OCNC2` ion channel?"
+    }
+  },
+  "Q9NQW8": {
+    "query1": {
+      "text": "Is the `CNGB3` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `CNGB3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (cyclic nucleotide, auxiliary)` as the gating mechanism for the `CNGB3` ion channel?"
+    }
+  },
+  "O00555": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA1A Alternative names: BI` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CACNA1A Alternative names: BI` ion channel?"
+    }
+  },
+  "O43497": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA1G` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CACNA1G` ion channel?"
+    }
+  },
+  "O95180": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA1H` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CACNA1H` ion channel?"
+    }
+  },
+  "Q00975": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA1B Alternative names: BIII` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CACNA1B Alternative names: BIII` ion channel?"
+    }
+  },
+  "Q01668": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA1D` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CACNA1D` ion channel?"
+    }
+  },
+  "Q13698": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA1S` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CACNA1S` ion channel?"
+    }
+  },
+  "Q13936": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA1C` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CACNA1C` ion channel?"
+    }
+  },
+  "Q15878": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA1E Alternative names: BII` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CACNA1E Alternative names: BII` ion channel?"
+    }
+  },
+  "O60840": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA1F` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CACNA1F` ion channel?"
+    }
+  },
+  "Q9P0X4": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA1I Alternative names: Ca(v)3.3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CACNA1I Alternative names: Ca(v)3.3` ion channel?"
+    }
+  },
+  "P54289": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA2D1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNA2D1` ion channel?"
+    }
+  },
+  "Q9NY47": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA2D2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNA2D2` ion channel?"
+    }
+  },
+  "Q8IZS8": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA2D3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNA2D3` ion channel?"
+    }
+  },
+  "Q7Z3S7": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNA2D4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNA2D4` ion channel?"
+    }
+  },
+  "Q06432": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNG1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNG1` ion channel?"
+    }
+  },
+  "O60359": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNG3 Alternative names: TARP gamma-3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNG3 Alternative names: TARP gamma-3` ion channel?"
+    }
+  },
+  "Q9UBN1": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNG4 Alternative names: TARP gamma-4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNG4 Alternative names: TARP gamma-4` ion channel?"
+    }
+  },
+  "Q9UF02": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNG5 Alternative names: TARP gamma-5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNG5 Alternative names: TARP gamma-5` ion channel?"
+    }
+  },
+  "Q9BXT2": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNG6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNG6` ion channel?"
+    }
+  },
+  "P62955": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNG7 Alternative names: TARP gamma-7` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNG7 Alternative names: TARP gamma-7` ion channel?"
+    }
+  },
+  "Q8WXS5": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNG8 Alternative names: TARP gamma-8` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNG8 Alternative names: TARP gamma-8` ion channel?"
+    }
+  },
+  "Q9Y698": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNG2 Alternative names: TARP gamma-2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNG2 Alternative names: TARP gamma-2` ion channel?"
+    }
+  },
+  "Q7RTX7": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CATSPER4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CATSPER4` ion channel?"
+    }
+  },
+  "Q86XQ3": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CATSPER3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CATSPER3` ion channel?"
+    }
+  },
+  "Q8NEC5": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CATSPER1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CATSPER1` ion channel?"
+    }
+  },
+  "Q96P56": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CATSPER2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CATSPER2` ion channel?"
+    }
+  },
+  "O60741": {
+    "query1": {
+      "text": "Is there any evidence that `potassium/sodium` is the ion selectivity of the `HCN1 Alternative names: BCNG-1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `HCN1 Alternative names: BCNG-1` ion channel?"
+    }
+  },
+  "Q9P1Z3": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `HCN3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `HCN3` ion channel?"
+    }
+  },
+  "Q9UL51": {
+    "query1": {
+      "text": "Is there any evidence that `potassium/sodium` is the ion selectivity of the `HCN2 Alternative names: BCNG-2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `HCN2 Alternative names: BCNG-2` ion channel?"
+    }
+  },
+  "Q9Y3Q4": {
+    "query1": {
+      "text": "Is there any evidence that `potassium/sodium` is the ion selectivity of the `HCN4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `HCN4` ion channel?"
+    }
+  },
+  "Q96D96": {
+    "query1": {
+      "text": "Is there any evidence that `protons` is the ion selectivity of the `HVCN1 Alternative names: HV1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `HVCN1 Alternative names: HV1` ion channel?"
+    }
+  },
+  "O00180": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (inward rectifier)` as the gating mechanism for the `KCNK1` ion channel?"
+    }
+  },
+  "O14649": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK3 Alternative names: Two pore K(+) channel KT3.1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (inward rectifier)` as the gating mechanism for the `KCNK3 Alternative names: Two pore K(+) channel KT3.1` ion channel?"
+    }
+  },
+  "O95069": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak, voltage-gated` as the gating mechanism for the `KCNK2` ion channel?"
+    }
+  },
+  "O95279": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (outward rectifier)` as the gating mechanism for the `KCNK5` ion channel?"
+    }
+  },
+  "P57789": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK10` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (outward rectifier)` as the gating mechanism for the `KCNK10` ion channel?"
+    }
+  },
+  "Q7Z418": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK18` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (outward rectifier)` as the gating mechanism for the `KCNK18` ion channel?"
+    }
+  },
+  "Q96T54": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK17 Alternative names: TALK-2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (outward rectifier)` as the gating mechanism for the `KCNK17 Alternative names: TALK-2` ion channel?"
+    }
+  },
+  "Q96T55": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK16 Alternative names: TALK-1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (outward rectifier)` as the gating mechanism for the `KCNK16 Alternative names: TALK-1` ion channel?"
+    }
+  },
+  "Q9H427": {
+    "query1": {
+      "text": "Is there any evidence that `not shown` is the ion selectivity of the `KCNK15 Alternative names: Two pore K(+) channel KT3.3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak` as the gating mechanism for the `KCNK15 Alternative names: Two pore K(+) channel KT3.3` ion channel?"
+    }
+  },
+  "Q9HB14": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK13 Alternative names: THIK-1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (open)` as the gating mechanism for the `KCNK13 Alternative names: THIK-1` ion channel?"
+    }
+  },
+  "Q9HB15": {
+    "query1": {
+      "text": "Is there any evidence that `not shown` is the ion selectivity of the `KCNK12 Alternative names: THIK-2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak` as the gating mechanism for the `KCNK12 Alternative names: THIK-2` ion channel?"
+    }
+  },
+  "Q9NPC2": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK9 Alternative names: Two pore K(+) channel KT3.2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (open)` as the gating mechanism for the `KCNK9 Alternative names: Two pore K(+) channel KT3.2` ion channel?"
+    }
+  },
+  "Q9NYG8": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK4 Alternative names: TRAAK, Two pore K(+) channel KT4.1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (open), mechanosensitive` as the gating mechanism for the `KCNK4 Alternative names: TRAAK, Two pore K(+) channel KT4.1` ion channel?"
+    }
+  },
+  "Q9Y257": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNK6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak (inward/outward rectifier)` as the gating mechanism for the `KCNK6` ion channel?"
+    }
+  },
+  "Q9Y2U2": {
+    "query1": {
+      "text": "Is there any evidence that `not shown` is the ion selectivity of the `KCNK7` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `leak` as the gating mechanism for the `KCNK7` ion channel?"
+    }
+  },
+  "A8MYU2": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNU1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `KCNU1` ion channel?"
+    }
+  },
+  "O15554": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNN4 Alternative names: IK1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium, inward rectifier)` as the gating mechanism for the `KCNN4 Alternative names: IK1` ion channel?"
+    }
+  },
+  "Q12791": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNMA1 Alternative names: hSlo, Slo homolog, MaxiK` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `KCNMA1 Alternative names: hSlo, Slo homolog, MaxiK` ion channel?"
+    }
+  },
+  "Q16558": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNMB1 Alternative names: Calcium-activated potassium channel subunit beta, BKbeta, BKbeta1, Hbeta1, Slo-beta` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium, auxiliary)` as the gating mechanism for the `KCNMB1 Alternative names: Calcium-activated potassium channel subunit beta, BKbeta, BKbeta1, Hbeta1, Slo-beta` ion channel?"
+    }
+  },
+  "Q9Y691": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNMB2 Alternative names: BKbeta2, Hbeta2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium, auxiliary)` as the gating mechanism for the `KCNMB2 Alternative names: BKbeta2, Hbeta2` ion channel?"
+    }
+  },
+  "Q9NPA1": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNMB3 Alternative names: BKbeta3, Hbeta3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium, auxiliary)` as the gating mechanism for the `KCNMB3 Alternative names: BKbeta3, Hbeta3` ion channel?"
+    }
+  },
+  "Q86W47": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNMB4 Alternative names: BKbeta4, Hbeta4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium, auxiliary)` as the gating mechanism for the `KCNMB4 Alternative names: BKbeta4, Hbeta4` ion channel?"
+    }
+  },
+  "Q8IU99": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CALHM1` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `CALHM1` ion channel?"
+    },
+    "query1_3": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `CALHM1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CALHM1` ion channel?"
+    }
+  },
+  "Q9HA72": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CALHM2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CALHM2` ion channel?"
+    }
+  },
+  "Q86XJ0": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CALHM3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CALHM3` ion channel?"
+    }
+  },
+  "Q5JW98": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CALHM4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CALHM4` ion channel?"
+    }
+  },
+  "Q8N5C1": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CALHM5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CALHM5` ion channel?"
+    }
+  },
+  "Q5R3K3": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CALHM6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CALHM6` ion channel?"
+    }
+  },
+  "Q5JUK3": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNT1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (outward rectifier)` as the gating mechanism for the `KCNT1` ion channel?"
+    }
+  },
+  "Q6UVM3": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNT2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (outward rectifier)` as the gating mechanism for the `KCNT2` ion channel?"
+    }
+  },
+  "Q92952": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNN1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (calcium)` as the gating mechanism for the `KCNN1` ion channel?"
+    }
+  },
+  "Q9H2S1": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNN2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (calcium)` as the gating mechanism for the `KCNN2` ion channel?"
+    }
+  },
+  "Q9UGI6": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNN3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (calcium)` as the gating mechanism for the `KCNN3` ion channel?"
+    }
+  },
+  "O60928": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ13` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ13` ion channel?"
+    }
+  },
+  "B7U540": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ18` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ18` ion channel?"
+    }
+  },
+  "P48048": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ1` ion channel?"
+    }
+  },
+  "P48050": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ4 Alternative names: HIR, IRK-3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ4 Alternative names: HIR, IRK-3` ion channel?"
+    }
+  },
+  "P48051": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ6` ion channel?"
+    }
+  },
+  "P48544": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ5 Alternative names: IRK-4, CIR` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ5 Alternative names: IRK-4, CIR` ion channel?"
+    }
+  },
+  "P48549": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ3` ion channel?"
+    }
+  },
+  "P63252": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ2 Alternative names: IRK-1, hIRK1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ2 Alternative names: IRK-1, hIRK1` ion channel?"
+    }
+  },
+  "P78508": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ10` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ10` ion channel?"
+    }
+  },
+  "Q14500": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ12 Alternative names: IRK-2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ12 Alternative names: IRK-2` ion channel?"
+    }
+  },
+  "Q14654": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ11` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ11` ion channel?"
+    }
+  },
+  "Q15842": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ8` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ8` ion channel?"
+    }
+  },
+  "Q92806": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ9` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ9` ion channel?"
+    }
+  },
+  "Q99712": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ15` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ15` ion channel?"
+    }
+  },
+  "Q9NPI9": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ16` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ16` ion channel?"
+    }
+  },
+  "Q9UNX9": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNJ14 Alternative names: IRK-4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `KCNJ14 Alternative names: IRK-4` ion channel?"
+    }
+  },
+  "O43525": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNQ3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNQ3` ion channel?"
+    }
+  },
+  "O43526": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNQ2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNQ2` ion channel?"
+    }
+  },
+  "O95259": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNH1 Alternative names: EAG channel 1, h-eag, hEAG1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNH1 Alternative names: EAG channel 1, h-eag, hEAG1` ion channel?"
+    }
+  },
+  "P16389": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNA2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNA2` ion channel?"
+    }
+  },
+  "P17658": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNA6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNA6` ion channel?"
+    }
+  },
+  "P22001": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNA3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNA3` ion channel?"
+    }
+  },
+  "P22459": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNA4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNA4` ion channel?"
+    }
+  },
+  "P22460": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNA5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNA5` ion channel?"
+    }
+  },
+  "P48547": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNC1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNC1` ion channel?"
+    }
+  },
+  "P51787": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNQ1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNQ1` ion channel?"
+    }
+  },
+  "P56696": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNQ4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNQ4` ion channel?"
+    }
+  },
+  "Q03721": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNC4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNC4` ion channel?"
+    }
+  },
+  "Q09470": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNA1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNA1` ion channel?"
+    }
+  },
+  "Q12809": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNH2 Alternative names: ERG-1, Eag-related protein 1, Ether-a-go-go-related protein 1, H-ERG, hERG-1, hERG1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNH2 Alternative names: ERG-1, Eag-related protein 1, Ether-a-go-go-related protein 1, H-ERG, hERG-1, hERG1` ion channel?"
+    }
+  },
+  "Q14003": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNC3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNC3` ion channel?"
+    }
+  },
+  "Q14721": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNB1 Alternative names: DRK1, h-DRK1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNB1 Alternative names: DRK1, h-DRK1` ion channel?"
+    }
+  },
+  "Q16322": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNA10` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNA10` ion channel?"
+    }
+  },
+  "Q6PIU1": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNV1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNV1` ion channel?"
+    }
+  },
+  "Q8NCM2": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNH5 Alternative names: hEAG2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNH5 Alternative names: hEAG2` ion channel?"
+    }
+  },
+  "Q8TAE7": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNG3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNG3` ion channel?"
+    }
+  },
+  "Q8TDN1": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNG4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNG4` ion channel?"
+    }
+  },
+  "Q8TDN2": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNV2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNV2` ion channel?"
+    }
+  },
+  "Q92953": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNB2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNB2` ion channel?"
+    }
+  },
+  "Q96KK3": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNS1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNS1` ion channel?"
+    }
+  },
+  "Q96L42": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNH8 Alternative names: hElk1, ELK3, ELK channel 3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNH8 Alternative names: hElk1, ELK3, ELK channel 3` ion channel?"
+    }
+  },
+  "Q96PR1": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNC2` ion channel?"
+    }
+  },
+  "Q96RP8": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNA7` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNA7` ion channel?"
+    }
+  },
+  "Q9BQ31": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNS3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNS3` ion channel?"
+    }
+  },
+  "Q9H252": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNH6 Alternative names: ERG-2, Eag-related protein 2, Ether-a-go-go-related protein 2, hERG-2, hERG2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNH6 Alternative names: ERG-2, Eag-related protein 2, Ether-a-go-go-related protein 2, hERG-2, hERG2` ion channel?"
+    }
+  },
+  "Q9H3M0": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNF1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNF1` ion channel?"
+    }
+  },
+  "Q9NR82": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNQ5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNQ5` ion channel?"
+    }
+  },
+  "Q9NS40": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNH7 Alternative names: ERG-3, Eag-related protein 3, Ether-a-go-go-related protein 3, hERG-3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNH7 Alternative names: ERG-3, Eag-related protein 3, Ether-a-go-go-related protein 3, hERG-3` ion channel?"
+    }
+  },
+  "Q9NSA2": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCND1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCND1` ion channel?"
+    }
+  },
+  "Q9NZV8": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCND2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCND2` ion channel?"
+    }
+  },
+  "Q9UIX4": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNG1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNG1` ion channel?"
+    }
+  },
+  "Q9UJ96": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNG2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNG2` ion channel?"
+    }
+  },
+  "Q9UK17": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCND3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCND3` ion channel?"
+    }
+  },
+  "Q9ULD8": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNH3 Alternative names: BEC1, ELK channel 2, ELK2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNH3 Alternative names: BEC1, ELK channel 2, ELK2` ion channel?"
+    }
+  },
+  "Q9ULS6": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNS2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNS2` ion channel?"
+    }
+  },
+  "Q9UQ05": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNH4 Alternative names: ELK1, ELK channel 1, BEC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `KCNH4 Alternative names: ELK1, ELK channel 1, BEC2` ion channel?"
+    }
+  },
+  "Q14722": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNAB1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNAB1` ion channel?"
+    }
+  },
+  "Q13303": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNAB2 Alternative names: hKvbeta2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNAB2 Alternative names: hKvbeta2` ion channel?"
+    }
+  },
+  "O43448": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNAB3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNAB3` ion channel?"
+    }
+  },
+  "P35498": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN1A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN1A` ion channel?"
+    }
+  },
+  "P35499": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN4A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN4A` ion channel?"
+    }
+  },
+  "Q14524": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN5A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN5A` ion channel?"
+    }
+  },
+  "Q15858": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN9A Alternative names: hNE-Na, PN1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN9A Alternative names: hNE-Na, PN1` ion channel?"
+    }
+  },
+  "Q99250": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN2A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN2A` ion channel?"
+    }
+  },
+  "Q9NY46": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN3A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN3A` ion channel?"
+    }
+  },
+  "Q9UI33": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN11A Alternative names: PN5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN11A Alternative names: PN5` ion channel?"
+    }
+  },
+  "Q9UQD0": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN8A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN8A` ion channel?"
+    }
+  },
+  "Q9Y5Y9": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN10A Alternative names: PN3, hPN3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN10A Alternative names: PN3, hPN3` ion channel?"
+    }
+  },
+  "Q01118": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN7A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN7A` ion channel?"
+    }
+  },
+  "P21817": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `RYR1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, ligand-gated` as the gating mechanism for the `RYR1` ion channel?"
+    }
+  },
+  "Q15413": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `RYR3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, ligand-gated` as the gating mechanism for the `RYR3` ion channel?"
+    }
+  },
+  "Q92736": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `RYR2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, ligand-gated` as the gating mechanism for the `RYR2` ion channel?"
+    }
+  },
+  "Q8NHX9": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `TPCN2` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `TPCN2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `TPCN2` ion channel?"
+    }
+  },
+  "Q9ULQ1": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `TPCN1` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `TPCN1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `TPCN1` ion channel?"
+    }
+  },
+  "O75762": {
+    "query1": {
+      "text": "Is the `TRPA1 Alternative names: p120` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPA1 Alternative names: p120` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `TRPA1 Alternative names: p120` ion channel?"
+    }
+  },
+  "O94759": {
+    "query1": {
+      "text": "Is the `TRPM2 Alternative names: TrpC7, LTrpC-2, LTrpC2` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPM2 Alternative names: TrpC7, LTrpC-2, LTrpC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `TRPM2 Alternative names: TrpC7, LTrpC-2, LTrpC2` ion channel?"
+    }
+  },
+  "P48995": {
+    "query1": {
+      "text": "Is the `TRPC1 Alternative names: TRP-1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPC1 Alternative names: TRP-1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `TRPC1 Alternative names: TRP-1` ion channel?"
+    }
+  },
+  "Q13507": {
+    "query1": {
+      "text": "Is the `TRPC3 Alternative names: TRP-3, hTrp-3, hTrp3` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPC3 Alternative names: TRP-3, hTrp-3, hTrp3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `TRPC3 Alternative names: TRP-3, hTrp-3, hTrp3` ion channel?"
+    }
+  },
+  "P98161": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `PKD1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `PKD1` ion channel?"
+    }
+  },
+  "Q13563": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `PKD2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `PKD2` ion channel?"
+    }
+  },
+  "Q7Z2W7": {
+    "query1": {
+      "text": "Is the `TRPM8 Alternative names: Trp-p8, LTrpC-6, LTrpC6` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPM8 Alternative names: Trp-p8, LTrpC-6, LTrpC6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, temperature sensitive, pH sensitive` as the gating mechanism for the `TRPM8 Alternative names: Trp-p8, LTrpC-6, LTrpC6` ion channel?"
+    }
+  },
+  "Q7Z4N2": {
+    "query1": {
+      "text": "Is the `TRPM1 Alternative names: LTrpC1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPM1 Alternative names: LTrpC1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `TRPM1 Alternative names: LTrpC1` ion channel?"
+    }
+  },
+  "Q8IZK6": {
+    "query1": {
+      "text": "Is the `MCOLN2 Alternative names: TRPML2` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `MCOLN2 Alternative names: TRPML2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier), pH sensitive, mechanosensitive` as the gating mechanism for the `MCOLN2 Alternative names: TRPML2` ion channel?"
+    }
+  },
+  "Q8NER1": {
+    "query1": {
+      "text": "Is the `TRPV1 Alternative names: OTRPC1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPV1 Alternative names: OTRPC1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `TRPV1 Alternative names: OTRPC1` ion channel?"
+    }
+  },
+  "Q8NET8": {
+    "query1": {
+      "text": "Is the `TRPV3 Alternative names: VRL-3` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPV3 Alternative names: VRL-3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (outward rectifier), temperature-sensitive` as the gating mechanism for the `TRPV3 Alternative names: VRL-3` ion channel?"
+    }
+  },
+  "Q8TD43": {
+    "query1": {
+      "text": "Is the `TRPM4 Alternative names: LTrpC-4, LTrpC4` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPM4 Alternative names: LTrpC-4, LTrpC4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `TRPM4 Alternative names: LTrpC-4, LTrpC4` ion channel?"
+    }
+  },
+  "Q8TDD5": {
+    "query1": {
+      "text": "Is the `MCOLN3 Alternative names: TRPML3` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `MCOLN3 Alternative names: TRPML3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `MCOLN3 Alternative names: TRPML3` ion channel?"
+    }
+  },
+  "Q96QT4": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `TRPM7 Alternative names: LTrpC-7, LTrpC7` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `magnesium` is the ion selectivity of the `TRPM7 Alternative names: LTrpC-7, LTrpC7` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `TRPM7 Alternative names: LTrpC-7, LTrpC7` ion channel?"
+    }
+  },
+  "Q9BX84": {
+    "query1": {
+      "text": "Is the `TRPM6` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPM6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (outward rectifier)` as the gating mechanism for the `TRPM6` ion channel?"
+    }
+  },
+  "Q9GZU1": {
+    "query1": {
+      "text": "Is the `MCOLN1 Alternative names: TRPML1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `MCOLN1 Alternative names: TRPML1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated, pH-sensitive` as the gating mechanism for the `MCOLN1 Alternative names: TRPML1` ion channel?"
+    }
+  },
+  "Q9H1D0": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `TRPV6 Alternative names: CaT1, ECaC2, CaT-L` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `TRPV6 Alternative names: CaT1, ECaC2, CaT-L` ion channel?"
+    }
+  },
+  "Q9HBA0": {
+    "query1": {
+      "text": "Is the `TRPV4 Alternative names: VR-OAC, OTRPC4, TRP12, VRL-2` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPV4 Alternative names: VR-OAC, OTRPC4, TRP12, VRL-2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated, voltage-gated, mechanosensitive, temperature-sensitive` as the gating mechanism for the `TRPV4 Alternative names: VR-OAC, OTRPC4, TRP12, VRL-2` ion channel?"
+    }
+  },
+  "Q9HCX4": {
+    "query1": {
+      "text": "Is the `TRPC7 Alternative names: TRP-7, hTRP7` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPC7 Alternative names: TRP-7, hTRP7` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `TRPC7 Alternative names: TRP-7, hTRP7` ion channel?"
+    }
+  },
+  "Q9NQA5": {
+    "query1": {
+      "text": "Is the `TRPV5 Alternative names: OTRPC3, CaT2, ECaC, ECaC1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPV5 Alternative names: OTRPC3, CaT2, ECaC, ECaC1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, pH sensitive` as the gating mechanism for the `TRPV5 Alternative names: OTRPC3, CaT2, ECaC, ECaC1` ion channel?"
+    }
+  },
+  "Q9NZM6": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `PKD2L2` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `monovalent cation` is the ion selectivity of the `PKD2L2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (inward rectifier)` as the gating mechanism for the `PKD2L2` ion channel?"
+    }
+  },
+  "Q9NZQ8": {
+    "query1": {
+      "text": "Is the `TRPM5 Alternative names: LTrpC-5, LTrpC5` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPM5 Alternative names: LTrpC-5, LTrpC5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, ligand-gated` as the gating mechanism for the `TRPM5 Alternative names: LTrpC-5, LTrpC5` ion channel?"
+    }
+  },
+  "Q7Z443": {
+    "query1": {
+      "text": "Is there any evidence that `cations` is the ion selectivity of the `PKD1L3` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `protons` is the ion selectivity of the `PKD1L3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated, proton-gated` as the gating mechanism for the `PKD1L3` ion channel?"
+    }
+  },
+  "Q7Z442": {
+    "query1": {
+      "text": "Is the `PKD1L2` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `PKD1L2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `PKD1L2` ion channel?"
+    }
+  },
+  "Q9P0L9": {
+    "query1": {
+      "text": "Is the `PKD2L1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `PKD2L1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `PKD2L1` ion channel?"
+    }
+  },
+  "Q9UBN4": {
+    "query1": {
+      "text": "Is the `TRPC4 Alternative names: hTrp-4, hTrp4` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPC4 Alternative names: hTrp-4, hTrp4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `TRPC4 Alternative names: hTrp-4, hTrp4` ion channel?"
+    }
+  },
+  "Q9UL62": {
+    "query1": {
+      "text": "Is the `TRPC5 Alternative names: TRP-5, hTRP-5, hTRP5` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPC5 Alternative names: TRP-5, hTRP-5, hTRP5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `TRPC5 Alternative names: TRP-5, hTRP-5, hTRP5` ion channel?"
+    }
+  },
+  "Q9Y210": {
+    "query1": {
+      "text": "Is the `TRPC6 Alternative names: TRP-6` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPC6 Alternative names: TRP-6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `TRPC6 Alternative names: TRP-6` ion channel?"
+    }
+  },
+  "Q9Y5S1": {
+    "query1": {
+      "text": "Is the `TRPV2 Alternative names: VRL-1, OTRPC2` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TRPV2 Alternative names: VRL-1, OTRPC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (outward recitfier)` as the gating mechanism for the `TRPV2 Alternative names: VRL-1, OTRPC2` ion channel?"
+    }
+  },
+  "B7ZAQ6": {
+    "query1": {
+      "text": "Is there any evidence that `anion` is the ion selectivity of the `GPR89A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `GPR89A` ion channel?"
+    }
+  },
+  "P0CG08": {
+    "query1": {
+      "text": "Is there any evidence that `anion` is the ion selectivity of the `GPR89B` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `GPR89B` ion channel?"
+    }
+  },
+  "Q5VT99": {
+    "query1": {
+      "text": "Is there any evidence that `Potassium` is the ion selectivity of the `LRRC38` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `LRRC38` ion channel?"
+    }
+  },
+  "Q6ZSA7": {
+    "query1": {
+      "text": "Is there any evidence that `Potassium` is the ion selectivity of the `LRRC55` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `LRRC55` ion channel?"
+    }
+  },
+  "Q9Y342": {
+    "query1": {
+      "text": "Is there any evidence that `Potassium (probable)` is the ion selectivity of the `PLLP` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `probable voltage-gated` as the gating mechanism for the `PLLP` ion channel?"
+    }
+  },
+  "Q8NFU0": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `BEST4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `BEST4` ion channel?"
+    }
+  },
+  "Q8TDI8": {
+    "query1": {
+      "text": "Is the `TMC1` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation (probable)` is the ion selectivity of the `TMC1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive, voltage-gated` as the gating mechanism for the `TMC1` ion channel?"
+    }
+  },
+  "Q8TDI7": {
+    "query1": {
+      "text": "Is the `TMC2` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation (probable)` is the ion selectivity of the `TMC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive, voltage-gated` as the gating mechanism for the `TMC2` ion channel?"
+    }
+  },
+  "Q7Z5M5": {
+    "query1": {
+      "text": "Is the `TMC3` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation (probable)` is the ion selectivity of the `TMC3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `TMC3` ion channel?"
+    }
+  },
+  "Q7Z404": {
+    "query1": {
+      "text": "Is the `TMC4` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation (probable)` is the ion selectivity of the `TMC4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `TMC4` ion channel?"
+    }
+  },
+  "Q6UXY8": {
+    "query1": {
+      "text": "Is the `TMC5` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation (probable)` is the ion selectivity of the `TMC5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `TMC5` ion channel?"
+    }
+  },
+  "Q7Z403": {
+    "query1": {
+      "text": "Is the `TMC6` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation (probable)` is the ion selectivity of the `TMC6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `TMC6` ion channel?"
+    }
+  },
+  "Q7Z402": {
+    "query1": {
+      "text": "Is the `TMC7` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation (probable)` is the ion selectivity of the `TMC7` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `TMC7` ion channel?"
+    }
+  },
+  "Q8IU68": {
+    "query1": {
+      "text": "Is the `TMC8` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation (probable)` is the ion selectivity of the `TMC8` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `TMC8` ion channel?"
+    }
+  },
+  "Q9NVV0": {
+    "query1": {
+      "text": "Is there any evidence that `Potassium` is the ion selectivity of the `TMEM38B` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `TMEM38B` ion channel?"
+    }
+  },
+  "O94886": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `TMEM63A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `TMEM63A` ion channel?"
+    }
+  },
+  "Q5T3F8": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `TMEM63B` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `mechanosensitive` as the gating mechanism for the `TMEM63B` ion channel?"
+    }
+  },
+  "Q9H313": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `TTYH1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `volume-gated` as the gating mechanism for the `TTYH1` ion channel?"
+    }
+  },
+  "Q9BSA4": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `TTYH2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `volume-gated` as the gating mechanism for the `TTYH2` ion channel?"
+    }
+  },
+  "P15382": {
+    "query1": {
+      "text": "Is there any evidence that `Potassium` is the ion selectivity of the `KCNE1 Alternative names: MinK` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNE1 Alternative names: MinK` ion channel?"
+    }
+  },
+  "Q9Y6J6": {
+    "query1": {
+      "text": "Is there any evidence that `Potassium` is the ion selectivity of the `KCNE2 Alternative names: MiRP1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNE2 Alternative names: MiRP1` ion channel?"
+    }
+  },
+  "Q9Y6H6": {
+    "query1": {
+      "text": "Is there any evidence that `Potassium` is the ion selectivity of the `KCNE3 Alternative names: MiRP2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNE3 Alternative names: MiRP2` ion channel?"
+    }
+  },
+  "Q8WWG9": {
+    "query1": {
+      "text": "Is there any evidence that `Potassium` is the ion selectivity of the `KCNE4 Alternative names: MiRP3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNE4 Alternative names: MiRP3` ion channel?"
+    }
+  },
+  "Q9UJ90": {
+    "query1": {
+      "text": "Is there any evidence that `Potassium` is the ion selectivity of the `KCNE5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNE5` ion channel?"
+    }
+  },
+  "Q8IZF0": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `NALCN` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `NALCN` ion channel?"
+    }
+  },
+  "B1AL88": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `NALF1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `NALF1` ion channel?"
+    }
+  },
+  "O75949": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `NALF2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `NALF2` ion channel?"
+    }
+  },
+  "Q9P2D8": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `UNC79` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `UNC79` ion channel?"
+    }
+  },
+  "Q8N2C7": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `UNC80` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `UNC80` ion channel?"
+    }
+  },
+  "P42658": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `DPP6 Alternative names: DPP VI` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `DPP6 Alternative names: DPP VI` ion channel?"
+    }
+  },
+  "Q8N608": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `DPP10 Alternative names: DPL2, DPRP-3, DPP X` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `DPP10 Alternative names: DPL2, DPRP-3, DPP X` ion channel?"
+    }
+  },
+  "Q99469": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `STAC` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `STAC` ion channel?"
+    }
+  },
+  "Q6ZMT1": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `STAC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `STAC2` ion channel?"
+    }
+  },
+  "Q96MF2": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `STAC3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `STAC3` ion channel?"
+    }
+  },
+  "Q9NZI2": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNIP1 Alternative names: KChIP1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNIP1 Alternative names: KChIP1` ion channel?"
+    }
+  },
+  "Q9NS61": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNIP2 Alternative names: KChIP2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNIP2 Alternative names: KChIP2` ion channel?"
+    }
+  },
+  "Q9Y2W7": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNIP3 Alternative names: DREAM, KChIP3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNIP3 Alternative names: DREAM, KChIP3` ion channel?"
+    }
+  },
+  "Q6PIL6": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `KCNIP4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `KCNIP4` ion channel?"
+    }
+  },
+  "Q13586": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `STIM1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (auxiliary)` as the gating mechanism for the `STIM1` ion channel?"
+    }
+  },
+  "Q9P246": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `STIM2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (auxiliary)` as the gating mechanism for the `STIM2` ion channel?"
+    }
+  },
+  "Q6PI25": {
+    "query1": {
+      "text": "Is there any evidence that `non-specific cation` is the ion selectivity of the `CNIH2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CNIH2` ion channel?"
+    }
+  },
+  "Q8TBE1": {
+    "query1": {
+      "text": "Is there any evidence that `non-specific cation` is the ion selectivity of the `CNIH3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CNIH3` ion channel?"
+    }
+  },
+  "Q12879": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GRIN2A Alternative names: NMDAR2A, NR2A, hNR2A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated` as the gating mechanism for the `GRIN2A Alternative names: NMDAR2A, NR2A, hNR2A` ion channel?"
+    }
+  },
+  "Q6UXU4": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `GSG1L` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `GSG1L` ion channel?"
+    }
+  },
+  "Q99946": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `PRRT1 Alternative names: DSPD1, SynDIG4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `PRRT1 Alternative names: DSPD1, SynDIG4` ion channel?"
+    }
+  },
+  "Q7Z6L0": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `PRRT2 Alternative names: DSPB3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `PRRT2 Alternative names: DSPB3` ion channel?"
+    }
+  },
+  "Q9NZU7": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CABP1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CABP1` ion channel?"
+    }
+  },
+  "Q9NPB3": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CABP2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CABP2` ion channel?"
+    }
+  },
+  "Q9NP86": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CABP5` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CABP5` ion channel?"
+    }
+  },
+  "P57796": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CABP4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CABP4` ion channel?"
+    }
+  },
+  "Q9C0H2": {
+    "query1": {
+      "text": "Is the `TTYH3` non-selective in terms of ion selectivity?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `non-selective cation` is the ion selectivity of the `TTYH3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `TTYH3` ion channel?"
+    }
+  },
+  "Q7LBE3": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `SLC26A9` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SLC26A9` ion channel?"
+    }
+  },
+  "Q8NFU1": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `BEST2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `BEST2` ion channel?"
+    }
+  },
+  "O76090": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `BEST1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `BEST1` ion channel?"
+    }
+  },
+  "Q8N1M1": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `BEST3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (calcium)` as the gating mechanism for the `BEST3` ion channel?"
+    }
+  },
+  "Q9HCF6": {
+    "query1": {
+      "text": "Is there any evidence that `calium` is the ion selectivity of the `TRPM3 Alternative names: LTrpC-3, LTrpC3, MLSN2` ion channel?"
+    },
+    "query1_2": {
+      "text": "Is there any evidence that `zinc` is the ion selectivity of the `TRPM3 Alternative names: LTrpC-3, LTrpC3, MLSN2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `volume-gated, temperature sensitive` as the gating mechanism for the `TRPM3 Alternative names: LTrpC-3, LTrpC3, MLSN2` ion channel?"
+    }
+  },
+  "Q9BXS9": {
+    "query1": {
+      "text": "Is there any evidence that `anion` is the ion selectivity of the `SLC26A6 Alternative names: Pendrin-L1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SLC26A6 Alternative names: Pendrin-L1` ion channel?"
+    }
+  },
+  "Q9H6F2": {
+    "query1": {
+      "text": "Is there any evidence that `cation` is the ion selectivity of the `TMEM38A` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `TMEM38A` ion channel?"
+    }
+  },
+  "O00305": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNB4` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNB4` ion channel?"
+    }
+  },
+  "O60939": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN2B` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `SCN2B` ion channel?"
+    }
+  },
+  "P04839": {
+    "query1": {
+      "text": "Is there any evidence that `proton` is the ion selectivity of the `CYBB Alternative names: Cytochrome b558 subunit beta` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CYBB Alternative names: Cytochrome b558 subunit beta` ion channel?"
+    }
+  },
+  "P54284": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNB3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNB3` ion channel?"
+    }
+  },
+  "Q02641": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNB1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNB1` ion channel?"
+    }
+  },
+  "Q07699": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN1B` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `SCN1B` ion channel?"
+    }
+  },
+  "Q08289": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `CACNB2 Alternative names: MYSB` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `CACNB2 Alternative names: MYSB` ion channel?"
+    }
+  },
+  "Q15049": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `MLC1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `MLC1` ion channel?"
+    }
+  },
+  "Q2I0M4": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `LRRC26` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `LRRC26` ion channel?"
+    }
+  },
+  "Q8IWT1": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN4B` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `SCN4B` ion channel?"
+    }
+  },
+  "Q8N7C0": {
+    "query1": {
+      "text": "Is there any evidence that `potassium` is the ion selectivity of the `LRRC52` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `LRRC52` ion channel?"
+    }
+  },
+  "Q8NE86": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `MCU` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `MICU-mediated gating` as the gating mechanism for the `MCU` ion channel?"
+    }
+  },
+  "Q8TDX9": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `PKD1L1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (auxiliary)` as the gating mechanism for the `PKD1L1` ion channel?"
+    }
+  },
+  "Q8WXS4": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `TMEM37` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `probable voltage-gated (auxiliary)` as the gating mechanism for the `TMEM37` ion channel?"
+    }
+  },
+  "Q96S66": {
+    "query1": {
+      "text": "Is there any evidence that `chloride` is the ion selectivity of the `CLCC1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `CLCC1` ion channel?"
+    }
+  },
+  "Q9NY72": {
+    "query1": {
+      "text": "Is there any evidence that `sodium` is the ion selectivity of the `SCN3B` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated` as the gating mechanism for the `SCN3B` ion channel?"
+    }
+  },
+  "Q9P1W3": {
+    "query1": {
+      "text": "Is there any evidence that `non-specific cation` is the ion selectivity of the `TMEM63C` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `stress-gated` as the gating mechanism for the `TMEM63C` ion channel?"
+    }
+  },
+  "Q9H7V2": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `SYNDIG1 Alternative names: DSPC2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (auxiliary)` as the gating mechanism for the `SYNDIG1 Alternative names: DSPC2` ion channel?"
+    }
+  },
+  "B4DS77": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `SHISA9` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (auxiliary)` as the gating mechanism for the `SHISA9` ion channel?"
+    }
+  },
+  "Q6ZSJ9": {
+    "query1": {
+      "text": "Is there any evidence that `calcium` is the ion selectivity of the `SHISA6` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `ligand-gated (auxiliary)` as the gating mechanism for the `SHISA6` ion channel?"
+    }
+  },
+  "Q9H813": {
+    "query1": {
+      "text": "Is there any evidence that `anion` is the ion selectivity of the `PACC1 Alternative names: PAORAC, ASOR, hTMEM206` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `voltage-gated (outward rectifier)` as the gating mechanism for the `PACC1 Alternative names: PAORAC, ASOR, hTMEM206` ion channel?"
+    }
+  },
+  "Q7RTM1": {
+    "query1": {
+      "text": "Is there any evidence that `proton` is the ion selectivity of the `OTOP1 Alternative names: hOtop1` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `proton-gated` as the gating mechanism for the `OTOP1 Alternative names: hOtop1` ion channel?"
+    }
+  },
+  "Q7RTS6": {
+    "query1": {
+      "text": "Is there any evidence that `proton` is the ion selectivity of the `OTOP2` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `proton-gated` as the gating mechanism for the `OTOP2` ion channel?"
+    }
+  },
+  "Q7RTS5": {
+    "query1": {
+      "text": "Is there any evidence that `proton` is the ion selectivity of the `OTOP3` ion channel?"
+    },
+    "query2": {
+      "text": "Does this article provide evidence for `proton-gated` as the gating mechanism for the `OTOP3` ion channel?"
+    }
+  }
+}
