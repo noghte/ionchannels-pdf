@@ -58,7 +58,7 @@ df = pd.read_csv(csv_path)
 
 # Extract the list of UniProt IDs from the DataFrame
 uniprot_ids = df['Uniprot'].dropna().unique()
-
+uniprot_ids = ["Q8CFW1"]
 # Get alternative names using the SPARQL endpoint
 alternative_names_dict = get_alternative_names_sparql(uniprot_ids)
 
