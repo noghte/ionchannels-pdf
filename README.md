@@ -45,3 +45,8 @@ graph TD
     style J fill:#bfb,stroke:#333,stroke-width:2px
     style L fill:#ffb,stroke:#333,stroke-width:2px
 ```
+
+## Results
+
+Results are aviable in `./results` directory. 
+The aggregated results: `./results/results-all-model_gpt-4o.json`.
