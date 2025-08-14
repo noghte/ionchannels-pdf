@@ -170,7 +170,7 @@ snowballstemmer==2.2.0
 soupsieve==2.6
 SQLAlchemy==2.0.32
 stack-data==0.6.3
-starlette==0.38.2
+starlette==0.47.2
 sympy==1.13.2
 tenacity==8.5.0
 termcolor==2.4.0
