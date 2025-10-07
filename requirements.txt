@@ -71,7 +71,7 @@ langchain==0.2.14
 langchain-community==0.2.12
 langchain-core==0.2.34
 langchain-openai==0.1.22
-langchain-text-splitters==0.2.2
+langchain-text-splitters==1.0.0a1
 langsmith==0.1.101
 lightgbm==4.5.0
 loguru==0.7.2
