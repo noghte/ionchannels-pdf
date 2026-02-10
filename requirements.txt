@@ -78,7 +78,7 @@ loguru==0.7.2
 markdown-it-py==3.0.0
 markdownify==0.13.1
 MarkupSafe==2.1.5
-marshmallow==3.22.0
+marshmallow==3.26.2
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 mmh3==4.1.0
